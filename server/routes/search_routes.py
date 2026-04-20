@@ -1,5 +1,6 @@
-from fastapi import APIRouter, Depends, Body
+from fastapi import APIRouter, Depends, Body, Header
 from controllers.search_controller import search_controller
+from utility.security import get_token_from_header, verify_jwt_token
 from pydantic import BaseModel
 
 
@@ -68,9 +69,15 @@ async def auto_complete(search_request: SearchRequest = Body(...)):
         return await search_controller.auto_complete(search_request.query.strip(), filters)
 
 @router.post('/index')
-async def index_book(document: IndexRequest = Body(...)):
+async def index_book(document: IndexRequest = Body(...), authorization: str = Header(None)):
+    # Verify token
+    token = get_token_from_header(authorization)
+    verify_jwt_token(token)
     return await search_controller.index_book(document.document)
 
 @router.post('/bulk-index')
-async def bulk_index(bulk_request: BulkRequest = Body(...)):
+async def bulk_index(bulk_request: BulkRequest = Body(...), authorization: str = Header(None)):
+    # Verify token
+    token = get_token_from_header(authorization)
+    verify_jwt_token(token)
     return await search_controller.index_books_bulk(bulk_request.documents)
