@@ -76,30 +76,23 @@ function BookIconLarge() {
   );
 }
 
-function Navbar() {
+function Navbar({ onAddClick }) {
   return (
     <nav className="navbar">
       <div className="navbar-inner">
         <div className="navbar-brand">
-          <div className="brand-icon">
-            <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
-              <defs>
-                <linearGradient id="navGrad" x1="0" y1="0" x2="32" y2="32">
-                  <stop stopColor="#7c3aed" />
-                  <stop offset="1" stopColor="#4f46e5" />
-                </linearGradient>
-              </defs>
-              <rect width="32" height="32" rx="8" fill="url(#navGrad)" />
-              <path d="M8 24V10l6-3 6 3 6-3v14l-6 3-6-3-6 3z" stroke="white" strokeWidth="1.5" fill="none" strokeLinejoin="round" />
-              <path d="M14 7v14M20 10v14" stroke="white" strokeWidth="1.5" strokeLinecap="round" />
-            </svg>
-          </div>
+          <div className="brand-icon">...</div>
           <span className="brand-name">Inverto</span>
         </div>
+
         <div className="navbar-links">
           <a href="#">Explore</a>
           <a href="#">Collections</a>
           <a href="#">About</a>
+
+          <button className="add-book-btn" onClick={onAddClick}>
+            + Add Book
+          </button>
         </div>
       </div>
     </nav>
@@ -243,6 +236,20 @@ function App() {
   const debounceRef = useRef(null);
   const searchRef = useRef(null);
   const detailRef = useRef(null);
+  const [showAddModal, setShowAddModal] = useState(false);
+  const [newBook, setNewBook] = useState({
+    title: "",
+    description: "",
+    publisher: "",
+    publication_year: "",
+    edition: "",
+    language: "",
+    authors: "",
+    categories: "",
+    tags: "",
+    pages: "",
+    isbn: ""
+  });
 
   useEffect(() => {
     const t = setTimeout(() => setHeroVisible(true), 100);
@@ -381,13 +388,46 @@ function App() {
     setLoading(false);
   };
 
+  const handleAddBook = async () => {
+      try {
+        const payload = {
+          ...newBook,
+          id: Math.floor(Math.random() * 100000), // if required
+          authors: newBook.authors.split(",").map(a => a.trim()),
+          categories: newBook.categories.split(",").map(c => c.trim()),
+          tags: newBook.tags ? newBook.tags.split(",").map(t => t.trim()) : [],
+          publication_year: newBook.publication_year
+            ? Number(newBook.publication_year)
+            : null,
+          pages: newBook.pages ? Number(newBook.pages) : null
+        };
+
+        console.log("Sending:", payload);
+
+        const res = await axios.post(
+          "http://localhost:8000/api/book/create-book",
+          payload
+        );
+
+        console.log("Response:", res.data);
+
+        alert("Book added successfully!");
+
+        setShowAddModal(false);
+
+      } catch (err) {
+        console.error(err);
+        alert("Error adding book");
+      }
+    };
+
   return (
     <div className="app">
       <div className="bg-glow glow-1" />
       <div className="bg-glow glow-2" />
       <div className="bg-glow glow-3" />
 
-      <Navbar />
+      <Navbar onAddClick={() => setShowAddModal(true)} />
 
       <main className="main-content">
         <div className={`hero ${heroVisible ? "hero-visible" : ""}`}>
@@ -474,6 +514,126 @@ function App() {
               ))}
             </div>
             <p className="empty-hint">Start typing to search the library catalogue</p>
+          </div>
+        )}
+
+        {showAddModal && (
+          <div className="modal-overlay">
+            <div className="modal-container">
+
+              {/* HEADER */}
+              <div className="modal-header">
+                <div>
+                  <h2>Add New Book</h2>
+                  <p>Fill in details to add a new book</p>
+                </div>
+                <button onClick={() => setShowAddModal(false)}>✕</button>
+              </div>
+
+              {/* FORM */}
+              <div className="modal-form">
+
+                <div className="form-group">
+                  <label>Title</label>
+                  <input placeholder="Enter book title"
+                    onChange={(e) => setNewBook({...newBook, title: e.target.value})}
+                  />
+                </div>
+
+                <div className="form-group">
+                  <label>Description</label>
+                  <textarea placeholder="Enter description"
+                    onChange={(e) => setNewBook({...newBook, description: e.target.value})}
+                  />
+                </div>
+
+                <div className="form-row">
+                  <div className="form-group">
+                    <label>Publisher</label>
+                    <input
+                      onChange={(e) => setNewBook({...newBook, publisher: e.target.value})}
+                    />
+                  </div>
+
+                  <div className="form-group">
+                    <label>Year</label>
+                    <input type="number"
+                      onChange={(e) => setNewBook({...newBook, publication_year: e.target.value})}
+                    />
+                  </div>
+
+                  <div className="form-group">
+                    <label>Edition</label>
+                    <input
+                      onChange={(e) => setNewBook({...newBook, edition: e.target.value})}
+                    />
+                  </div>
+                </div>
+
+                <div className="form-row">
+                  <div className="form-group">
+                    <label>Language</label>
+                    <input
+                      onChange={(e) => setNewBook({...newBook, language: e.target.value})}
+                    />
+                  </div>
+
+                  <div className="form-group">
+                    <label>Pages</label>
+                    <input type="number"
+                      onChange={(e) => setNewBook({...newBook, pages: e.target.value})}
+                    />
+                  </div>
+                </div>
+
+                <div className="form-group">
+                  <label>ISBN</label>
+                  <input
+                    onChange={(e) => setNewBook({...newBook, isbn: e.target.value})}
+                  />
+                </div>
+
+                <div className="form-row">
+                  <div className="form-group">
+                    <label>Authors</label>
+                    <input placeholder="comma separated"
+                      onChange={(e) => setNewBook({...newBook, authors: e.target.value})}
+                    />
+                  </div>
+
+                  <div className="form-group">
+                    <label>Categories</label>
+                    <input placeholder="comma separated"
+                      onChange={(e) => setNewBook({...newBook, categories: e.target.value})}
+                    />
+                  </div>
+                </div>
+
+                <div className="form-group">
+                  <label>Tags</label>
+                  <input placeholder="comma separated"
+                    onChange={(e) => setNewBook({...newBook, tags: e.target.value})}
+                  />
+                </div>
+
+              </div>
+
+              {/* ACTIONS */}
+              <div className="modal-actions">
+                <button className="btn cancel" onClick={() => setShowAddModal(false)}>
+                  Cancel
+                </button>
+
+                <button
+                  className="btn primary"
+                  onClick={
+                    handleAddBook
+                  }
+                >
+                  Add Book
+                </button>
+              </div>
+            </div>
           </div>
         )}
       </main>
