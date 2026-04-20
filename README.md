@@ -185,7 +185,7 @@ Search behavior combines multiple strategies:
 The Elasticsearch index mapping includes:
 - Custom analyzers (`standard_lower`, `ngram_analyzer`, `name_analyzer`)
 - Normalizers for lowercase/ascii folding
-- Multi-field mappings for flexible retrieval and boosting
+- Multi-field mappings for flexible retrieval and boosting.
 
 ---
 
