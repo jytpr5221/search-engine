@@ -70,6 +70,8 @@ class BookController:
                 
 
     async def get_book(self, book_id: int):
+
+        print(book_id)
         try:
             query = "SELECT * FROM books WHERE id = $1"
             result = await self.db.query(query, book_id)
