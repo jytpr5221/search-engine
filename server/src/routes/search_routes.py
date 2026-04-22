@@ -1,21 +1,8 @@
 from fastapi import APIRouter, Depends, Body
-from controllers.search_controller import search_controller
+from src.controllers.search_controller import search_controller
+from src.controllers.filter_controller import filter_controller
 from pydantic import BaseModel
 
-
-class BookDocument(BaseModel):
-    id: int | None
-    title: str
-    authors: list
-    publisher: str
-    publication_year: int
-    isbn: str
-    description: str
-    tags: list
-    categories: list
-    edition: str
-    pages: int
-    language: str
 
 class SearchFilters(BaseModel):
     publisher: str | None = None
@@ -29,12 +16,6 @@ class SearchFilters(BaseModel):
 class SearchRequest(BaseModel):
     query: str
     filters: SearchFilters | None = None
-
-class IndexRequest(BaseModel):
-    document: BookDocument
-
-class BulkRequest(BaseModel):
-    documents: list[BookDocument]
 
 router = APIRouter()
 
@@ -67,10 +48,7 @@ async def auto_complete(search_request: SearchRequest = Body(...)):
         }
         return await search_controller.auto_complete(search_request.query.strip(), filters)
 
-@router.post('/index')
-async def index_book(document: IndexRequest = Body(...)):
-    return await search_controller.index_book(document.document)
-
-@router.post('/bulk-index')
-async def bulk_index(bulk_request: BulkRequest = Body(...)):
-    return await search_controller.index_books_bulk(bulk_request.documents)
+@router.get("/filters/options")
+async def get_filter_options():
+    """Get all available filter options (authors, publishers, categories, languages)"""
+    return await filter_controller.get_filter_options()

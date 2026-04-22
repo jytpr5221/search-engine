@@ -2,11 +2,12 @@ from fastapi import FastAPI
 import uvicorn
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
-from routes.search_routes import router as search_router
-from routes.book_routes import router as book_router
-from configs.db_config import postgres_db, search_db
+from src.routes.search_routes import router as search_router
+from src.routes.book_routes import router as book_router
+from src.configs.db_config import search_db
 import logging
-from controllers.search_controller import search_controller 
+from src.controllers.search_controller import search_controller 
+from src.utility.cron_job import start_cronjob, stop_cronjob
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -15,10 +16,11 @@ async def lifespan(app: FastAPI):
     # await postgres_db.connect()
     await search_db.connect()
     await search_controller.init_index()
+    start_cronjob(app, search_controller)
     
     yield
     
-    await postgres_db.close()
+    stop_cronjob(app)
     await search_db.close()
 
 app = FastAPI(lifespan=lifespan)

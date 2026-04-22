@@ -94,9 +94,13 @@ class SearchDB(DB):
         actions = []
 
         for doc in documents:
+            # Handle both dicts and Pydantic models
+            doc_id = doc.get("id") if isinstance(doc, dict) else doc.id
+            doc_data = doc if isinstance(doc, dict) else doc.model_dump(exclude_none=True)
+            
             pair = (
-                {"index": {"_index": index, "_id": doc.id}},
-                doc.model_dump(exclude_none=True)
+                {"index": {"_index": index, "_id": doc_id}},
+                doc_data
             )
 
             for item in pair:
@@ -120,5 +124,5 @@ class SearchDB(DB):
         )
     
 
-postgres_db = PostgresDB(os.getenv("POSTGRESS_DB_URI"))
+# postgres_db = PostgresDB(os.getenv("POSTGRESS_DB_URI"))
 search_db = SearchDB(os.getenv("ELASTICSEARCH_URI"))

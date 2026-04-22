@@ -21,7 +21,8 @@
       "python"
     ],
     "pages": 636,
-    "isbn": "9780000000001"
+    "isbn": "9780000000001",
+    "state": "completed"
   },
   {
     "id": 2,
@@ -44,7 +45,8 @@
       "hive"
     ],
     "pages": 744,
-    "isbn": "9780000000002"
+    "isbn": "9780000000002",
+    "state": "completed"
   },
   {
     "id": 3,
@@ -68,7 +70,8 @@
       "sqs"
     ],
     "pages": 650,
-    "isbn": "9780000000003"
+    "isbn": "9780000000003",
+    "state": "completed"
   },
   {
     "id": 4,
@@ -92,7 +95,8 @@
       "kustomize"
     ],
     "pages": 431,
-    "isbn": "9780000000004"
+    "isbn": "9780000000004",
+    "state": "completed"
   },
   {
     "id": 5,
@@ -115,7 +119,8 @@
       "graphql"
     ],
     "pages": 613,
-    "isbn": "9780000000005"
+    "isbn": "9780000000005",
+    "state": "completed"
   },
   {
     "id": 6,
@@ -139,7 +144,8 @@
       "docker"
     ],
     "pages": 315,
-    "isbn": "9780000000006"
+    "isbn": "9780000000006",
+    "state": "completed"
   },
   {
     "id": 7,
@@ -163,7 +169,8 @@
       "smart-contracts"
     ],
     "pages": 420,
-    "isbn": "9780000000007"
+    "isbn": "9780000000007",
+    "state": "completed"
   },
   {
     "id": 8,
@@ -186,7 +193,8 @@
       "harbor"
     ],
     "pages": 777,
-    "isbn": "9780000000008"
+    "isbn": "9780000000008",
+    "state": "completed"
   },
   {
     "id": 9,
@@ -208,7 +216,8 @@
       "angular"
     ],
     "pages": 767,
-    "isbn": "9780000000009"
+    "isbn": "9780000000009",
+    "state": "completed"
   },
   {
     "id": 10,
@@ -230,7 +239,8 @@
       "kustomize"
     ],
     "pages": 513,
-    "isbn": "9780000000010"
+    "isbn": "9780000000010",
+    "state": "completed"
   },
   {
     "id": 11,
@@ -254,7 +264,8 @@
       "datadog"
     ],
     "pages": 680,
-    "isbn": "9780000000011"
+    "isbn": "9780000000011",
+    "state": "completed"
   },
   {
     "id": 12,
@@ -278,7 +289,8 @@
       "hadoop"
     ],
     "pages": 764,
-    "isbn": "9780000000012"
+    "isbn": "9780000000012",
+    "state": "completed"
   },
   {
     "id": 13,
@@ -303,7 +315,8 @@
       "splunk"
     ],
     "pages": 595,
-    "isbn": "9780000000013"
+    "isbn": "9780000000013",
+    "state": "completed"
   },
   {
     "id": 14,
@@ -328,7 +341,8 @@
       "chef"
     ],
     "pages": 578,
-    "isbn": "9780000000014"
+    "isbn": "9780000000014",
+    "state": "completed"
   },
   {
     "id": 15,
@@ -352,7 +366,8 @@
       "pub-sub"
     ],
     "pages": 793,
-    "isbn": "9780000000015"
+    "isbn": "9780000000015",
+    "state": "completed"
   },
   {
     "id": 16,
@@ -375,7 +390,8 @@
       "eslint"
     ],
     "pages": 693,
-    "isbn": "9780000000016"
+    "isbn": "9780000000016",
+    "state": "completed"
   },
   {
     "id": 17,
@@ -396,7 +412,8 @@
       "docker"
     ],
     "pages": 579,
-    "isbn": "9780000000017"
+    "isbn": "9780000000017",
+    "state": "completed"
   },
   {
     "id": 18,
@@ -419,7 +436,8 @@
       "caching"
     ],
     "pages": 695,
-    "isbn": "9780000000018"
+    "isbn": "9780000000018",
+    "state": "completed"
   },
   {
     "id": 19,
@@ -442,7 +460,8 @@
       "envoy"
     ],
     "pages": 621,
-    "isbn": "9780000000019"
+    "isbn": "9780000000019",
+    "state": "completed"
   },
   {
     "id": 20,
@@ -463,7 +482,8 @@
       "linux"
     ],
     "pages": 338,
-    "isbn": "9780000000020"
+    "isbn": "9780000000020",
+    "state": "completed"
   },
   {
     "id": 21,
@@ -485,7 +505,8 @@
       "react"
     ],
     "pages": 461,
-    "isbn": "9780000000021"
+    "isbn": "9780000000021",
+    "state": "completed"
   },
   {
     "id": 22,
@@ -509,7 +530,8 @@
       "chef"
     ],
     "pages": 250,
-    "isbn": "9780000000022"
+    "isbn": "9780000000022",
+    "state": "completed"
   },
   {
     "id": 23,
@@ -533,7 +555,8 @@
       "hadoop"
     ],
     "pages": 438,
-    "isbn": "9780000000023"
+    "isbn": "9780000000023",
+    "state": "completed"
   },
   {
     "id": 24,
@@ -558,7 +581,8 @@
       "rabbitmq"
     ],
     "pages": 415,
-    "isbn": "9780000000024"
+    "isbn": "9780000000024",
+    "state": "completed"
   },
   {
     "id": 25,
@@ -580,7 +604,8 @@
       "sql"
     ],
     "pages": 781,
-    "isbn": "9780000000025"
+    "isbn": "9780000000025",
+    "state": "completed"
   },
   {
     "id": 26,
@@ -603,7 +628,8 @@
       "flutter"
     ],
     "pages": 646,
-    "isbn": "9780000000026"
+    "isbn": "9780000000026",
+    "state": "completed"
   },
   {
     "id": 27,
@@ -626,7 +652,8 @@
       "opencv"
     ],
     "pages": 304,
-    "isbn": "9780000000027"
+    "isbn": "9780000000027",
+    "state": "completed"
   },
   {
     "id": 28,
@@ -648,7 +675,8 @@
       "angular"
     ],
     "pages": 407,
-    "isbn": "9780000000028"
+    "isbn": "9780000000028",
+    "state": "completed"
   },
   {
     "id": 29,
@@ -671,7 +699,8 @@
       "react"
     ],
     "pages": 281,
-    "isbn": "9780000000029"
+    "isbn": "9780000000029",
+    "state": "completed"
   },
   {
     "id": 30,
@@ -696,7 +725,8 @@
       "performance"
     ],
     "pages": 389,
-    "isbn": "9780000000030"
+    "isbn": "9780000000030",
+    "state": "completed"
   },
   {
     "id": 31,
@@ -720,7 +750,8 @@
       "splunk"
     ],
     "pages": 740,
-    "isbn": "9780000000031"
+    "isbn": "9780000000031",
+    "state": "completed"
   },
   {
     "id": 32,
@@ -741,7 +772,8 @@
       "numpy"
     ],
     "pages": 681,
-    "isbn": "9780000000032"
+    "isbn": "9780000000032",
+    "state": "completed"
   },
   {
     "id": 33,
@@ -764,7 +796,8 @@
       "nosql"
     ],
     "pages": 742,
-    "isbn": "9780000000033"
+    "isbn": "9780000000033",
+    "state": "completed"
   },
   {
     "id": 34,
@@ -787,7 +820,8 @@
       "prometheus"
     ],
     "pages": 747,
-    "isbn": "9780000000034"
+    "isbn": "9780000000034",
+    "state": "completed"
   },
   {
     "id": 35,
@@ -810,7 +844,8 @@
       "sharding"
     ],
     "pages": 585,
-    "isbn": "9780000000035"
+    "isbn": "9780000000035",
+    "state": "completed"
   },
   {
     "id": 36,
@@ -833,7 +868,8 @@
       "git"
     ],
     "pages": 730,
-    "isbn": "9780000000036"
+    "isbn": "9780000000036",
+    "state": "completed"
   },
   {
     "id": 37,
@@ -854,7 +890,8 @@
       "git"
     ],
     "pages": 747,
-    "isbn": "9780000000037"
+    "isbn": "9780000000037",
+    "state": "completed"
   },
   {
     "id": 38,
@@ -877,7 +914,8 @@
       "sonarqube"
     ],
     "pages": 513,
-    "isbn": "9780000000038"
+    "isbn": "9780000000038",
+    "state": "completed"
   },
   {
     "id": 39,
@@ -899,7 +937,8 @@
       "spark"
     ],
     "pages": 590,
-    "isbn": "9780000000039"
+    "isbn": "9780000000039",
+    "state": "completed"
   },
   {
     "id": 40,
@@ -923,7 +962,8 @@
       "vault"
     ],
     "pages": 285,
-    "isbn": "9780000000040"
+    "isbn": "9780000000040",
+    "state": "completed"
   },
   {
     "id": 41,
@@ -947,7 +987,8 @@
       "event-driven"
     ],
     "pages": 331,
-    "isbn": "9780000000041"
+    "isbn": "9780000000041",
+    "state": "completed"
   },
   {
     "id": 42,
@@ -969,7 +1010,8 @@
       "event-driven"
     ],
     "pages": 547,
-    "isbn": "9780000000042"
+    "isbn": "9780000000042",
+    "state": "completed"
   },
   {
     "id": 43,
@@ -992,7 +1034,8 @@
       "flink"
     ],
     "pages": 715,
-    "isbn": "9780000000043"
+    "isbn": "9780000000043",
+    "state": "completed"
   },
   {
     "id": 44,
@@ -1014,7 +1057,8 @@
       "scrum"
     ],
     "pages": 499,
-    "isbn": "9780000000044"
+    "isbn": "9780000000044",
+    "state": "completed"
   },
   {
     "id": 45,
@@ -1035,7 +1079,8 @@
       "bash"
     ],
     "pages": 424,
-    "isbn": "9780000000045"
+    "isbn": "9780000000045",
+    "state": "completed"
   },
   {
     "id": 46,
@@ -1057,7 +1102,8 @@
       "istio"
     ],
     "pages": 452,
-    "isbn": "9780000000046"
+    "isbn": "9780000000046",
+    "state": "completed"
   },
   {
     "id": 47,
@@ -1082,7 +1128,8 @@
       "pub-sub"
     ],
     "pages": 522,
-    "isbn": "9780000000047"
+    "isbn": "9780000000047",
+    "state": "completed"
   },
   {
     "id": 48,
@@ -1105,7 +1152,8 @@
       "caddy"
     ],
     "pages": 711,
-    "isbn": "9780000000048"
+    "isbn": "9780000000048",
+    "state": "completed"
   },
   {
     "id": 49,
@@ -1129,7 +1177,8 @@
       "pillow"
     ],
     "pages": 259,
-    "isbn": "9780000000049"
+    "isbn": "9780000000049",
+    "state": "completed"
   },
   {
     "id": 50,
@@ -1152,7 +1201,8 @@
       "tracing"
     ],
     "pages": 414,
-    "isbn": "9780000000050"
+    "isbn": "9780000000050",
+    "state": "completed"
   },
   {
     "id": 51,
@@ -1175,7 +1225,8 @@
       "python"
     ],
     "pages": 305,
-    "isbn": "9780000000051"
+    "isbn": "9780000000051",
+    "state": "completed"
   },
   {
     "id": 52,
@@ -1198,7 +1249,8 @@
       "neo4j"
     ],
     "pages": 582,
-    "isbn": "9780000000052"
+    "isbn": "9780000000052",
+    "state": "completed"
   },
   {
     "id": 53,
@@ -1221,7 +1273,8 @@
       "windows"
     ],
     "pages": 484,
-    "isbn": "9780000000053"
+    "isbn": "9780000000053",
+    "state": "completed"
   },
   {
     "id": 54,
@@ -1244,7 +1297,8 @@
       "nlp"
     ],
     "pages": 453,
-    "isbn": "9780000000054"
+    "isbn": "9780000000054",
+    "state": "completed"
   },
   {
     "id": 55,
@@ -1267,7 +1321,8 @@
       "cassandra"
     ],
     "pages": 623,
-    "isbn": "9780000000055"
+    "isbn": "9780000000055",
+    "state": "completed"
   },
   {
     "id": 56,
@@ -1289,7 +1344,8 @@
       "sql"
     ],
     "pages": 567,
-    "isbn": "9780000000056"
+    "isbn": "9780000000056",
+    "state": "completed"
   },
   {
     "id": 57,
@@ -1313,7 +1369,8 @@
       "vue"
     ],
     "pages": 754,
-    "isbn": "9780000000057"
+    "isbn": "9780000000057",
+    "state": "completed"
   },
   {
     "id": 58,
@@ -1337,7 +1394,8 @@
       "javascript"
     ],
     "pages": 482,
-    "isbn": "9780000000058"
+    "isbn": "9780000000058",
+    "state": "completed"
   },
   {
     "id": 59,
@@ -1360,7 +1418,8 @@
       "matplotlib"
     ],
     "pages": 480,
-    "isbn": "9780000000059"
+    "isbn": "9780000000059",
+    "state": "completed"
   },
   {
     "id": 60,
@@ -1384,7 +1443,8 @@
       "scrum"
     ],
     "pages": 444,
-    "isbn": "9780000000060"
+    "isbn": "9780000000060",
+    "state": "completed"
   },
   {
     "id": 61,
@@ -1408,7 +1468,8 @@
       "seaborn"
     ],
     "pages": 682,
-    "isbn": "9780000000061"
+    "isbn": "9780000000061",
+    "state": "completed"
   },
   {
     "id": 62,
@@ -1429,7 +1490,8 @@
       "pub-sub"
     ],
     "pages": 497,
-    "isbn": "9780000000062"
+    "isbn": "9780000000062",
+    "state": "completed"
   },
   {
     "id": 63,
@@ -1453,7 +1515,8 @@
       "tracing"
     ],
     "pages": 727,
-    "isbn": "9780000000063"
+    "isbn": "9780000000063",
+    "state": "completed"
   },
   {
     "id": 64,
@@ -1477,7 +1540,8 @@
       "jwt"
     ],
     "pages": 382,
-    "isbn": "9780000000064"
+    "isbn": "9780000000064",
+    "state": "completed"
   },
   {
     "id": 65,
@@ -1501,7 +1565,8 @@
       "smart-contracts"
     ],
     "pages": 391,
-    "isbn": "9780000000065"
+    "isbn": "9780000000065",
+    "state": "completed"
   },
   {
     "id": 66,
@@ -1523,7 +1588,8 @@
       "pandas"
     ],
     "pages": 504,
-    "isbn": "9780000000066"
+    "isbn": "9780000000066",
+    "state": "completed"
   },
   {
     "id": 67,
@@ -1546,7 +1612,8 @@
       "sharding"
     ],
     "pages": 374,
-    "isbn": "9780000000067"
+    "isbn": "9780000000067",
+    "state": "completed"
   },
   {
     "id": 68,
@@ -1569,7 +1636,8 @@
       "nodejs"
     ],
     "pages": 685,
-    "isbn": "9780000000068"
+    "isbn": "9780000000068",
+    "state": "completed"
   },
   {
     "id": 69,
@@ -1591,7 +1659,8 @@
       "spark"
     ],
     "pages": 540,
-    "isbn": "9780000000069"
+    "isbn": "9780000000069",
+    "state": "completed"
   },
   {
     "id": 70,
@@ -1614,7 +1683,8 @@
       "monitoring"
     ],
     "pages": 290,
-    "isbn": "9780000000070"
+    "isbn": "9780000000070",
+    "state": "completed"
   },
   {
     "id": 71,
@@ -1635,7 +1705,8 @@
       "dynamodb"
     ],
     "pages": 780,
-    "isbn": "9780000000071"
+    "isbn": "9780000000071",
+    "state": "completed"
   },
   {
     "id": 72,
@@ -1657,7 +1728,8 @@
       "encryption"
     ],
     "pages": 601,
-    "isbn": "9780000000072"
+    "isbn": "9780000000072",
+    "state": "completed"
   },
   {
     "id": 73,
@@ -1681,7 +1753,8 @@
       "puppet"
     ],
     "pages": 481,
-    "isbn": "9780000000073"
+    "isbn": "9780000000073",
+    "state": "completed"
   },
   {
     "id": 74,
@@ -1706,7 +1779,8 @@
       "jwt"
     ],
     "pages": 635,
-    "isbn": "9780000000074"
+    "isbn": "9780000000074",
+    "state": "completed"
   },
   {
     "id": 75,
@@ -1730,7 +1804,8 @@
       "javascript"
     ],
     "pages": 695,
-    "isbn": "9780000000075"
+    "isbn": "9780000000075",
+    "state": "completed"
   },
   {
     "id": 76,
@@ -1752,7 +1827,8 @@
       "api-gateway"
     ],
     "pages": 305,
-    "isbn": "9780000000076"
+    "isbn": "9780000000076",
+    "state": "completed"
   },
   {
     "id": 77,
@@ -1777,7 +1853,8 @@
       "flink"
     ],
     "pages": 280,
-    "isbn": "9780000000077"
+    "isbn": "9780000000077",
+    "state": "completed"
   },
   {
     "id": 78,
@@ -1799,7 +1876,8 @@
       "sqs"
     ],
     "pages": 528,
-    "isbn": "9780000000078"
+    "isbn": "9780000000078",
+    "state": "completed"
   },
   {
     "id": 79,
@@ -1822,7 +1900,8 @@
       "puppet"
     ],
     "pages": 452,
-    "isbn": "9780000000079"
+    "isbn": "9780000000079",
+    "state": "completed"
   },
   {
     "id": 80,
@@ -1844,7 +1923,8 @@
       "blockchain"
     ],
     "pages": 480,
-    "isbn": "9780000000080"
+    "isbn": "9780000000080",
+    "state": "completed"
   },
   {
     "id": 81,
@@ -1867,7 +1947,8 @@
       "kustomize"
     ],
     "pages": 370,
-    "isbn": "9780000000081"
+    "isbn": "9780000000081",
+    "state": "completed"
   },
   {
     "id": 82,
@@ -1890,7 +1971,8 @@
       "sre"
     ],
     "pages": 311,
-    "isbn": "9780000000082"
+    "isbn": "9780000000082",
+    "state": "completed"
   },
   {
     "id": 83,
@@ -1913,7 +1995,8 @@
       "hyperledger"
     ],
     "pages": 392,
-    "isbn": "9780000000083"
+    "isbn": "9780000000083",
+    "state": "completed"
   },
   {
     "id": 84,
@@ -1934,7 +2017,8 @@
       "registry"
     ],
     "pages": 303,
-    "isbn": "9780000000084"
+    "isbn": "9780000000084",
+    "state": "completed"
   },
   {
     "id": 85,
@@ -1959,7 +2043,8 @@
       "pandas"
     ],
     "pages": 490,
-    "isbn": "9780000000085"
+    "isbn": "9780000000085",
+    "state": "completed"
   },
   {
     "id": 86,
@@ -1980,7 +2065,8 @@
       "pytorch"
     ],
     "pages": 800,
-    "isbn": "9780000000086"
+    "isbn": "9780000000086",
+    "state": "completed"
   },
   {
     "id": 87,
@@ -2004,7 +2090,8 @@
       "zookeeper"
     ],
     "pages": 594,
-    "isbn": "9780000000087"
+    "isbn": "9780000000087",
+    "state": "completed"
   },
   {
     "id": 88,
@@ -2027,7 +2114,8 @@
       "elk"
     ],
     "pages": 657,
-    "isbn": "9780000000088"
+    "isbn": "9780000000088",
+    "state": "completed"
   },
   {
     "id": 89,
@@ -2051,7 +2139,8 @@
       "encryption"
     ],
     "pages": 515,
-    "isbn": "9780000000089"
+    "isbn": "9780000000089",
+    "state": "completed"
   },
   {
     "id": 90,
@@ -2075,7 +2164,8 @@
       "ci/cd"
     ],
     "pages": 448,
-    "isbn": "9780000000090"
+    "isbn": "9780000000090",
+    "state": "completed"
   },
   {
     "id": 91,
@@ -2098,7 +2188,8 @@
       "oauth"
     ],
     "pages": 597,
-    "isbn": "9780000000091"
+    "isbn": "9780000000091",
+    "state": "completed"
   },
   {
     "id": 92,
@@ -2123,7 +2214,8 @@
       "kotlin"
     ],
     "pages": 633,
-    "isbn": "9780000000092"
+    "isbn": "9780000000092",
+    "state": "completed"
   },
   {
     "id": 93,
@@ -2147,7 +2239,8 @@
       "react"
     ],
     "pages": 383,
-    "isbn": "9780000000093"
+    "isbn": "9780000000093",
+    "state": "completed"
   },
   {
     "id": 94,
@@ -2171,7 +2264,8 @@
       "nosql"
     ],
     "pages": 288,
-    "isbn": "9780000000094"
+    "isbn": "9780000000094",
+    "state": "completed"
   },
   {
     "id": 95,
@@ -2196,7 +2290,8 @@
       "logging"
     ],
     "pages": 626,
-    "isbn": "9780000000095"
+    "isbn": "9780000000095",
+    "state": "completed"
   },
   {
     "id": 96,
@@ -2220,7 +2315,8 @@
       "apache"
     ],
     "pages": 631,
-    "isbn": "9780000000096"
+    "isbn": "9780000000096",
+    "state": "completed"
   },
   {
     "id": 97,
@@ -2243,7 +2339,8 @@
       "numpy"
     ],
     "pages": 530,
-    "isbn": "9780000000097"
+    "isbn": "9780000000097",
+    "state": "completed"
   },
   {
     "id": 98,
@@ -2267,7 +2364,8 @@
       "django"
     ],
     "pages": 676,
-    "isbn": "9780000000098"
+    "isbn": "9780000000098",
+    "state": "completed"
   },
   {
     "id": 99,
@@ -2290,7 +2388,8 @@
       "nlp"
     ],
     "pages": 707,
-    "isbn": "9780000000099"
+    "isbn": "9780000000099",
+    "state": "completed"
   },
   {
     "id": 100,
@@ -2313,7 +2412,8 @@
       "terraform"
     ],
     "pages": 481,
-    "isbn": "9780000000100"
+    "isbn": "9780000000100",
+    "state": "completed"
   },
   {
     "id": 101,
@@ -2336,7 +2436,8 @@
       "elasticsearch"
     ],
     "pages": 549,
-    "isbn": "9780000000101"
+    "isbn": "9780000000101",
+    "state": "completed"
   },
   {
     "id": 102,
@@ -2358,7 +2459,8 @@
       "zookeeper"
     ],
     "pages": 700,
-    "isbn": "9780000000102"
+    "isbn": "9780000000102",
+    "state": "completed"
   },
   {
     "id": 103,
@@ -2383,7 +2485,8 @@
       "docker"
     ],
     "pages": 457,
-    "isbn": "9780000000103"
+    "isbn": "9780000000103",
+    "state": "completed"
   },
   {
     "id": 104,
@@ -2406,7 +2509,8 @@
       "cdn"
     ],
     "pages": 424,
-    "isbn": "9780000000104"
+    "isbn": "9780000000104",
+    "state": "completed"
   },
   {
     "id": 105,
@@ -2429,7 +2533,8 @@
       "service-mesh"
     ],
     "pages": 552,
-    "isbn": "9780000000105"
+    "isbn": "9780000000105",
+    "state": "completed"
   },
   {
     "id": 106,
@@ -2453,7 +2558,8 @@
       "smart-contracts"
     ],
     "pages": 755,
-    "isbn": "9780000000106"
+    "isbn": "9780000000106",
+    "state": "completed"
   },
   {
     "id": 107,
@@ -2475,7 +2581,8 @@
       "angular"
     ],
     "pages": 422,
-    "isbn": "9780000000107"
+    "isbn": "9780000000107",
+    "state": "completed"
   },
   {
     "id": 108,
@@ -2499,7 +2606,8 @@
       "registry"
     ],
     "pages": 434,
-    "isbn": "9780000000108"
+    "isbn": "9780000000108",
+    "state": "completed"
   },
   {
     "id": 109,
@@ -2524,7 +2632,8 @@
       "neural-networks"
     ],
     "pages": 532,
-    "isbn": "9780000000109"
+    "isbn": "9780000000109",
+    "state": "completed"
   },
   {
     "id": 110,
@@ -2547,7 +2656,8 @@
       "load-balancing"
     ],
     "pages": 264,
-    "isbn": "9780000000110"
+    "isbn": "9780000000110",
+    "state": "completed"
   },
   {
     "id": 111,
@@ -2570,7 +2680,8 @@
       "mongodb"
     ],
     "pages": 501,
-    "isbn": "9780000000111"
+    "isbn": "9780000000111",
+    "state": "completed"
   },
   {
     "id": 112,
@@ -2593,7 +2704,8 @@
       "mongodb"
     ],
     "pages": 429,
-    "isbn": "9780000000112"
+    "isbn": "9780000000112",
+    "state": "completed"
   },
   {
     "id": 113,
@@ -2615,7 +2727,8 @@
       "golang"
     ],
     "pages": 546,
-    "isbn": "9780000000113"
+    "isbn": "9780000000113",
+    "state": "completed"
   },
   {
     "id": 114,
@@ -2638,7 +2751,8 @@
       "java"
     ],
     "pages": 480,
-    "isbn": "9780000000114"
+    "isbn": "9780000000114",
+    "state": "completed"
   },
   {
     "id": 115,
@@ -2661,7 +2775,8 @@
       "numpy"
     ],
     "pages": 564,
-    "isbn": "9780000000115"
+    "isbn": "9780000000115",
+    "state": "completed"
   },
   {
     "id": 116,
@@ -2683,7 +2798,8 @@
       "plotly"
     ],
     "pages": 327,
-    "isbn": "9780000000116"
+    "isbn": "9780000000116",
+    "state": "completed"
   },
   {
     "id": 117,
@@ -2707,7 +2823,8 @@
       "encryption"
     ],
     "pages": 281,
-    "isbn": "9780000000117"
+    "isbn": "9780000000117",
+    "state": "completed"
   },
   {
     "id": 118,
@@ -2729,7 +2846,8 @@
       "flux"
     ],
     "pages": 551,
-    "isbn": "9780000000118"
+    "isbn": "9780000000118",
+    "state": "completed"
   },
   {
     "id": 119,
@@ -2752,7 +2870,8 @@
       "api-gateway"
     ],
     "pages": 703,
-    "isbn": "9780000000119"
+    "isbn": "9780000000119",
+    "state": "completed"
   },
   {
     "id": 120,
@@ -2773,7 +2892,8 @@
       "sqs"
     ],
     "pages": 424,
-    "isbn": "9780000000120"
+    "isbn": "9780000000120",
+    "state": "completed"
   },
   {
     "id": 121,
@@ -2796,7 +2916,8 @@
       "pillow"
     ],
     "pages": 347,
-    "isbn": "9780000000121"
+    "isbn": "9780000000121",
+    "state": "completed"
   },
   {
     "id": 122,
@@ -2820,7 +2941,8 @@
       "aws"
     ],
     "pages": 759,
-    "isbn": "9780000000122"
+    "isbn": "9780000000122",
+    "state": "completed"
   },
   {
     "id": 123,
@@ -2842,7 +2964,8 @@
       "golang"
     ],
     "pages": 765,
-    "isbn": "9780000000123"
+    "isbn": "9780000000123",
+    "state": "completed"
   },
   {
     "id": 124,
@@ -2865,7 +2988,8 @@
       "mongodb"
     ],
     "pages": 284,
-    "isbn": "9780000000124"
+    "isbn": "9780000000124",
+    "state": "completed"
   },
   {
     "id": 125,
@@ -2887,7 +3011,8 @@
       "puppet"
     ],
     "pages": 478,
-    "isbn": "9780000000125"
+    "isbn": "9780000000125",
+    "state": "completed"
   },
   {
     "id": 126,
@@ -2911,7 +3036,8 @@
       "pandas"
     ],
     "pages": 671,
-    "isbn": "9780000000126"
+    "isbn": "9780000000126",
+    "state": "completed"
   },
   {
     "id": 127,
@@ -2934,7 +3060,8 @@
       "helm"
     ],
     "pages": 575,
-    "isbn": "9780000000127"
+    "isbn": "9780000000127",
+    "state": "completed"
   },
   {
     "id": 128,
@@ -2957,7 +3084,8 @@
       "sql"
     ],
     "pages": 786,
-    "isbn": "9780000000128"
+    "isbn": "9780000000128",
+    "state": "completed"
   },
   {
     "id": 129,
@@ -2980,7 +3108,8 @@
       "golang"
     ],
     "pages": 762,
-    "isbn": "9780000000129"
+    "isbn": "9780000000129",
+    "state": "completed"
   },
   {
     "id": 130,
@@ -3003,7 +3132,8 @@
       "css"
     ],
     "pages": 668,
-    "isbn": "9780000000130"
+    "isbn": "9780000000130",
+    "state": "completed"
   },
   {
     "id": 131,
@@ -3028,7 +3158,8 @@
       "devops"
     ],
     "pages": 621,
-    "isbn": "9780000000131"
+    "isbn": "9780000000131",
+    "state": "completed"
   },
   {
     "id": 132,
@@ -3052,7 +3183,8 @@
       "scrum"
     ],
     "pages": 641,
-    "isbn": "9780000000132"
+    "isbn": "9780000000132",
+    "state": "completed"
   },
   {
     "id": 133,
@@ -3074,7 +3206,8 @@
       "traefik"
     ],
     "pages": 255,
-    "isbn": "9780000000133"
+    "isbn": "9780000000133",
+    "state": "completed"
   },
   {
     "id": 134,
@@ -3098,7 +3231,8 @@
       "grafana"
     ],
     "pages": 270,
-    "isbn": "9780000000134"
+    "isbn": "9780000000134",
+    "state": "completed"
   },
   {
     "id": 135,
@@ -3121,7 +3255,8 @@
       "consul"
     ],
     "pages": 665,
-    "isbn": "9780000000135"
+    "isbn": "9780000000135",
+    "state": "completed"
   },
   {
     "id": 136,
@@ -3144,7 +3279,8 @@
       "computer-vision"
     ],
     "pages": 266,
-    "isbn": "9780000000136"
+    "isbn": "9780000000136",
+    "state": "completed"
   },
   {
     "id": 137,
@@ -3167,7 +3303,8 @@
       "kubernetes"
     ],
     "pages": 487,
-    "isbn": "9780000000137"
+    "isbn": "9780000000137",
+    "state": "completed"
   },
   {
     "id": 138,
@@ -3192,7 +3329,8 @@
       "tailwind"
     ],
     "pages": 524,
-    "isbn": "9780000000138"
+    "isbn": "9780000000138",
+    "state": "completed"
   },
   {
     "id": 139,
@@ -3213,7 +3351,8 @@
       "consensus"
     ],
     "pages": 516,
-    "isbn": "9780000000139"
+    "isbn": "9780000000139",
+    "state": "completed"
   },
   {
     "id": 140,
@@ -3234,7 +3373,8 @@
       "eslint"
     ],
     "pages": 726,
-    "isbn": "9780000000140"
+    "isbn": "9780000000140",
+    "state": "completed"
   },
   {
     "id": 141,
@@ -3257,7 +3397,8 @@
       "seaborn"
     ],
     "pages": 729,
-    "isbn": "9780000000141"
+    "isbn": "9780000000141",
+    "state": "completed"
   },
   {
     "id": 142,
@@ -3279,7 +3420,8 @@
       "macos"
     ],
     "pages": 564,
-    "isbn": "9780000000142"
+    "isbn": "9780000000142",
+    "state": "completed"
   },
   {
     "id": 143,
@@ -3303,7 +3445,8 @@
       "mongodb"
     ],
     "pages": 600,
-    "isbn": "9780000000143"
+    "isbn": "9780000000143",
+    "state": "completed"
   },
   {
     "id": 144,
@@ -3327,7 +3470,8 @@
       "bootstrap"
     ],
     "pages": 746,
-    "isbn": "9780000000144"
+    "isbn": "9780000000144",
+    "state": "completed"
   },
   {
     "id": 145,
@@ -3351,7 +3495,8 @@
       "firebase"
     ],
     "pages": 324,
-    "isbn": "9780000000145"
+    "isbn": "9780000000145",
+    "state": "completed"
   },
   {
     "id": 146,
@@ -3375,7 +3520,8 @@
       "puppet"
     ],
     "pages": 566,
-    "isbn": "9780000000146"
+    "isbn": "9780000000146",
+    "state": "completed"
   },
   {
     "id": 147,
@@ -3398,7 +3544,8 @@
       "ssl"
     ],
     "pages": 288,
-    "isbn": "9780000000147"
+    "isbn": "9780000000147",
+    "state": "completed"
   },
   {
     "id": 148,
@@ -3421,7 +3568,8 @@
       "cypress"
     ],
     "pages": 252,
-    "isbn": "9780000000148"
+    "isbn": "9780000000148",
+    "state": "completed"
   },
   {
     "id": 149,
@@ -3444,7 +3592,8 @@
       "seaborn"
     ],
     "pages": 760,
-    "isbn": "9780000000149"
+    "isbn": "9780000000149",
+    "state": "completed"
   },
   {
     "id": 150,
@@ -3468,7 +3617,8 @@
       "golang"
     ],
     "pages": 631,
-    "isbn": "9780000000150"
+    "isbn": "9780000000150",
+    "state": "completed"
   },
   {
     "id": 151,
@@ -3490,7 +3640,8 @@
       "bootstrap"
     ],
     "pages": 491,
-    "isbn": "9780000000151"
+    "isbn": "9780000000151",
+    "state": "completed"
   },
   {
     "id": 152,
@@ -3514,7 +3665,8 @@
       "prometheus"
     ],
     "pages": 463,
-    "isbn": "9780000000152"
+    "isbn": "9780000000152",
+    "state": "completed"
   },
   {
     "id": 153,
@@ -3538,7 +3690,8 @@
       "websocket"
     ],
     "pages": 495,
-    "isbn": "9780000000153"
+    "isbn": "9780000000153",
+    "state": "completed"
   },
   {
     "id": 154,
@@ -3559,7 +3712,8 @@
       "javascript"
     ],
     "pages": 253,
-    "isbn": "9780000000154"
+    "isbn": "9780000000154",
+    "state": "completed"
   },
   {
     "id": 155,
@@ -3582,7 +3736,8 @@
       "apache"
     ],
     "pages": 368,
-    "isbn": "9780000000155"
+    "isbn": "9780000000155",
+    "state": "completed"
   },
   {
     "id": 156,
@@ -3606,7 +3761,8 @@
       "api-gateway"
     ],
     "pages": 291,
-    "isbn": "9780000000156"
+    "isbn": "9780000000156",
+    "state": "completed"
   },
   {
     "id": 157,
@@ -3630,7 +3786,8 @@
       "haproxy"
     ],
     "pages": 612,
-    "isbn": "9780000000157"
+    "isbn": "9780000000157",
+    "state": "completed"
   },
   {
     "id": 158,
@@ -3653,7 +3810,8 @@
       "computer-vision"
     ],
     "pages": 687,
-    "isbn": "9780000000158"
+    "isbn": "9780000000158",
+    "state": "completed"
   },
   {
     "id": 159,
@@ -3676,7 +3834,8 @@
       "performance"
     ],
     "pages": 412,
-    "isbn": "9780000000159"
+    "isbn": "9780000000159",
+    "state": "completed"
   },
   {
     "id": 160,
@@ -3699,7 +3858,8 @@
       "couchbase"
     ],
     "pages": 641,
-    "isbn": "9780000000160"
+    "isbn": "9780000000160",
+    "state": "completed"
   },
   {
     "id": 161,
@@ -3720,7 +3880,8 @@
       "ethereum"
     ],
     "pages": 517,
-    "isbn": "9780000000161"
+    "isbn": "9780000000161",
+    "state": "completed"
   },
   {
     "id": 162,
@@ -3742,7 +3903,8 @@
       "envoy"
     ],
     "pages": 281,
-    "isbn": "9780000000162"
+    "isbn": "9780000000162",
+    "state": "completed"
   },
   {
     "id": 163,
@@ -3767,7 +3929,8 @@
       "dynamodb"
     ],
     "pages": 703,
-    "isbn": "9780000000163"
+    "isbn": "9780000000163",
+    "state": "completed"
   },
   {
     "id": 164,
@@ -3789,7 +3952,8 @@
       "istio"
     ],
     "pages": 699,
-    "isbn": "9780000000164"
+    "isbn": "9780000000164",
+    "state": "completed"
   },
   {
     "id": 165,
@@ -3811,7 +3975,8 @@
       "tailwind"
     ],
     "pages": 753,
-    "isbn": "9780000000165"
+    "isbn": "9780000000165",
+    "state": "completed"
   },
   {
     "id": 166,
@@ -3834,7 +3999,8 @@
       "chef"
     ],
     "pages": 633,
-    "isbn": "9780000000166"
+    "isbn": "9780000000166",
+    "state": "completed"
   },
   {
     "id": 167,
@@ -3859,7 +4025,8 @@
       "nosql"
     ],
     "pages": 474,
-    "isbn": "9780000000167"
+    "isbn": "9780000000167",
+    "state": "completed"
   },
   {
     "id": 168,
@@ -3883,7 +4050,8 @@
       "graphql"
     ],
     "pages": 697,
-    "isbn": "9780000000168"
+    "isbn": "9780000000168",
+    "state": "completed"
   },
   {
     "id": 169,
@@ -3905,7 +4073,8 @@
       "cassandra"
     ],
     "pages": 360,
-    "isbn": "9780000000169"
+    "isbn": "9780000000169",
+    "state": "completed"
   },
   {
     "id": 170,
@@ -3926,7 +4095,8 @@
       "react-native"
     ],
     "pages": 350,
-    "isbn": "9780000000170"
+    "isbn": "9780000000170",
+    "state": "completed"
   },
   {
     "id": 171,
@@ -3951,7 +4121,8 @@
       "rest"
     ],
     "pages": 397,
-    "isbn": "9780000000171"
+    "isbn": "9780000000171",
+    "state": "completed"
   },
   {
     "id": 172,
@@ -3974,7 +4145,8 @@
       "less"
     ],
     "pages": 660,
-    "isbn": "9780000000172"
+    "isbn": "9780000000172",
+    "state": "completed"
   },
   {
     "id": 173,
@@ -3996,7 +4168,8 @@
       "swift"
     ],
     "pages": 681,
-    "isbn": "9780000000173"
+    "isbn": "9780000000173",
+    "state": "completed"
   },
   {
     "id": 174,
@@ -4020,7 +4193,8 @@
       "hive"
     ],
     "pages": 787,
-    "isbn": "9780000000174"
+    "isbn": "9780000000174",
+    "state": "completed"
   },
   {
     "id": 175,
@@ -4042,7 +4216,8 @@
       "spinnaker"
     ],
     "pages": 372,
-    "isbn": "9780000000175"
+    "isbn": "9780000000175",
+    "state": "completed"
   },
   {
     "id": 176,
@@ -4064,7 +4239,8 @@
       "zookeeper"
     ],
     "pages": 769,
-    "isbn": "9780000000176"
+    "isbn": "9780000000176",
+    "state": "completed"
   },
   {
     "id": 177,
@@ -4086,7 +4262,8 @@
       "linux"
     ],
     "pages": 629,
-    "isbn": "9780000000177"
+    "isbn": "9780000000177",
+    "state": "completed"
   },
   {
     "id": 178,
@@ -4109,7 +4286,8 @@
       "github"
     ],
     "pages": 449,
-    "isbn": "9780000000178"
+    "isbn": "9780000000178",
+    "state": "completed"
   },
   {
     "id": 179,
@@ -4132,7 +4310,8 @@
       "vue"
     ],
     "pages": 311,
-    "isbn": "9780000000179"
+    "isbn": "9780000000179",
+    "state": "completed"
   },
   {
     "id": 180,
@@ -4154,7 +4333,8 @@
       "mongodb"
     ],
     "pages": 540,
-    "isbn": "9780000000180"
+    "isbn": "9780000000180",
+    "state": "completed"
   },
   {
     "id": 181,
@@ -4176,7 +4356,8 @@
       "grafana"
     ],
     "pages": 737,
-    "isbn": "9780000000181"
+    "isbn": "9780000000181",
+    "state": "completed"
   },
   {
     "id": 182,
@@ -4198,7 +4379,8 @@
       "registry"
     ],
     "pages": 432,
-    "isbn": "9780000000182"
+    "isbn": "9780000000182",
+    "state": "completed"
   },
   {
     "id": 183,
@@ -4223,7 +4405,8 @@
       "chef"
     ],
     "pages": 319,
-    "isbn": "9780000000183"
+    "isbn": "9780000000183",
+    "state": "completed"
   },
   {
     "id": 184,
@@ -4246,7 +4429,8 @@
       "newrelic"
     ],
     "pages": 781,
-    "isbn": "9780000000184"
+    "isbn": "9780000000184",
+    "state": "completed"
   },
   {
     "id": 185,
@@ -4270,7 +4454,8 @@
       "logging"
     ],
     "pages": 526,
-    "isbn": "9780000000185"
+    "isbn": "9780000000185",
+    "state": "completed"
   },
   {
     "id": 186,
@@ -4291,7 +4476,8 @@
       "eslint"
     ],
     "pages": 548,
-    "isbn": "9780000000186"
+    "isbn": "9780000000186",
+    "state": "completed"
   },
   {
     "id": 187,
@@ -4315,7 +4501,8 @@
       "scrum"
     ],
     "pages": 417,
-    "isbn": "9780000000187"
+    "isbn": "9780000000187",
+    "state": "completed"
   },
   {
     "id": 188,
@@ -4338,7 +4525,8 @@
       "mongodb"
     ],
     "pages": 446,
-    "isbn": "9780000000188"
+    "isbn": "9780000000188",
+    "state": "completed"
   },
   {
     "id": 189,
@@ -4360,7 +4548,8 @@
       "serverless"
     ],
     "pages": 427,
-    "isbn": "9780000000189"
+    "isbn": "9780000000189",
+    "state": "completed"
   },
   {
     "id": 190,
@@ -4381,7 +4570,8 @@
       "machine-learning"
     ],
     "pages": 301,
-    "isbn": "9780000000190"
+    "isbn": "9780000000190",
+    "state": "completed"
   },
   {
     "id": 191,
@@ -4405,7 +4595,8 @@
       "pytorch"
     ],
     "pages": 597,
-    "isbn": "9780000000191"
+    "isbn": "9780000000191",
+    "state": "completed"
   },
   {
     "id": 192,
@@ -4427,7 +4618,8 @@
       "performance"
     ],
     "pages": 377,
-    "isbn": "9780000000192"
+    "isbn": "9780000000192",
+    "state": "completed"
   },
   {
     "id": 193,
@@ -4451,7 +4643,8 @@
       "flink"
     ],
     "pages": 610,
-    "isbn": "9780000000193"
+    "isbn": "9780000000193",
+    "state": "completed"
   },
   {
     "id": 194,
@@ -4474,7 +4667,8 @@
       "elk"
     ],
     "pages": 525,
-    "isbn": "9780000000194"
+    "isbn": "9780000000194",
+    "state": "completed"
   },
   {
     "id": 195,
@@ -4497,7 +4691,8 @@
       "nosql"
     ],
     "pages": 400,
-    "isbn": "9780000000195"
+    "isbn": "9780000000195",
+    "state": "completed"
   },
   {
     "id": 196,
@@ -4521,7 +4716,8 @@
       "hive"
     ],
     "pages": 387,
-    "isbn": "9780000000196"
+    "isbn": "9780000000196",
+    "state": "completed"
   },
   {
     "id": 197,
@@ -4542,7 +4738,8 @@
       "load-balancing"
     ],
     "pages": 534,
-    "isbn": "9780000000197"
+    "isbn": "9780000000197",
+    "state": "completed"
   },
   {
     "id": 198,
@@ -4563,7 +4760,8 @@
       "es6"
     ],
     "pages": 539,
-    "isbn": "9780000000198"
+    "isbn": "9780000000198",
+    "state": "completed"
   },
   {
     "id": 199,
@@ -4584,7 +4782,8 @@
       "redis"
     ],
     "pages": 516,
-    "isbn": "9780000000199"
+    "isbn": "9780000000199",
+    "state": "completed"
   },
   {
     "id": 200,
@@ -4608,7 +4807,8 @@
       "flink"
     ],
     "pages": 499,
-    "isbn": "9780000000200"
+    "isbn": "9780000000200",
+    "state": "completed"
   },
   {
     "id": 201,
@@ -4632,7 +4832,8 @@
       "testing"
     ],
     "pages": 726,
-    "isbn": "9780000000201"
+    "isbn": "9780000000201",
+    "state": "completed"
   },
   {
     "id": 202,
@@ -4657,7 +4858,8 @@
       "numpy"
     ],
     "pages": 406,
-    "isbn": "9780000000202"
+    "isbn": "9780000000202",
+    "state": "completed"
   },
   {
     "id": 203,
@@ -4680,7 +4882,8 @@
       "windows"
     ],
     "pages": 703,
-    "isbn": "9780000000203"
+    "isbn": "9780000000203",
+    "state": "completed"
   },
   {
     "id": 204,
@@ -4702,7 +4905,8 @@
       "caching"
     ],
     "pages": 419,
-    "isbn": "9780000000204"
+    "isbn": "9780000000204",
+    "state": "completed"
   },
   {
     "id": 205,
@@ -4726,7 +4930,8 @@
       "api-gateway"
     ],
     "pages": 541,
-    "isbn": "9780000000205"
+    "isbn": "9780000000205",
+    "state": "completed"
   },
   {
     "id": 206,
@@ -4749,7 +4954,8 @@
       "harbor"
     ],
     "pages": 740,
-    "isbn": "9780000000206"
+    "isbn": "9780000000206",
+    "state": "completed"
   },
   {
     "id": 207,
@@ -4772,7 +4978,8 @@
       "sre"
     ],
     "pages": 638,
-    "isbn": "9780000000207"
+    "isbn": "9780000000207",
+    "state": "completed"
   },
   {
     "id": 208,
@@ -4795,7 +5002,8 @@
       "objective-c"
     ],
     "pages": 517,
-    "isbn": "9780000000208"
+    "isbn": "9780000000208",
+    "state": "completed"
   },
   {
     "id": 209,
@@ -4817,7 +5025,8 @@
       "neo4j"
     ],
     "pages": 261,
-    "isbn": "9780000000209"
+    "isbn": "9780000000209",
+    "state": "completed"
   },
   {
     "id": 210,
@@ -4841,7 +5050,8 @@
       "objective-c"
     ],
     "pages": 625,
-    "isbn": "9780000000210"
+    "isbn": "9780000000210",
+    "state": "completed"
   },
   {
     "id": 211,
@@ -4866,7 +5076,8 @@
       "vault"
     ],
     "pages": 537,
-    "isbn": "9780000000211"
+    "isbn": "9780000000211",
+    "state": "completed"
   },
   {
     "id": 212,
@@ -4890,7 +5101,8 @@
       "nexus"
     ],
     "pages": 378,
-    "isbn": "9780000000212"
+    "isbn": "9780000000212",
+    "state": "completed"
   },
   {
     "id": 213,
@@ -4914,7 +5126,8 @@
       "vue"
     ],
     "pages": 726,
-    "isbn": "9780000000213"
+    "isbn": "9780000000213",
+    "state": "completed"
   },
   {
     "id": 214,
@@ -4938,7 +5151,8 @@
       "git"
     ],
     "pages": 621,
-    "isbn": "9780000000214"
+    "isbn": "9780000000214",
+    "state": "completed"
   },
   {
     "id": 215,
@@ -4962,7 +5176,8 @@
       "couchbase"
     ],
     "pages": 274,
-    "isbn": "9780000000215"
+    "isbn": "9780000000215",
+    "state": "completed"
   },
   {
     "id": 216,
@@ -4986,7 +5201,8 @@
       "kanban"
     ],
     "pages": 770,
-    "isbn": "9780000000216"
+    "isbn": "9780000000216",
+    "state": "completed"
   },
   {
     "id": 217,
@@ -5008,7 +5224,8 @@
       "webpack"
     ],
     "pages": 630,
-    "isbn": "9780000000217"
+    "isbn": "9780000000217",
+    "state": "completed"
   },
   {
     "id": 218,
@@ -5030,7 +5247,8 @@
       "cdn"
     ],
     "pages": 415,
-    "isbn": "9780000000218"
+    "isbn": "9780000000218",
+    "state": "completed"
   },
   {
     "id": 219,
@@ -5052,7 +5270,8 @@
       "sre"
     ],
     "pages": 750,
-    "isbn": "9780000000219"
+    "isbn": "9780000000219",
+    "state": "completed"
   },
   {
     "id": 220,
@@ -5073,7 +5292,8 @@
       "pytorch"
     ],
     "pages": 268,
-    "isbn": "9780000000220"
+    "isbn": "9780000000220",
+    "state": "completed"
   },
   {
     "id": 221,
@@ -5095,7 +5315,8 @@
       "migration"
     ],
     "pages": 636,
-    "isbn": "9780000000221"
+    "isbn": "9780000000221",
+    "state": "completed"
   },
   {
     "id": 222,
@@ -5118,7 +5339,8 @@
       "scrum"
     ],
     "pages": 415,
-    "isbn": "9780000000222"
+    "isbn": "9780000000222",
+    "state": "completed"
   },
   {
     "id": 223,
@@ -5139,7 +5361,8 @@
       "jaeger"
     ],
     "pages": 474,
-    "isbn": "9780000000223"
+    "isbn": "9780000000223",
+    "state": "completed"
   },
   {
     "id": 224,
@@ -5162,7 +5385,8 @@
       "docker"
     ],
     "pages": 571,
-    "isbn": "9780000000224"
+    "isbn": "9780000000224",
+    "state": "completed"
   },
   {
     "id": 225,
@@ -5185,7 +5409,8 @@
       "security"
     ],
     "pages": 441,
-    "isbn": "9780000000225"
+    "isbn": "9780000000225",
+    "state": "completed"
   },
   {
     "id": 226,
@@ -5207,7 +5432,8 @@
       "postgresql"
     ],
     "pages": 398,
-    "isbn": "9780000000226"
+    "isbn": "9780000000226",
+    "state": "completed"
   },
   {
     "id": 227,
@@ -5231,7 +5457,8 @@
       "artifactory"
     ],
     "pages": 576,
-    "isbn": "9780000000227"
+    "isbn": "9780000000227",
+    "state": "completed"
   },
   {
     "id": 228,
@@ -5253,7 +5480,8 @@
       "redis"
     ],
     "pages": 462,
-    "isbn": "9780000000228"
+    "isbn": "9780000000228",
+    "state": "completed"
   },
   {
     "id": 229,
@@ -5275,7 +5503,8 @@
       "elk"
     ],
     "pages": 365,
-    "isbn": "9780000000229"
+    "isbn": "9780000000229",
+    "state": "completed"
   },
   {
     "id": 230,
@@ -5300,7 +5529,8 @@
       "microservices"
     ],
     "pages": 527,
-    "isbn": "9780000000230"
+    "isbn": "9780000000230",
+    "state": "completed"
   },
   {
     "id": 231,
@@ -5323,7 +5553,8 @@
       "rest"
     ],
     "pages": 771,
-    "isbn": "9780000000231"
+    "isbn": "9780000000231",
+    "state": "completed"
   },
   {
     "id": 232,
@@ -5348,7 +5579,8 @@
       "aws"
     ],
     "pages": 459,
-    "isbn": "9780000000232"
+    "isbn": "9780000000232",
+    "state": "completed"
   },
   {
     "id": 233,
@@ -5372,7 +5604,8 @@
       "consensus"
     ],
     "pages": 286,
-    "isbn": "9780000000233"
+    "isbn": "9780000000233",
+    "state": "completed"
   },
   {
     "id": 234,
@@ -5394,7 +5627,8 @@
       "mongodb"
     ],
     "pages": 288,
-    "isbn": "9780000000234"
+    "isbn": "9780000000234",
+    "state": "completed"
   },
   {
     "id": 235,
@@ -5417,7 +5651,8 @@
       "babel"
     ],
     "pages": 604,
-    "isbn": "9780000000235"
+    "isbn": "9780000000235",
+    "state": "completed"
   },
   {
     "id": 236,
@@ -5439,7 +5674,8 @@
       "docker"
     ],
     "pages": 679,
-    "isbn": "9780000000236"
+    "isbn": "9780000000236",
+    "state": "completed"
   },
   {
     "id": 237,
@@ -5462,7 +5698,8 @@
       "hyperledger"
     ],
     "pages": 294,
-    "isbn": "9780000000237"
+    "isbn": "9780000000237",
+    "state": "completed"
   },
   {
     "id": 238,
@@ -5484,7 +5721,8 @@
       "microservices"
     ],
     "pages": 623,
-    "isbn": "9780000000238"
+    "isbn": "9780000000238",
+    "state": "completed"
   },
   {
     "id": 239,
@@ -5507,7 +5745,8 @@
       "azure"
     ],
     "pages": 317,
-    "isbn": "9780000000239"
+    "isbn": "9780000000239",
+    "state": "completed"
   },
   {
     "id": 240,
@@ -5531,7 +5770,8 @@
       "swift"
     ],
     "pages": 755,
-    "isbn": "9780000000240"
+    "isbn": "9780000000240",
+    "state": "completed"
   },
   {
     "id": 241,
@@ -5556,7 +5796,8 @@
       "ethereum"
     ],
     "pages": 411,
-    "isbn": "9780000000241"
+    "isbn": "9780000000241",
+    "state": "completed"
   },
   {
     "id": 242,
@@ -5580,7 +5821,8 @@
       "helm"
     ],
     "pages": 564,
-    "isbn": "9780000000242"
+    "isbn": "9780000000242",
+    "state": "completed"
   },
   {
     "id": 243,
@@ -5603,7 +5845,8 @@
       "encryption"
     ],
     "pages": 455,
-    "isbn": "9780000000243"
+    "isbn": "9780000000243",
+    "state": "completed"
   },
   {
     "id": 244,
@@ -5627,7 +5870,8 @@
       "elasticsearch"
     ],
     "pages": 282,
-    "isbn": "9780000000244"
+    "isbn": "9780000000244",
+    "state": "completed"
   },
   {
     "id": 245,
@@ -5650,7 +5894,8 @@
       "react-native"
     ],
     "pages": 305,
-    "isbn": "9780000000245"
+    "isbn": "9780000000245",
+    "state": "completed"
   },
   {
     "id": 246,
@@ -5672,7 +5917,8 @@
       "newrelic"
     ],
     "pages": 703,
-    "isbn": "9780000000246"
+    "isbn": "9780000000246",
+    "state": "completed"
   },
   {
     "id": 247,
@@ -5694,7 +5940,8 @@
       "postgresql"
     ],
     "pages": 649,
-    "isbn": "9780000000247"
+    "isbn": "9780000000247",
+    "state": "completed"
   },
   {
     "id": 248,
@@ -5717,7 +5964,8 @@
       "plotly"
     ],
     "pages": 793,
-    "isbn": "9780000000248"
+    "isbn": "9780000000248",
+    "state": "completed"
   },
   {
     "id": 249,
@@ -5738,7 +5986,8 @@
       "plotly"
     ],
     "pages": 517,
-    "isbn": "9780000000249"
+    "isbn": "9780000000249",
+    "state": "completed"
   },
   {
     "id": 250,
@@ -5762,7 +6011,8 @@
       "haproxy"
     ],
     "pages": 385,
-    "isbn": "9780000000250"
+    "isbn": "9780000000250",
+    "state": "completed"
   },
   {
     "id": 251,
@@ -5786,7 +6036,8 @@
       "sqs"
     ],
     "pages": 409,
-    "isbn": "9780000000251"
+    "isbn": "9780000000251",
+    "state": "completed"
   },
   {
     "id": 252,
@@ -5808,7 +6059,8 @@
       "github"
     ],
     "pages": 702,
-    "isbn": "9780000000252"
+    "isbn": "9780000000252",
+    "state": "completed"
   },
   {
     "id": 253,
@@ -5830,7 +6082,8 @@
       "hive"
     ],
     "pages": 290,
-    "isbn": "9780000000253"
+    "isbn": "9780000000253",
+    "state": "completed"
   },
   {
     "id": 254,
@@ -5852,7 +6105,8 @@
       "blockchain"
     ],
     "pages": 504,
-    "isbn": "9780000000254"
+    "isbn": "9780000000254",
+    "state": "completed"
   },
   {
     "id": 255,
@@ -5874,7 +6128,8 @@
       "cypress"
     ],
     "pages": 321,
-    "isbn": "9780000000255"
+    "isbn": "9780000000255",
+    "state": "completed"
   },
   {
     "id": 256,
@@ -5898,7 +6153,8 @@
       "sonarqube"
     ],
     "pages": 444,
-    "isbn": "9780000000256"
+    "isbn": "9780000000256",
+    "state": "completed"
   },
   {
     "id": 257,
@@ -5923,7 +6179,8 @@
       "pig"
     ],
     "pages": 552,
-    "isbn": "9780000000257"
+    "isbn": "9780000000257",
+    "state": "completed"
   },
   {
     "id": 258,
@@ -5948,7 +6205,8 @@
       "encryption"
     ],
     "pages": 423,
-    "isbn": "9780000000258"
+    "isbn": "9780000000258",
+    "state": "completed"
   },
   {
     "id": 259,
@@ -5970,7 +6228,8 @@
       "nosql"
     ],
     "pages": 643,
-    "isbn": "9780000000259"
+    "isbn": "9780000000259",
+    "state": "completed"
   },
   {
     "id": 260,
@@ -5993,7 +6252,8 @@
       "nginx"
     ],
     "pages": 703,
-    "isbn": "9780000000260"
+    "isbn": "9780000000260",
+    "state": "completed"
   },
   {
     "id": 261,
@@ -6017,7 +6277,8 @@
       "istio"
     ],
     "pages": 490,
-    "isbn": "9780000000261"
+    "isbn": "9780000000261",
+    "state": "completed"
   },
   {
     "id": 262,
@@ -6039,7 +6300,8 @@
       "jaeger"
     ],
     "pages": 680,
-    "isbn": "9780000000262"
+    "isbn": "9780000000262",
+    "state": "completed"
   },
   {
     "id": 263,
@@ -6064,7 +6326,8 @@
       "event-driven"
     ],
     "pages": 648,
-    "isbn": "9780000000263"
+    "isbn": "9780000000263",
+    "state": "completed"
   },
   {
     "id": 264,
@@ -6088,7 +6351,8 @@
       "tdd"
     ],
     "pages": 585,
-    "isbn": "9780000000264"
+    "isbn": "9780000000264",
+    "state": "completed"
   },
   {
     "id": 265,
@@ -6109,7 +6373,8 @@
       "react"
     ],
     "pages": 270,
-    "isbn": "9780000000265"
+    "isbn": "9780000000265",
+    "state": "completed"
   },
   {
     "id": 266,
@@ -6131,7 +6396,8 @@
       "graphql"
     ],
     "pages": 634,
-    "isbn": "9780000000266"
+    "isbn": "9780000000266",
+    "state": "completed"
   },
   {
     "id": 267,
@@ -6156,7 +6422,8 @@
       "helm"
     ],
     "pages": 720,
-    "isbn": "9780000000267"
+    "isbn": "9780000000267",
+    "state": "completed"
   },
   {
     "id": 268,
@@ -6180,7 +6447,8 @@
       "smart-contracts"
     ],
     "pages": 582,
-    "isbn": "9780000000268"
+    "isbn": "9780000000268",
+    "state": "completed"
   },
   {
     "id": 269,
@@ -6202,7 +6470,8 @@
       "logging"
     ],
     "pages": 752,
-    "isbn": "9780000000269"
+    "isbn": "9780000000269",
+    "state": "completed"
   },
   {
     "id": 270,
@@ -6227,7 +6496,8 @@
       "event-driven"
     ],
     "pages": 373,
-    "isbn": "9780000000270"
+    "isbn": "9780000000270",
+    "state": "completed"
   },
   {
     "id": 271,
@@ -6250,7 +6520,8 @@
       "golang"
     ],
     "pages": 296,
-    "isbn": "9780000000271"
+    "isbn": "9780000000271",
+    "state": "completed"
   },
   {
     "id": 272,
@@ -6274,7 +6545,8 @@
       "mongodb"
     ],
     "pages": 304,
-    "isbn": "9780000000272"
+    "isbn": "9780000000272",
+    "state": "completed"
   },
   {
     "id": 273,
@@ -6298,7 +6570,8 @@
       "postgresql"
     ],
     "pages": 462,
-    "isbn": "9780000000273"
+    "isbn": "9780000000273",
+    "state": "completed"
   },
   {
     "id": 274,
@@ -6322,7 +6595,8 @@
       "cdn"
     ],
     "pages": 714,
-    "isbn": "9780000000274"
+    "isbn": "9780000000274",
+    "state": "completed"
   },
   {
     "id": 275,
@@ -6343,7 +6617,8 @@
       "hive"
     ],
     "pages": 545,
-    "isbn": "9780000000275"
+    "isbn": "9780000000275",
+    "state": "completed"
   },
   {
     "id": 276,
@@ -6367,7 +6642,8 @@
       "pandas"
     ],
     "pages": 271,
-    "isbn": "9780000000276"
+    "isbn": "9780000000276",
+    "state": "completed"
   },
   {
     "id": 277,
@@ -6390,7 +6666,8 @@
       "consensus"
     ],
     "pages": 357,
-    "isbn": "9780000000277"
+    "isbn": "9780000000277",
+    "state": "completed"
   },
   {
     "id": 278,
@@ -6413,7 +6690,8 @@
       "traefik"
     ],
     "pages": 442,
-    "isbn": "9780000000278"
+    "isbn": "9780000000278",
+    "state": "completed"
   },
   {
     "id": 279,
@@ -6438,7 +6716,8 @@
       "dynamodb"
     ],
     "pages": 345,
-    "isbn": "9780000000279"
+    "isbn": "9780000000279",
+    "state": "completed"
   },
   {
     "id": 280,
@@ -6462,7 +6741,8 @@
       "sonarqube"
     ],
     "pages": 532,
-    "isbn": "9780000000280"
+    "isbn": "9780000000280",
+    "state": "completed"
   },
   {
     "id": 281,
@@ -6487,7 +6767,8 @@
       "neural-networks"
     ],
     "pages": 642,
-    "isbn": "9780000000281"
+    "isbn": "9780000000281",
+    "state": "completed"
   },
   {
     "id": 282,
@@ -6510,7 +6791,8 @@
       "registry"
     ],
     "pages": 397,
-    "isbn": "9780000000282"
+    "isbn": "9780000000282",
+    "state": "completed"
   },
   {
     "id": 283,
@@ -6534,7 +6816,8 @@
       "redis"
     ],
     "pages": 544,
-    "isbn": "9780000000283"
+    "isbn": "9780000000283",
+    "state": "completed"
   },
   {
     "id": 284,
@@ -6557,7 +6840,8 @@
       "windows"
     ],
     "pages": 434,
-    "isbn": "9780000000284"
+    "isbn": "9780000000284",
+    "state": "completed"
   },
   {
     "id": 285,
@@ -6580,7 +6864,8 @@
       "chef"
     ],
     "pages": 702,
-    "isbn": "9780000000285"
+    "isbn": "9780000000285",
+    "state": "completed"
   },
   {
     "id": 286,
@@ -6605,7 +6890,8 @@
       "terraform"
     ],
     "pages": 300,
-    "isbn": "9780000000286"
+    "isbn": "9780000000286",
+    "state": "completed"
   },
   {
     "id": 287,
@@ -6628,7 +6914,8 @@
       "azure"
     ],
     "pages": 384,
-    "isbn": "9780000000287"
+    "isbn": "9780000000287",
+    "state": "completed"
   },
   {
     "id": 288,
@@ -6652,7 +6939,8 @@
       "cassandra"
     ],
     "pages": 656,
-    "isbn": "9780000000288"
+    "isbn": "9780000000288",
+    "state": "completed"
   },
   {
     "id": 289,
@@ -6677,7 +6965,8 @@
       "vault"
     ],
     "pages": 585,
-    "isbn": "9780000000289"
+    "isbn": "9780000000289",
+    "state": "completed"
   },
   {
     "id": 290,
@@ -6699,7 +6988,8 @@
       "monitoring"
     ],
     "pages": 714,
-    "isbn": "9780000000290"
+    "isbn": "9780000000290",
+    "state": "completed"
   },
   {
     "id": 291,
@@ -6723,7 +7013,8 @@
       "microservices"
     ],
     "pages": 617,
-    "isbn": "9780000000291"
+    "isbn": "9780000000291",
+    "state": "completed"
   },
   {
     "id": 292,
@@ -6746,7 +7037,8 @@
       "ssl"
     ],
     "pages": 488,
-    "isbn": "9780000000292"
+    "isbn": "9780000000292",
+    "state": "completed"
   },
   {
     "id": 293,
@@ -6767,7 +7059,8 @@
       "monitoring"
     ],
     "pages": 428,
-    "isbn": "9780000000293"
+    "isbn": "9780000000293",
+    "state": "completed"
   },
   {
     "id": 294,
@@ -6791,7 +7084,8 @@
       "flink"
     ],
     "pages": 312,
-    "isbn": "9780000000294"
+    "isbn": "9780000000294",
+    "state": "completed"
   },
   {
     "id": 295,
@@ -6814,7 +7108,8 @@
       "nlp"
     ],
     "pages": 551,
-    "isbn": "9780000000295"
+    "isbn": "9780000000295",
+    "state": "completed"
   },
   {
     "id": 296,
@@ -6838,7 +7133,8 @@
       "sharding"
     ],
     "pages": 633,
-    "isbn": "9780000000296"
+    "isbn": "9780000000296",
+    "state": "completed"
   },
   {
     "id": 297,
@@ -6862,7 +7158,8 @@
       "sql"
     ],
     "pages": 683,
-    "isbn": "9780000000297"
+    "isbn": "9780000000297",
+    "state": "completed"
   },
   {
     "id": 298,
@@ -6885,7 +7182,8 @@
       "websocket"
     ],
     "pages": 689,
-    "isbn": "9780000000298"
+    "isbn": "9780000000298",
+    "state": "completed"
   },
   {
     "id": 299,
@@ -6907,7 +7205,8 @@
       "webpack"
     ],
     "pages": 281,
-    "isbn": "9780000000299"
+    "isbn": "9780000000299",
+    "state": "completed"
   },
   {
     "id": 300,
@@ -6929,7 +7228,8 @@
       "vue"
     ],
     "pages": 684,
-    "isbn": "9780000000300"
+    "isbn": "9780000000300",
+    "state": "completed"
   },
   {
     "id": 301,
@@ -6952,7 +7252,8 @@
       "es6"
     ],
     "pages": 459,
-    "isbn": "9780000000301"
+    "isbn": "9780000000301",
+    "state": "completed"
   },
   {
     "id": 302,
@@ -6975,7 +7276,8 @@
       "couchbase"
     ],
     "pages": 293,
-    "isbn": "9780000000302"
+    "isbn": "9780000000302",
+    "state": "completed"
   },
   {
     "id": 303,
@@ -6997,7 +7299,8 @@
       "swift"
     ],
     "pages": 358,
-    "isbn": "9780000000303"
+    "isbn": "9780000000303",
+    "state": "completed"
   },
   {
     "id": 304,
@@ -7021,7 +7324,8 @@
       "monitoring"
     ],
     "pages": 452,
-    "isbn": "9780000000304"
+    "isbn": "9780000000304",
+    "state": "completed"
   },
   {
     "id": 305,
@@ -7043,7 +7347,8 @@
       "envoy"
     ],
     "pages": 307,
-    "isbn": "9780000000305"
+    "isbn": "9780000000305",
+    "state": "completed"
   },
   {
     "id": 306,
@@ -7066,7 +7371,8 @@
       "seaborn"
     ],
     "pages": 292,
-    "isbn": "9780000000306"
+    "isbn": "9780000000306",
+    "state": "completed"
   },
   {
     "id": 307,
@@ -7089,7 +7395,8 @@
       "react"
     ],
     "pages": 699,
-    "isbn": "9780000000307"
+    "isbn": "9780000000307",
+    "state": "completed"
   },
   {
     "id": 308,
@@ -7111,7 +7418,8 @@
       "bootstrap"
     ],
     "pages": 403,
-    "isbn": "9780000000308"
+    "isbn": "9780000000308",
+    "state": "completed"
   },
   {
     "id": 309,
@@ -7133,7 +7441,8 @@
       "pandas"
     ],
     "pages": 268,
-    "isbn": "9780000000309"
+    "isbn": "9780000000309",
+    "state": "completed"
   },
   {
     "id": 310,
@@ -7156,7 +7465,8 @@
       "github"
     ],
     "pages": 416,
-    "isbn": "9780000000310"
+    "isbn": "9780000000310",
+    "state": "completed"
   },
   {
     "id": 311,
@@ -7179,7 +7489,8 @@
       "logging"
     ],
     "pages": 730,
-    "isbn": "9780000000311"
+    "isbn": "9780000000311",
+    "state": "completed"
   },
   {
     "id": 312,
@@ -7200,7 +7511,8 @@
       "css"
     ],
     "pages": 778,
-    "isbn": "9780000000312"
+    "isbn": "9780000000312",
+    "state": "completed"
   },
   {
     "id": 313,
@@ -7224,7 +7536,8 @@
       "flux"
     ],
     "pages": 333,
-    "isbn": "9780000000313"
+    "isbn": "9780000000313",
+    "state": "completed"
   },
   {
     "id": 314,
@@ -7248,7 +7561,8 @@
       "tensorflow"
     ],
     "pages": 403,
-    "isbn": "9780000000314"
+    "isbn": "9780000000314",
+    "state": "completed"
   },
   {
     "id": 315,
@@ -7271,7 +7585,8 @@
       "argocd"
     ],
     "pages": 777,
-    "isbn": "9780000000315"
+    "isbn": "9780000000315",
+    "state": "completed"
   },
   {
     "id": 316,
@@ -7293,7 +7608,8 @@
       "caddy"
     ],
     "pages": 270,
-    "isbn": "9780000000316"
+    "isbn": "9780000000316",
+    "state": "completed"
   },
   {
     "id": 317,
@@ -7317,7 +7633,8 @@
       "react-native"
     ],
     "pages": 429,
-    "isbn": "9780000000317"
+    "isbn": "9780000000317",
+    "state": "completed"
   },
   {
     "id": 318,
@@ -7340,7 +7657,8 @@
       "es6"
     ],
     "pages": 287,
-    "isbn": "9780000000318"
+    "isbn": "9780000000318",
+    "state": "completed"
   },
   {
     "id": 319,
@@ -7364,7 +7682,8 @@
       "artifactory"
     ],
     "pages": 684,
-    "isbn": "9780000000319"
+    "isbn": "9780000000319",
+    "state": "completed"
   },
   {
     "id": 320,
@@ -7388,7 +7707,8 @@
       "react"
     ],
     "pages": 531,
-    "isbn": "9780000000320"
+    "isbn": "9780000000320",
+    "state": "completed"
   },
   {
     "id": 321,
@@ -7412,7 +7732,8 @@
       "opencv"
     ],
     "pages": 710,
-    "isbn": "9780000000321"
+    "isbn": "9780000000321",
+    "state": "completed"
   },
   {
     "id": 322,
@@ -7435,7 +7756,8 @@
       "argocd"
     ],
     "pages": 370,
-    "isbn": "9780000000322"
+    "isbn": "9780000000322",
+    "state": "completed"
   },
   {
     "id": 323,
@@ -7458,7 +7780,8 @@
       "hyperledger"
     ],
     "pages": 547,
-    "isbn": "9780000000323"
+    "isbn": "9780000000323",
+    "state": "completed"
   },
   {
     "id": 324,
@@ -7479,7 +7802,8 @@
       "dynamodb"
     ],
     "pages": 382,
-    "isbn": "9780000000324"
+    "isbn": "9780000000324",
+    "state": "completed"
   },
   {
     "id": 325,
@@ -7502,7 +7826,8 @@
       "hyperledger"
     ],
     "pages": 436,
-    "isbn": "9780000000325"
+    "isbn": "9780000000325",
+    "state": "completed"
   },
   {
     "id": 326,
@@ -7525,7 +7850,8 @@
       "tensorflow"
     ],
     "pages": 531,
-    "isbn": "9780000000326"
+    "isbn": "9780000000326",
+    "state": "completed"
   },
   {
     "id": 327,
@@ -7547,7 +7873,8 @@
       "angular"
     ],
     "pages": 465,
-    "isbn": "9780000000327"
+    "isbn": "9780000000327",
+    "state": "completed"
   },
   {
     "id": 328,
@@ -7570,7 +7897,8 @@
       "agile"
     ],
     "pages": 725,
-    "isbn": "9780000000328"
+    "isbn": "9780000000328",
+    "state": "completed"
   },
   {
     "id": 329,
@@ -7591,7 +7919,8 @@
       "elk"
     ],
     "pages": 301,
-    "isbn": "9780000000329"
+    "isbn": "9780000000329",
+    "state": "completed"
   },
   {
     "id": 330,
@@ -7614,7 +7943,8 @@
       "kubernetes"
     ],
     "pages": 718,
-    "isbn": "9780000000330"
+    "isbn": "9780000000330",
+    "state": "completed"
   },
   {
     "id": 331,
@@ -7636,7 +7966,8 @@
       "kotlin"
     ],
     "pages": 660,
-    "isbn": "9780000000331"
+    "isbn": "9780000000331",
+    "state": "completed"
   },
   {
     "id": 332,
@@ -7658,7 +7989,8 @@
       "css"
     ],
     "pages": 397,
-    "isbn": "9780000000332"
+    "isbn": "9780000000332",
+    "state": "completed"
   },
   {
     "id": 333,
@@ -7682,7 +8014,8 @@
       "scrum"
     ],
     "pages": 556,
-    "isbn": "9780000000333"
+    "isbn": "9780000000333",
+    "state": "completed"
   },
   {
     "id": 334,
@@ -7707,7 +8040,8 @@
       "seaborn"
     ],
     "pages": 302,
-    "isbn": "9780000000334"
+    "isbn": "9780000000334",
+    "state": "completed"
   },
   {
     "id": 335,
@@ -7729,7 +8063,8 @@
       "jwt"
     ],
     "pages": 732,
-    "isbn": "9780000000335"
+    "isbn": "9780000000335",
+    "state": "completed"
   },
   {
     "id": 336,
@@ -7754,7 +8089,8 @@
       "sqs"
     ],
     "pages": 502,
-    "isbn": "9780000000336"
+    "isbn": "9780000000336",
+    "state": "completed"
   },
   {
     "id": 337,
@@ -7779,7 +8115,8 @@
       "hyperledger"
     ],
     "pages": 544,
-    "isbn": "9780000000337"
+    "isbn": "9780000000337",
+    "state": "completed"
   },
   {
     "id": 338,
@@ -7801,7 +8138,8 @@
       "caching"
     ],
     "pages": 673,
-    "isbn": "9780000000338"
+    "isbn": "9780000000338",
+    "state": "completed"
   },
   {
     "id": 339,
@@ -7824,7 +8162,8 @@
       "postgresql"
     ],
     "pages": 487,
-    "isbn": "9780000000339"
+    "isbn": "9780000000339",
+    "state": "completed"
   },
   {
     "id": 340,
@@ -7847,7 +8186,8 @@
       "blockchain"
     ],
     "pages": 786,
-    "isbn": "9780000000340"
+    "isbn": "9780000000340",
+    "state": "completed"
   },
   {
     "id": 341,
@@ -7871,7 +8211,8 @@
       "cypress"
     ],
     "pages": 665,
-    "isbn": "9780000000341"
+    "isbn": "9780000000341",
+    "state": "completed"
   },
   {
     "id": 342,
@@ -7894,7 +8235,8 @@
       "pub-sub"
     ],
     "pages": 261,
-    "isbn": "9780000000342"
+    "isbn": "9780000000342",
+    "state": "completed"
   },
   {
     "id": 343,
@@ -7918,7 +8260,8 @@
       "gitlab"
     ],
     "pages": 632,
-    "isbn": "9780000000343"
+    "isbn": "9780000000343",
+    "state": "completed"
   },
   {
     "id": 344,
@@ -7942,7 +8285,8 @@
       "haproxy"
     ],
     "pages": 782,
-    "isbn": "9780000000344"
+    "isbn": "9780000000344",
+    "state": "completed"
   },
   {
     "id": 345,
@@ -7964,7 +8308,8 @@
       "newrelic"
     ],
     "pages": 655,
-    "isbn": "9780000000345"
+    "isbn": "9780000000345",
+    "state": "completed"
   },
   {
     "id": 346,
@@ -7987,7 +8332,8 @@
       "eslint"
     ],
     "pages": 680,
-    "isbn": "9780000000346"
+    "isbn": "9780000000346",
+    "state": "completed"
   },
   {
     "id": 347,
@@ -8011,7 +8357,8 @@
       "spark"
     ],
     "pages": 684,
-    "isbn": "9780000000347"
+    "isbn": "9780000000347",
+    "state": "completed"
   },
   {
     "id": 348,
@@ -8033,7 +8380,8 @@
       "jwt"
     ],
     "pages": 284,
-    "isbn": "9780000000348"
+    "isbn": "9780000000348",
+    "state": "completed"
   },
   {
     "id": 349,
@@ -8054,7 +8402,8 @@
       "flux"
     ],
     "pages": 576,
-    "isbn": "9780000000349"
+    "isbn": "9780000000349",
+    "state": "completed"
   },
   {
     "id": 350,
@@ -8078,7 +8427,8 @@
       "kustomize"
     ],
     "pages": 640,
-    "isbn": "9780000000350"
+    "isbn": "9780000000350",
+    "state": "completed"
   },
   {
     "id": 351,
@@ -8102,7 +8452,8 @@
       "sql"
     ],
     "pages": 387,
-    "isbn": "9780000000351"
+    "isbn": "9780000000351",
+    "state": "completed"
   },
   {
     "id": 352,
@@ -8126,7 +8477,8 @@
       "couchbase"
     ],
     "pages": 590,
-    "isbn": "9780000000352"
+    "isbn": "9780000000352",
+    "state": "completed"
   },
   {
     "id": 353,
@@ -8150,7 +8502,8 @@
       "flutter"
     ],
     "pages": 775,
-    "isbn": "9780000000353"
+    "isbn": "9780000000353",
+    "state": "completed"
   },
   {
     "id": 354,
@@ -8171,7 +8524,8 @@
       "rabbitmq"
     ],
     "pages": 677,
-    "isbn": "9780000000354"
+    "isbn": "9780000000354",
+    "state": "completed"
   },
   {
     "id": 355,
@@ -8196,7 +8550,8 @@
       "caddy"
     ],
     "pages": 310,
-    "isbn": "9780000000355"
+    "isbn": "9780000000355",
+    "state": "completed"
   },
   {
     "id": 356,
@@ -8219,7 +8574,8 @@
       "zookeeper"
     ],
     "pages": 794,
-    "isbn": "9780000000356"
+    "isbn": "9780000000356",
+    "state": "completed"
   },
   {
     "id": 357,
@@ -8240,7 +8596,8 @@
       "cypress"
     ],
     "pages": 612,
-    "isbn": "9780000000357"
+    "isbn": "9780000000357",
+    "state": "completed"
   },
   {
     "id": 358,
@@ -8263,7 +8620,8 @@
       "dynamodb"
     ],
     "pages": 259,
-    "isbn": "9780000000358"
+    "isbn": "9780000000358",
+    "state": "completed"
   },
   {
     "id": 359,
@@ -8285,7 +8643,8 @@
       "caddy"
     ],
     "pages": 433,
-    "isbn": "9780000000359"
+    "isbn": "9780000000359",
+    "state": "completed"
   },
   {
     "id": 360,
@@ -8307,7 +8666,8 @@
       "bootstrap"
     ],
     "pages": 330,
-    "isbn": "9780000000360"
+    "isbn": "9780000000360",
+    "state": "completed"
   },
   {
     "id": 361,
@@ -8330,7 +8690,8 @@
       "dynamodb"
     ],
     "pages": 639,
-    "isbn": "9780000000361"
+    "isbn": "9780000000361",
+    "state": "completed"
   },
   {
     "id": 362,
@@ -8353,7 +8714,8 @@
       "javascript"
     ],
     "pages": 526,
-    "isbn": "9780000000362"
+    "isbn": "9780000000362",
+    "state": "completed"
   },
   {
     "id": 363,
@@ -8377,7 +8739,8 @@
       "vagrant"
     ],
     "pages": 336,
-    "isbn": "9780000000363"
+    "isbn": "9780000000363",
+    "state": "completed"
   },
   {
     "id": 364,
@@ -8399,7 +8762,8 @@
       "terraform"
     ],
     "pages": 328,
-    "isbn": "9780000000364"
+    "isbn": "9780000000364",
+    "state": "completed"
   },
   {
     "id": 365,
@@ -8422,7 +8786,8 @@
       "api-gateway"
     ],
     "pages": 578,
-    "isbn": "9780000000365"
+    "isbn": "9780000000365",
+    "state": "completed"
   },
   {
     "id": 366,
@@ -8445,7 +8810,8 @@
       "oauth"
     ],
     "pages": 277,
-    "isbn": "9780000000366"
+    "isbn": "9780000000366",
+    "state": "completed"
   },
   {
     "id": 367,
@@ -8468,7 +8834,8 @@
       "consul"
     ],
     "pages": 660,
-    "isbn": "9780000000367"
+    "isbn": "9780000000367",
+    "state": "completed"
   },
   {
     "id": 368,
@@ -8492,7 +8859,8 @@
       "computer-vision"
     ],
     "pages": 350,
-    "isbn": "9780000000368"
+    "isbn": "9780000000368",
+    "state": "completed"
   },
   {
     "id": 369,
@@ -8513,7 +8881,8 @@
       "nosql"
     ],
     "pages": 395,
-    "isbn": "9780000000369"
+    "isbn": "9780000000369",
+    "state": "completed"
   },
   {
     "id": 370,
@@ -8536,7 +8905,8 @@
       "kubernetes"
     ],
     "pages": 418,
-    "isbn": "9780000000370"
+    "isbn": "9780000000370",
+    "state": "completed"
   },
   {
     "id": 371,
@@ -8560,7 +8930,8 @@
       "security"
     ],
     "pages": 648,
-    "isbn": "9780000000371"
+    "isbn": "9780000000371",
+    "state": "completed"
   },
   {
     "id": 372,
@@ -8585,7 +8956,8 @@
       "tailwind"
     ],
     "pages": 366,
-    "isbn": "9780000000372"
+    "isbn": "9780000000372",
+    "state": "completed"
   },
   {
     "id": 373,
@@ -8608,7 +8980,8 @@
       "tailwind"
     ],
     "pages": 642,
-    "isbn": "9780000000373"
+    "isbn": "9780000000373",
+    "state": "completed"
   },
   {
     "id": 374,
@@ -8630,7 +9003,8 @@
       "java"
     ],
     "pages": 643,
-    "isbn": "9780000000374"
+    "isbn": "9780000000374",
+    "state": "completed"
   },
   {
     "id": 375,
@@ -8652,7 +9026,8 @@
       "chef"
     ],
     "pages": 757,
-    "isbn": "9780000000375"
+    "isbn": "9780000000375",
+    "state": "completed"
   },
   {
     "id": 376,
@@ -8677,7 +9052,8 @@
       "elk"
     ],
     "pages": 339,
-    "isbn": "9780000000376"
+    "isbn": "9780000000376",
+    "state": "completed"
   },
   {
     "id": 377,
@@ -8700,7 +9076,8 @@
       "haproxy"
     ],
     "pages": 549,
-    "isbn": "9780000000377"
+    "isbn": "9780000000377",
+    "state": "completed"
   },
   {
     "id": 378,
@@ -8721,7 +9098,8 @@
       "prometheus"
     ],
     "pages": 525,
-    "isbn": "9780000000378"
+    "isbn": "9780000000378",
+    "state": "completed"
   },
   {
     "id": 379,
@@ -8746,7 +9124,8 @@
       "mongodb"
     ],
     "pages": 689,
-    "isbn": "9780000000379"
+    "isbn": "9780000000379",
+    "state": "completed"
   },
   {
     "id": 380,
@@ -8768,7 +9147,8 @@
       "rust"
     ],
     "pages": 411,
-    "isbn": "9780000000380"
+    "isbn": "9780000000380",
+    "state": "completed"
   },
   {
     "id": 381,
@@ -8790,7 +9170,8 @@
       "sharding"
     ],
     "pages": 251,
-    "isbn": "9780000000381"
+    "isbn": "9780000000381",
+    "state": "completed"
   },
   {
     "id": 382,
@@ -8812,7 +9193,8 @@
       "bootstrap"
     ],
     "pages": 354,
-    "isbn": "9780000000382"
+    "isbn": "9780000000382",
+    "state": "completed"
   },
   {
     "id": 383,
@@ -8834,7 +9216,8 @@
       "sql"
     ],
     "pages": 472,
-    "isbn": "9780000000383"
+    "isbn": "9780000000383",
+    "state": "completed"
   },
   {
     "id": 384,
@@ -8856,7 +9239,8 @@
       "puppet"
     ],
     "pages": 558,
-    "isbn": "9780000000384"
+    "isbn": "9780000000384",
+    "state": "completed"
   },
   {
     "id": 385,
@@ -8880,7 +9264,8 @@
       "swift"
     ],
     "pages": 680,
-    "isbn": "9780000000385"
+    "isbn": "9780000000385",
+    "state": "completed"
   },
   {
     "id": 386,
@@ -8903,7 +9288,8 @@
       "migration"
     ],
     "pages": 799,
-    "isbn": "9780000000386"
+    "isbn": "9780000000386",
+    "state": "completed"
   },
   {
     "id": 387,
@@ -8927,7 +9313,8 @@
       "logging"
     ],
     "pages": 694,
-    "isbn": "9780000000387"
+    "isbn": "9780000000387",
+    "state": "completed"
   },
   {
     "id": 388,
@@ -8949,7 +9336,8 @@
       "artifactory"
     ],
     "pages": 379,
-    "isbn": "9780000000388"
+    "isbn": "9780000000388",
+    "state": "completed"
   },
   {
     "id": 389,
@@ -8971,7 +9359,8 @@
       "django"
     ],
     "pages": 420,
-    "isbn": "9780000000389"
+    "isbn": "9780000000389",
+    "state": "completed"
   },
   {
     "id": 390,
@@ -8993,7 +9382,8 @@
       "macos"
     ],
     "pages": 286,
-    "isbn": "9780000000390"
+    "isbn": "9780000000390",
+    "state": "completed"
   },
   {
     "id": 391,
@@ -9018,7 +9408,8 @@
       "artifactory"
     ],
     "pages": 726,
-    "isbn": "9780000000391"
+    "isbn": "9780000000391",
+    "state": "completed"
   },
   {
     "id": 392,
@@ -9040,7 +9431,8 @@
       "objective-c"
     ],
     "pages": 450,
-    "isbn": "9780000000392"
+    "isbn": "9780000000392",
+    "state": "completed"
   },
   {
     "id": 393,
@@ -9063,7 +9455,8 @@
       "jwt"
     ],
     "pages": 753,
-    "isbn": "9780000000393"
+    "isbn": "9780000000393",
+    "state": "completed"
   },
   {
     "id": 394,
@@ -9085,7 +9478,8 @@
       "cassandra"
     ],
     "pages": 695,
-    "isbn": "9780000000394"
+    "isbn": "9780000000394",
+    "state": "completed"
   },
   {
     "id": 395,
@@ -9109,7 +9503,8 @@
       "elk"
     ],
     "pages": 373,
-    "isbn": "9780000000395"
+    "isbn": "9780000000395",
+    "state": "completed"
   },
   {
     "id": 396,
@@ -9133,7 +9528,8 @@
       "windows"
     ],
     "pages": 614,
-    "isbn": "9780000000396"
+    "isbn": "9780000000396",
+    "state": "completed"
   },
   {
     "id": 397,
@@ -9155,7 +9551,8 @@
       "postgresql"
     ],
     "pages": 660,
-    "isbn": "9780000000397"
+    "isbn": "9780000000397",
+    "state": "completed"
   },
   {
     "id": 398,
@@ -9178,7 +9575,8 @@
       "newrelic"
     ],
     "pages": 693,
-    "isbn": "9780000000398"
+    "isbn": "9780000000398",
+    "state": "completed"
   },
   {
     "id": 399,
@@ -9200,7 +9598,8 @@
       "tracing"
     ],
     "pages": 740,
-    "isbn": "9780000000399"
+    "isbn": "9780000000399",
+    "state": "completed"
   },
   {
     "id": 400,
@@ -9223,7 +9622,8 @@
       "flux"
     ],
     "pages": 434,
-    "isbn": "9780000000400"
+    "isbn": "9780000000400",
+    "state": "completed"
   },
   {
     "id": 401,
@@ -9246,7 +9646,8 @@
       "django"
     ],
     "pages": 647,
-    "isbn": "9780000000401"
+    "isbn": "9780000000401",
+    "state": "completed"
   },
   {
     "id": 402,
@@ -9270,7 +9671,8 @@
       "gcp"
     ],
     "pages": 474,
-    "isbn": "9780000000402"
+    "isbn": "9780000000402",
+    "state": "completed"
   },
   {
     "id": 403,
@@ -9293,7 +9695,8 @@
       "kotlin"
     ],
     "pages": 655,
-    "isbn": "9780000000403"
+    "isbn": "9780000000403",
+    "state": "completed"
   },
   {
     "id": 404,
@@ -9317,7 +9720,8 @@
       "hadoop"
     ],
     "pages": 251,
-    "isbn": "9780000000404"
+    "isbn": "9780000000404",
+    "state": "completed"
   },
   {
     "id": 405,
@@ -9340,7 +9744,8 @@
       "scikit-learn"
     ],
     "pages": 521,
-    "isbn": "9780000000405"
+    "isbn": "9780000000405",
+    "state": "completed"
   },
   {
     "id": 406,
@@ -9364,7 +9769,8 @@
       "microservices"
     ],
     "pages": 480,
-    "isbn": "9780000000406"
+    "isbn": "9780000000406",
+    "state": "completed"
   },
   {
     "id": 407,
@@ -9386,7 +9792,8 @@
       "pandas"
     ],
     "pages": 744,
-    "isbn": "9780000000407"
+    "isbn": "9780000000407",
+    "state": "completed"
   },
   {
     "id": 408,
@@ -9411,7 +9818,8 @@
       "spark"
     ],
     "pages": 652,
-    "isbn": "9780000000408"
+    "isbn": "9780000000408",
+    "state": "completed"
   },
   {
     "id": 409,
@@ -9433,7 +9841,8 @@
       "devops"
     ],
     "pages": 368,
-    "isbn": "9780000000409"
+    "isbn": "9780000000409",
+    "state": "completed"
   },
   {
     "id": 410,
@@ -9455,7 +9864,8 @@
       "istio"
     ],
     "pages": 525,
-    "isbn": "9780000000410"
+    "isbn": "9780000000410",
+    "state": "completed"
   },
   {
     "id": 411,
@@ -9478,7 +9888,8 @@
       "pillow"
     ],
     "pages": 330,
-    "isbn": "9780000000411"
+    "isbn": "9780000000411",
+    "state": "completed"
   },
   {
     "id": 412,
@@ -9499,7 +9910,8 @@
       "git"
     ],
     "pages": 695,
-    "isbn": "9780000000412"
+    "isbn": "9780000000412",
+    "state": "completed"
   },
   {
     "id": 413,
@@ -9524,7 +9936,8 @@
       "nosql"
     ],
     "pages": 352,
-    "isbn": "9780000000413"
+    "isbn": "9780000000413",
+    "state": "completed"
   },
   {
     "id": 414,
@@ -9548,7 +9961,8 @@
       "terraform"
     ],
     "pages": 661,
-    "isbn": "9780000000414"
+    "isbn": "9780000000414",
+    "state": "completed"
   },
   {
     "id": 415,
@@ -9571,7 +9985,8 @@
       "gitlab"
     ],
     "pages": 578,
-    "isbn": "9780000000415"
+    "isbn": "9780000000415",
+    "state": "completed"
   },
   {
     "id": 416,
@@ -9593,7 +10008,8 @@
       "pig"
     ],
     "pages": 786,
-    "isbn": "9780000000416"
+    "isbn": "9780000000416",
+    "state": "completed"
   },
   {
     "id": 417,
@@ -9616,7 +10032,8 @@
       "es6"
     ],
     "pages": 497,
-    "isbn": "9780000000417"
+    "isbn": "9780000000417",
+    "state": "completed"
   },
   {
     "id": 418,
@@ -9637,7 +10054,8 @@
       "vue"
     ],
     "pages": 469,
-    "isbn": "9780000000418"
+    "isbn": "9780000000418",
+    "state": "completed"
   },
   {
     "id": 419,
@@ -9658,7 +10076,8 @@
       "caching"
     ],
     "pages": 562,
-    "isbn": "9780000000419"
+    "isbn": "9780000000419",
+    "state": "completed"
   },
   {
     "id": 420,
@@ -9681,7 +10100,8 @@
       "css"
     ],
     "pages": 539,
-    "isbn": "9780000000420"
+    "isbn": "9780000000420",
+    "state": "completed"
   },
   {
     "id": 421,
@@ -9705,7 +10125,8 @@
       "deep-learning"
     ],
     "pages": 759,
-    "isbn": "9780000000421"
+    "isbn": "9780000000421",
+    "state": "completed"
   },
   {
     "id": 422,
@@ -9730,7 +10151,8 @@
       "tdd"
     ],
     "pages": 381,
-    "isbn": "9780000000422"
+    "isbn": "9780000000422",
+    "state": "completed"
   },
   {
     "id": 423,
@@ -9753,7 +10175,8 @@
       "newrelic"
     ],
     "pages": 322,
-    "isbn": "9780000000423"
+    "isbn": "9780000000423",
+    "state": "completed"
   },
   {
     "id": 424,
@@ -9775,7 +10198,8 @@
       "datadog"
     ],
     "pages": 434,
-    "isbn": "9780000000424"
+    "isbn": "9780000000424",
+    "state": "completed"
   },
   {
     "id": 425,
@@ -9797,7 +10221,8 @@
       "service-mesh"
     ],
     "pages": 738,
-    "isbn": "9780000000425"
+    "isbn": "9780000000425",
+    "state": "completed"
   },
   {
     "id": 426,
@@ -9820,7 +10245,8 @@
       "pig"
     ],
     "pages": 765,
-    "isbn": "9780000000426"
+    "isbn": "9780000000426",
+    "state": "completed"
   },
   {
     "id": 427,
@@ -9843,7 +10269,8 @@
       "babel"
     ],
     "pages": 384,
-    "isbn": "9780000000427"
+    "isbn": "9780000000427",
+    "state": "completed"
   },
   {
     "id": 428,
@@ -9865,7 +10292,8 @@
       "kubernetes"
     ],
     "pages": 676,
-    "isbn": "9780000000428"
+    "isbn": "9780000000428",
+    "state": "completed"
   },
   {
     "id": 429,
@@ -9890,7 +10318,8 @@
       "sonarqube"
     ],
     "pages": 366,
-    "isbn": "9780000000429"
+    "isbn": "9780000000429",
+    "state": "completed"
   },
   {
     "id": 430,
@@ -9913,7 +10342,8 @@
       "computer-vision"
     ],
     "pages": 341,
-    "isbn": "9780000000430"
+    "isbn": "9780000000430",
+    "state": "completed"
   },
   {
     "id": 431,
@@ -9937,7 +10367,8 @@
       "sre"
     ],
     "pages": 618,
-    "isbn": "9780000000431"
+    "isbn": "9780000000431",
+    "state": "completed"
   },
   {
     "id": 432,
@@ -9960,7 +10391,8 @@
       "ethereum"
     ],
     "pages": 659,
-    "isbn": "9780000000432"
+    "isbn": "9780000000432",
+    "state": "completed"
   },
   {
     "id": 433,
@@ -9984,7 +10416,8 @@
       "flutter"
     ],
     "pages": 383,
-    "isbn": "9780000000433"
+    "isbn": "9780000000433",
+    "state": "completed"
   },
   {
     "id": 434,
@@ -10006,7 +10439,8 @@
       "numpy"
     ],
     "pages": 504,
-    "isbn": "9780000000434"
+    "isbn": "9780000000434",
+    "state": "completed"
   },
   {
     "id": 435,
@@ -10029,7 +10463,8 @@
       "computer-vision"
     ],
     "pages": 478,
-    "isbn": "9780000000435"
+    "isbn": "9780000000435",
+    "state": "completed"
   },
   {
     "id": 436,
@@ -10052,7 +10487,8 @@
       "babel"
     ],
     "pages": 250,
-    "isbn": "9780000000436"
+    "isbn": "9780000000436",
+    "state": "completed"
   },
   {
     "id": 437,
@@ -10077,7 +10513,8 @@
       "websocket"
     ],
     "pages": 477,
-    "isbn": "9780000000437"
+    "isbn": "9780000000437",
+    "state": "completed"
   },
   {
     "id": 438,
@@ -10100,7 +10537,8 @@
       "security"
     ],
     "pages": 652,
-    "isbn": "9780000000438"
+    "isbn": "9780000000438",
+    "state": "completed"
   },
   {
     "id": 439,
@@ -10122,7 +10560,8 @@
       "vue"
     ],
     "pages": 744,
-    "isbn": "9780000000439"
+    "isbn": "9780000000439",
+    "state": "completed"
   },
   {
     "id": 440,
@@ -10145,7 +10584,8 @@
       "elk"
     ],
     "pages": 774,
-    "isbn": "9780000000440"
+    "isbn": "9780000000440",
+    "state": "completed"
   },
   {
     "id": 441,
@@ -10169,7 +10609,8 @@
       "couchbase"
     ],
     "pages": 677,
-    "isbn": "9780000000441"
+    "isbn": "9780000000441",
+    "state": "completed"
   },
   {
     "id": 442,
@@ -10192,7 +10633,8 @@
       "grafana"
     ],
     "pages": 552,
-    "isbn": "9780000000442"
+    "isbn": "9780000000442",
+    "state": "completed"
   },
   {
     "id": 443,
@@ -10214,7 +10656,8 @@
       "tailwind"
     ],
     "pages": 570,
-    "isbn": "9780000000443"
+    "isbn": "9780000000443",
+    "state": "completed"
   },
   {
     "id": 444,
@@ -10236,7 +10679,8 @@
       "sre"
     ],
     "pages": 291,
-    "isbn": "9780000000444"
+    "isbn": "9780000000444",
+    "state": "completed"
   },
   {
     "id": 445,
@@ -10259,7 +10703,8 @@
       "helm"
     ],
     "pages": 324,
-    "isbn": "9780000000445"
+    "isbn": "9780000000445",
+    "state": "completed"
   },
   {
     "id": 446,
@@ -10282,7 +10727,8 @@
       "computer-vision"
     ],
     "pages": 473,
-    "isbn": "9780000000446"
+    "isbn": "9780000000446",
+    "state": "completed"
   },
   {
     "id": 447,
@@ -10305,7 +10751,8 @@
       "puppet"
     ],
     "pages": 633,
-    "isbn": "9780000000447"
+    "isbn": "9780000000447",
+    "state": "completed"
   },
   {
     "id": 448,
@@ -10326,7 +10773,8 @@
       "encryption"
     ],
     "pages": 460,
-    "isbn": "9780000000448"
+    "isbn": "9780000000448",
+    "state": "completed"
   },
   {
     "id": 449,
@@ -10347,7 +10795,8 @@
       "firebase"
     ],
     "pages": 483,
-    "isbn": "9780000000449"
+    "isbn": "9780000000449",
+    "state": "completed"
   },
   {
     "id": 450,
@@ -10370,7 +10819,8 @@
       "elasticsearch"
     ],
     "pages": 358,
-    "isbn": "9780000000450"
+    "isbn": "9780000000450",
+    "state": "completed"
   },
   {
     "id": 451,
@@ -10391,7 +10841,8 @@
       "typescript"
     ],
     "pages": 397,
-    "isbn": "9780000000451"
+    "isbn": "9780000000451",
+    "state": "completed"
   },
   {
     "id": 452,
@@ -10413,7 +10864,8 @@
       "ssl"
     ],
     "pages": 774,
-    "isbn": "9780000000452"
+    "isbn": "9780000000452",
+    "state": "completed"
   },
   {
     "id": 453,
@@ -10437,7 +10889,8 @@
       "security"
     ],
     "pages": 615,
-    "isbn": "9780000000453"
+    "isbn": "9780000000453",
+    "state": "completed"
   },
   {
     "id": 454,
@@ -10460,7 +10913,8 @@
       "opencv"
     ],
     "pages": 688,
-    "isbn": "9780000000454"
+    "isbn": "9780000000454",
+    "state": "completed"
   },
   {
     "id": 455,
@@ -10484,7 +10938,8 @@
       "graphql"
     ],
     "pages": 333,
-    "isbn": "9780000000455"
+    "isbn": "9780000000455",
+    "state": "completed"
   },
   {
     "id": 456,
@@ -10507,7 +10962,8 @@
       "vault"
     ],
     "pages": 478,
-    "isbn": "9780000000456"
+    "isbn": "9780000000456",
+    "state": "completed"
   },
   {
     "id": 457,
@@ -10529,7 +10985,8 @@
       "nexus"
     ],
     "pages": 433,
-    "isbn": "9780000000457"
+    "isbn": "9780000000457",
+    "state": "completed"
   },
   {
     "id": 458,
@@ -10553,7 +11010,8 @@
       "tailwind"
     ],
     "pages": 297,
-    "isbn": "9780000000458"
+    "isbn": "9780000000458",
+    "state": "completed"
   },
   {
     "id": 459,
@@ -10576,7 +11034,8 @@
       "grafana"
     ],
     "pages": 778,
-    "isbn": "9780000000459"
+    "isbn": "9780000000459",
+    "state": "completed"
   },
   {
     "id": 460,
@@ -10599,7 +11058,8 @@
       "bdd"
     ],
     "pages": 371,
-    "isbn": "9780000000460"
+    "isbn": "9780000000460",
+    "state": "completed"
   },
   {
     "id": 461,
@@ -10623,7 +11083,8 @@
       "react"
     ],
     "pages": 420,
-    "isbn": "9780000000461"
+    "isbn": "9780000000461",
+    "state": "completed"
   },
   {
     "id": 462,
@@ -10647,7 +11108,8 @@
       "tdd"
     ],
     "pages": 520,
-    "isbn": "9780000000462"
+    "isbn": "9780000000462",
+    "state": "completed"
   },
   {
     "id": 463,
@@ -10670,7 +11132,8 @@
       "testing"
     ],
     "pages": 289,
-    "isbn": "9780000000463"
+    "isbn": "9780000000463",
+    "state": "completed"
   },
   {
     "id": 464,
@@ -10695,7 +11158,8 @@
       "less"
     ],
     "pages": 350,
-    "isbn": "9780000000464"
+    "isbn": "9780000000464",
+    "state": "completed"
   },
   {
     "id": 465,
@@ -10719,7 +11183,8 @@
       "sass"
     ],
     "pages": 573,
-    "isbn": "9780000000465"
+    "isbn": "9780000000465",
+    "state": "completed"
   },
   {
     "id": 466,
@@ -10743,7 +11208,8 @@
       "zookeeper"
     ],
     "pages": 745,
-    "isbn": "9780000000466"
+    "isbn": "9780000000466",
+    "state": "completed"
   },
   {
     "id": 467,
@@ -10767,7 +11233,8 @@
       "javascript"
     ],
     "pages": 732,
-    "isbn": "9780000000467"
+    "isbn": "9780000000467",
+    "state": "completed"
   },
   {
     "id": 468,
@@ -10791,7 +11258,8 @@
       "kustomize"
     ],
     "pages": 780,
-    "isbn": "9780000000468"
+    "isbn": "9780000000468",
+    "state": "completed"
   },
   {
     "id": 469,
@@ -10813,7 +11281,8 @@
       "babel"
     ],
     "pages": 265,
-    "isbn": "9780000000469"
+    "isbn": "9780000000469",
+    "state": "completed"
   },
   {
     "id": 470,
@@ -10835,7 +11304,8 @@
       "rabbitmq"
     ],
     "pages": 359,
-    "isbn": "9780000000470"
+    "isbn": "9780000000470",
+    "state": "completed"
   },
   {
     "id": 471,
@@ -10859,7 +11329,8 @@
       "zookeeper"
     ],
     "pages": 641,
-    "isbn": "9780000000471"
+    "isbn": "9780000000471",
+    "state": "completed"
   },
   {
     "id": 472,
@@ -10883,7 +11354,8 @@
       "testing"
     ],
     "pages": 473,
-    "isbn": "9780000000472"
+    "isbn": "9780000000472",
+    "state": "completed"
   },
   {
     "id": 473,
@@ -10907,7 +11379,8 @@
       "ci/cd"
     ],
     "pages": 754,
-    "isbn": "9780000000473"
+    "isbn": "9780000000473",
+    "state": "completed"
   },
   {
     "id": 474,
@@ -10932,7 +11405,8 @@
       "migration"
     ],
     "pages": 764,
-    "isbn": "9780000000474"
+    "isbn": "9780000000474",
+    "state": "completed"
   },
   {
     "id": 475,
@@ -10954,7 +11428,8 @@
       "seaborn"
     ],
     "pages": 515,
-    "isbn": "9780000000475"
+    "isbn": "9780000000475",
+    "state": "completed"
   },
   {
     "id": 476,
@@ -10978,7 +11453,8 @@
       "pillow"
     ],
     "pages": 484,
-    "isbn": "9780000000476"
+    "isbn": "9780000000476",
+    "state": "completed"
   },
   {
     "id": 477,
@@ -11001,7 +11477,8 @@
       "artifactory"
     ],
     "pages": 748,
-    "isbn": "9780000000477"
+    "isbn": "9780000000477",
+    "state": "completed"
   },
   {
     "id": 478,
@@ -11024,7 +11501,8 @@
       "swift"
     ],
     "pages": 513,
-    "isbn": "9780000000478"
+    "isbn": "9780000000478",
+    "state": "completed"
   },
   {
     "id": 479,
@@ -11048,7 +11526,8 @@
       "chef"
     ],
     "pages": 421,
-    "isbn": "9780000000479"
+    "isbn": "9780000000479",
+    "state": "completed"
   },
   {
     "id": 480,
@@ -11073,7 +11552,8 @@
       "envoy"
     ],
     "pages": 783,
-    "isbn": "9780000000480"
+    "isbn": "9780000000480",
+    "state": "completed"
   },
   {
     "id": 481,
@@ -11096,7 +11576,8 @@
       "docker"
     ],
     "pages": 335,
-    "isbn": "9780000000481"
+    "isbn": "9780000000481",
+    "state": "completed"
   },
   {
     "id": 482,
@@ -11120,7 +11601,8 @@
       "flutter"
     ],
     "pages": 728,
-    "isbn": "9780000000482"
+    "isbn": "9780000000482",
+    "state": "completed"
   },
   {
     "id": 483,
@@ -11143,7 +11625,8 @@
       "sql"
     ],
     "pages": 260,
-    "isbn": "9780000000483"
+    "isbn": "9780000000483",
+    "state": "completed"
   },
   {
     "id": 484,
@@ -11166,7 +11649,8 @@
       "javascript"
     ],
     "pages": 671,
-    "isbn": "9780000000484"
+    "isbn": "9780000000484",
+    "state": "completed"
   },
   {
     "id": 485,
@@ -11190,7 +11674,8 @@
       "pub-sub"
     ],
     "pages": 320,
-    "isbn": "9780000000485"
+    "isbn": "9780000000485",
+    "state": "completed"
   },
   {
     "id": 486,
@@ -11211,7 +11696,8 @@
       "serverless"
     ],
     "pages": 698,
-    "isbn": "9780000000486"
+    "isbn": "9780000000486",
+    "state": "completed"
   },
   {
     "id": 487,
@@ -11234,7 +11720,8 @@
       "tensorflow"
     ],
     "pages": 651,
-    "isbn": "9780000000487"
+    "isbn": "9780000000487",
+    "state": "completed"
   },
   {
     "id": 488,
@@ -11256,7 +11743,8 @@
       "datadog"
     ],
     "pages": 463,
-    "isbn": "9780000000488"
+    "isbn": "9780000000488",
+    "state": "completed"
   },
   {
     "id": 489,
@@ -11279,7 +11767,8 @@
       "rest"
     ],
     "pages": 582,
-    "isbn": "9780000000489"
+    "isbn": "9780000000489",
+    "state": "completed"
   },
   {
     "id": 490,
@@ -11301,7 +11790,8 @@
       "agile"
     ],
     "pages": 596,
-    "isbn": "9780000000490"
+    "isbn": "9780000000490",
+    "state": "completed"
   },
   {
     "id": 491,
@@ -11324,7 +11814,8 @@
       "kubernetes"
     ],
     "pages": 387,
-    "isbn": "9780000000491"
+    "isbn": "9780000000491",
+    "state": "completed"
   },
   {
     "id": 492,
@@ -11347,7 +11838,8 @@
       "scrum"
     ],
     "pages": 710,
-    "isbn": "9780000000492"
+    "isbn": "9780000000492",
+    "state": "completed"
   },
   {
     "id": 493,
@@ -11369,7 +11861,8 @@
       "mongodb"
     ],
     "pages": 444,
-    "isbn": "9780000000493"
+    "isbn": "9780000000493",
+    "state": "completed"
   },
   {
     "id": 494,
@@ -11390,7 +11883,8 @@
       "azure"
     ],
     "pages": 446,
-    "isbn": "9780000000494"
+    "isbn": "9780000000494",
+    "state": "completed"
   },
   {
     "id": 495,
@@ -11411,7 +11905,8 @@
       "tensorflow"
     ],
     "pages": 312,
-    "isbn": "9780000000495"
+    "isbn": "9780000000495",
+    "state": "completed"
   },
   {
     "id": 496,
@@ -11435,7 +11930,8 @@
       "selenium"
     ],
     "pages": 504,
-    "isbn": "9780000000496"
+    "isbn": "9780000000496",
+    "state": "completed"
   },
   {
     "id": 497,
@@ -11457,7 +11953,8 @@
       "agile"
     ],
     "pages": 610,
-    "isbn": "9780000000497"
+    "isbn": "9780000000497",
+    "state": "completed"
   },
   {
     "id": 498,
@@ -11480,7 +11977,8 @@
       "puppet"
     ],
     "pages": 388,
-    "isbn": "9780000000498"
+    "isbn": "9780000000498",
+    "state": "completed"
   },
   {
     "id": 499,
@@ -11502,7 +12000,8 @@
       "sqs"
     ],
     "pages": 505,
-    "isbn": "9780000000499"
+    "isbn": "9780000000499",
+    "state": "completed"
   },
   {
     "id": 500,
@@ -11526,7 +12025,8 @@
       "gcp"
     ],
     "pages": 307,
-    "isbn": "9780000000500"
+    "isbn": "9780000000500",
+    "state": "completed"
   },
   {
     "id": 501,
@@ -11549,7 +12049,8 @@
       "flux"
     ],
     "pages": 652,
-    "isbn": "9780000000501"
+    "isbn": "9780000000501",
+    "state": "completed"
   },
   {
     "id": 502,
@@ -11573,7 +12074,8 @@
       "sqs"
     ],
     "pages": 694,
-    "isbn": "9780000000502"
+    "isbn": "9780000000502",
+    "state": "completed"
   },
   {
     "id": 503,
@@ -11597,7 +12099,8 @@
       "elasticsearch"
     ],
     "pages": 581,
-    "isbn": "9780000000503"
+    "isbn": "9780000000503",
+    "state": "completed"
   },
   {
     "id": 504,
@@ -11619,7 +12122,8 @@
       "devops"
     ],
     "pages": 702,
-    "isbn": "9780000000504"
+    "isbn": "9780000000504",
+    "state": "completed"
   },
   {
     "id": 505,
@@ -11640,7 +12144,8 @@
       "golang"
     ],
     "pages": 363,
-    "isbn": "9780000000505"
+    "isbn": "9780000000505",
+    "state": "completed"
   },
   {
     "id": 506,
@@ -11664,7 +12169,8 @@
       "devops"
     ],
     "pages": 527,
-    "isbn": "9780000000506"
+    "isbn": "9780000000506",
+    "state": "completed"
   },
   {
     "id": 507,
@@ -11688,7 +12194,8 @@
       "apache"
     ],
     "pages": 762,
-    "isbn": "9780000000507"
+    "isbn": "9780000000507",
+    "state": "completed"
   },
   {
     "id": 508,
@@ -11711,7 +12218,8 @@
       "monitoring"
     ],
     "pages": 313,
-    "isbn": "9780000000508"
+    "isbn": "9780000000508",
+    "state": "completed"
   },
   {
     "id": 509,
@@ -11735,7 +12243,8 @@
       "nosql"
     ],
     "pages": 686,
-    "isbn": "9780000000509"
+    "isbn": "9780000000509",
+    "state": "completed"
   },
   {
     "id": 510,
@@ -11756,7 +12265,8 @@
       "agile"
     ],
     "pages": 795,
-    "isbn": "9780000000510"
+    "isbn": "9780000000510",
+    "state": "completed"
   },
   {
     "id": 511,
@@ -11779,7 +12289,8 @@
       "github"
     ],
     "pages": 523,
-    "isbn": "9780000000511"
+    "isbn": "9780000000511",
+    "state": "completed"
   },
   {
     "id": 512,
@@ -11803,7 +12314,8 @@
       "helm"
     ],
     "pages": 447,
-    "isbn": "9780000000512"
+    "isbn": "9780000000512",
+    "state": "completed"
   },
   {
     "id": 513,
@@ -11826,7 +12338,8 @@
       "prometheus"
     ],
     "pages": 292,
-    "isbn": "9780000000513"
+    "isbn": "9780000000513",
+    "state": "completed"
   },
   {
     "id": 514,
@@ -11850,7 +12363,8 @@
       "firebase"
     ],
     "pages": 300,
-    "isbn": "9780000000514"
+    "isbn": "9780000000514",
+    "state": "completed"
   },
   {
     "id": 515,
@@ -11873,7 +12387,8 @@
       "rest"
     ],
     "pages": 388,
-    "isbn": "9780000000515"
+    "isbn": "9780000000515",
+    "state": "completed"
   },
   {
     "id": 516,
@@ -11897,7 +12412,8 @@
       "websocket"
     ],
     "pages": 337,
-    "isbn": "9780000000516"
+    "isbn": "9780000000516",
+    "state": "completed"
   },
   {
     "id": 517,
@@ -11918,7 +12434,8 @@
       "nodejs"
     ],
     "pages": 706,
-    "isbn": "9780000000517"
+    "isbn": "9780000000517",
+    "state": "completed"
   },
   {
     "id": 518,
@@ -11941,7 +12458,8 @@
       "consul"
     ],
     "pages": 331,
-    "isbn": "9780000000518"
+    "isbn": "9780000000518",
+    "state": "completed"
   },
   {
     "id": 519,
@@ -11963,7 +12481,8 @@
       "spark"
     ],
     "pages": 300,
-    "isbn": "9780000000519"
+    "isbn": "9780000000519",
+    "state": "completed"
   },
   {
     "id": 520,
@@ -11986,7 +12505,8 @@
       "mongodb"
     ],
     "pages": 387,
-    "isbn": "9780000000520"
+    "isbn": "9780000000520",
+    "state": "completed"
   },
   {
     "id": 521,
@@ -12009,7 +12529,8 @@
       "matplotlib"
     ],
     "pages": 758,
-    "isbn": "9780000000521"
+    "isbn": "9780000000521",
+    "state": "completed"
   },
   {
     "id": 522,
@@ -12033,7 +12554,8 @@
       "angular"
     ],
     "pages": 467,
-    "isbn": "9780000000522"
+    "isbn": "9780000000522",
+    "state": "completed"
   },
   {
     "id": 523,
@@ -12057,7 +12579,8 @@
       "cypress"
     ],
     "pages": 740,
-    "isbn": "9780000000523"
+    "isbn": "9780000000523",
+    "state": "completed"
   },
   {
     "id": 524,
@@ -12082,7 +12605,8 @@
       "rust"
     ],
     "pages": 589,
-    "isbn": "9780000000524"
+    "isbn": "9780000000524",
+    "state": "completed"
   },
   {
     "id": 525,
@@ -12106,7 +12630,8 @@
       "hive"
     ],
     "pages": 528,
-    "isbn": "9780000000525"
+    "isbn": "9780000000525",
+    "state": "completed"
   },
   {
     "id": 526,
@@ -12128,7 +12653,8 @@
       "envoy"
     ],
     "pages": 744,
-    "isbn": "9780000000526"
+    "isbn": "9780000000526",
+    "state": "completed"
   },
   {
     "id": 527,
@@ -12151,7 +12677,8 @@
       "harbor"
     ],
     "pages": 295,
-    "isbn": "9780000000527"
+    "isbn": "9780000000527",
+    "state": "completed"
   },
   {
     "id": 528,
@@ -12174,7 +12701,8 @@
       "chef"
     ],
     "pages": 701,
-    "isbn": "9780000000528"
+    "isbn": "9780000000528",
+    "state": "completed"
   },
   {
     "id": 529,
@@ -12197,7 +12725,8 @@
       "pillow"
     ],
     "pages": 568,
-    "isbn": "9780000000529"
+    "isbn": "9780000000529",
+    "state": "completed"
   },
   {
     "id": 530,
@@ -12219,7 +12748,8 @@
       "consul"
     ],
     "pages": 590,
-    "isbn": "9780000000530"
+    "isbn": "9780000000530",
+    "state": "completed"
   },
   {
     "id": 531,
@@ -12244,7 +12774,8 @@
       "caching"
     ],
     "pages": 514,
-    "isbn": "9780000000531"
+    "isbn": "9780000000531",
+    "state": "completed"
   },
   {
     "id": 532,
@@ -12268,7 +12799,8 @@
       "git"
     ],
     "pages": 359,
-    "isbn": "9780000000532"
+    "isbn": "9780000000532",
+    "state": "completed"
   },
   {
     "id": 533,
@@ -12290,7 +12822,8 @@
       "ssl"
     ],
     "pages": 695,
-    "isbn": "9780000000533"
+    "isbn": "9780000000533",
+    "state": "completed"
   },
   {
     "id": 534,
@@ -12312,7 +12845,8 @@
       "testing"
     ],
     "pages": 361,
-    "isbn": "9780000000534"
+    "isbn": "9780000000534",
+    "state": "completed"
   },
   {
     "id": 535,
@@ -12333,7 +12867,8 @@
       "elk"
     ],
     "pages": 707,
-    "isbn": "9780000000535"
+    "isbn": "9780000000535",
+    "state": "completed"
   },
   {
     "id": 536,
@@ -12355,7 +12890,8 @@
       "mongodb"
     ],
     "pages": 617,
-    "isbn": "9780000000536"
+    "isbn": "9780000000536",
+    "state": "completed"
   },
   {
     "id": 537,
@@ -12377,7 +12913,8 @@
       "linux"
     ],
     "pages": 618,
-    "isbn": "9780000000537"
+    "isbn": "9780000000537",
+    "state": "completed"
   },
   {
     "id": 538,
@@ -12399,7 +12936,8 @@
       "splunk"
     ],
     "pages": 434,
-    "isbn": "9780000000538"
+    "isbn": "9780000000538",
+    "state": "completed"
   },
   {
     "id": 539,
@@ -12423,7 +12961,8 @@
       "caddy"
     ],
     "pages": 288,
-    "isbn": "9780000000539"
+    "isbn": "9780000000539",
+    "state": "completed"
   },
   {
     "id": 540,
@@ -12447,7 +12986,8 @@
       "cassandra"
     ],
     "pages": 569,
-    "isbn": "9780000000540"
+    "isbn": "9780000000540",
+    "state": "completed"
   },
   {
     "id": 541,
@@ -12470,7 +13010,8 @@
       "neo4j"
     ],
     "pages": 734,
-    "isbn": "9780000000541"
+    "isbn": "9780000000541",
+    "state": "completed"
   },
   {
     "id": 542,
@@ -12493,7 +13034,8 @@
       "golang"
     ],
     "pages": 404,
-    "isbn": "9780000000542"
+    "isbn": "9780000000542",
+    "state": "completed"
   },
   {
     "id": 543,
@@ -12516,7 +13058,8 @@
       "istio"
     ],
     "pages": 603,
-    "isbn": "9780000000543"
+    "isbn": "9780000000543",
+    "state": "completed"
   },
   {
     "id": 544,
@@ -12540,7 +13083,8 @@
       "windows"
     ],
     "pages": 262,
-    "isbn": "9780000000544"
+    "isbn": "9780000000544",
+    "state": "completed"
   },
   {
     "id": 545,
@@ -12564,7 +13108,8 @@
       "plotly"
     ],
     "pages": 497,
-    "isbn": "9780000000545"
+    "isbn": "9780000000545",
+    "state": "completed"
   },
   {
     "id": 546,
@@ -12585,7 +13130,8 @@
       "microservices"
     ],
     "pages": 706,
-    "isbn": "9780000000546"
+    "isbn": "9780000000546",
+    "state": "completed"
   },
   {
     "id": 547,
@@ -12606,7 +13152,8 @@
       "github"
     ],
     "pages": 439,
-    "isbn": "9780000000547"
+    "isbn": "9780000000547",
+    "state": "completed"
   },
   {
     "id": 548,
@@ -12629,7 +13176,8 @@
       "postgresql"
     ],
     "pages": 311,
-    "isbn": "9780000000548"
+    "isbn": "9780000000548",
+    "state": "completed"
   },
   {
     "id": 549,
@@ -12654,7 +13202,8 @@
       "serverless"
     ],
     "pages": 506,
-    "isbn": "9780000000549"
+    "isbn": "9780000000549",
+    "state": "completed"
   },
   {
     "id": 550,
@@ -12676,7 +13225,8 @@
       "helm"
     ],
     "pages": 321,
-    "isbn": "9780000000550"
+    "isbn": "9780000000550",
+    "state": "completed"
   },
   {
     "id": 551,
@@ -12700,7 +13250,8 @@
       "vagrant"
     ],
     "pages": 290,
-    "isbn": "9780000000551"
+    "isbn": "9780000000551",
+    "state": "completed"
   },
   {
     "id": 552,
@@ -12721,7 +13272,8 @@
       "helm"
     ],
     "pages": 565,
-    "isbn": "9780000000552"
+    "isbn": "9780000000552",
+    "state": "completed"
   },
   {
     "id": 553,
@@ -12744,7 +13296,8 @@
       "macos"
     ],
     "pages": 287,
-    "isbn": "9780000000553"
+    "isbn": "9780000000553",
+    "state": "completed"
   },
   {
     "id": 554,
@@ -12765,7 +13318,8 @@
       "devops"
     ],
     "pages": 358,
-    "isbn": "9780000000554"
+    "isbn": "9780000000554",
+    "state": "completed"
   },
   {
     "id": 555,
@@ -12787,7 +13341,8 @@
       "sre"
     ],
     "pages": 530,
-    "isbn": "9780000000555"
+    "isbn": "9780000000555",
+    "state": "completed"
   },
   {
     "id": 556,
@@ -12809,7 +13364,8 @@
       "tensorflow"
     ],
     "pages": 341,
-    "isbn": "9780000000556"
+    "isbn": "9780000000556",
+    "state": "completed"
   },
   {
     "id": 557,
@@ -12833,7 +13389,8 @@
       "scikit-learn"
     ],
     "pages": 254,
-    "isbn": "9780000000557"
+    "isbn": "9780000000557",
+    "state": "completed"
   },
   {
     "id": 558,
@@ -12855,7 +13412,8 @@
       "rest"
     ],
     "pages": 735,
-    "isbn": "9780000000558"
+    "isbn": "9780000000558",
+    "state": "completed"
   },
   {
     "id": 559,
@@ -12880,7 +13438,8 @@
       "agile"
     ],
     "pages": 368,
-    "isbn": "9780000000559"
+    "isbn": "9780000000559",
+    "state": "completed"
   },
   {
     "id": 560,
@@ -12902,7 +13461,8 @@
       "oauth"
     ],
     "pages": 325,
-    "isbn": "9780000000560"
+    "isbn": "9780000000560",
+    "state": "completed"
   },
   {
     "id": 561,
@@ -12925,7 +13485,8 @@
       "blockchain"
     ],
     "pages": 311,
-    "isbn": "9780000000561"
+    "isbn": "9780000000561",
+    "state": "completed"
   },
   {
     "id": 562,
@@ -12948,7 +13509,8 @@
       "harbor"
     ],
     "pages": 734,
-    "isbn": "9780000000562"
+    "isbn": "9780000000562",
+    "state": "completed"
   },
   {
     "id": 563,
@@ -12969,7 +13531,8 @@
       "vault"
     ],
     "pages": 793,
-    "isbn": "9780000000563"
+    "isbn": "9780000000563",
+    "state": "completed"
   },
   {
     "id": 564,
@@ -12992,7 +13555,8 @@
       "pandas"
     ],
     "pages": 562,
-    "isbn": "9780000000564"
+    "isbn": "9780000000564",
+    "state": "completed"
   },
   {
     "id": 565,
@@ -13014,7 +13578,8 @@
       "bootstrap"
     ],
     "pages": 553,
-    "isbn": "9780000000565"
+    "isbn": "9780000000565",
+    "state": "completed"
   },
   {
     "id": 566,
@@ -13038,7 +13603,8 @@
       "couchbase"
     ],
     "pages": 459,
-    "isbn": "9780000000566"
+    "isbn": "9780000000566",
+    "state": "completed"
   },
   {
     "id": 567,
@@ -13061,7 +13627,8 @@
       "hyperledger"
     ],
     "pages": 789,
-    "isbn": "9780000000567"
+    "isbn": "9780000000567",
+    "state": "completed"
   },
   {
     "id": 568,
@@ -13083,7 +13650,8 @@
       "kanban"
     ],
     "pages": 401,
-    "isbn": "9780000000568"
+    "isbn": "9780000000568",
+    "state": "completed"
   },
   {
     "id": 569,
@@ -13106,7 +13674,8 @@
       "selenium"
     ],
     "pages": 487,
-    "isbn": "9780000000569"
+    "isbn": "9780000000569",
+    "state": "completed"
   },
   {
     "id": 570,
@@ -13128,7 +13697,8 @@
       "load-balancing"
     ],
     "pages": 298,
-    "isbn": "9780000000570"
+    "isbn": "9780000000570",
+    "state": "completed"
   },
   {
     "id": 571,
@@ -13149,7 +13719,8 @@
       "react"
     ],
     "pages": 701,
-    "isbn": "9780000000571"
+    "isbn": "9780000000571",
+    "state": "completed"
   },
   {
     "id": 572,
@@ -13173,7 +13744,8 @@
       "datadog"
     ],
     "pages": 769,
-    "isbn": "9780000000572"
+    "isbn": "9780000000572",
+    "state": "completed"
   },
   {
     "id": 573,
@@ -13198,7 +13770,8 @@
       "docker"
     ],
     "pages": 475,
-    "isbn": "9780000000573"
+    "isbn": "9780000000573",
+    "state": "completed"
   },
   {
     "id": 574,
@@ -13221,7 +13794,8 @@
       "typescript"
     ],
     "pages": 773,
-    "isbn": "9780000000574"
+    "isbn": "9780000000574",
+    "state": "completed"
   },
   {
     "id": 575,
@@ -13244,7 +13818,8 @@
       "performance"
     ],
     "pages": 703,
-    "isbn": "9780000000575"
+    "isbn": "9780000000575",
+    "state": "completed"
   },
   {
     "id": 576,
@@ -13268,7 +13843,8 @@
       "eslint"
     ],
     "pages": 723,
-    "isbn": "9780000000576"
+    "isbn": "9780000000576",
+    "state": "completed"
   },
   {
     "id": 577,
@@ -13292,7 +13868,8 @@
       "python"
     ],
     "pages": 733,
-    "isbn": "9780000000577"
+    "isbn": "9780000000577",
+    "state": "completed"
   },
   {
     "id": 578,
@@ -13317,7 +13894,8 @@
       "ci/cd"
     ],
     "pages": 267,
-    "isbn": "9780000000578"
+    "isbn": "9780000000578",
+    "state": "completed"
   },
   {
     "id": 579,
@@ -13342,7 +13920,8 @@
       "nginx"
     ],
     "pages": 437,
-    "isbn": "9780000000579"
+    "isbn": "9780000000579",
+    "state": "completed"
   },
   {
     "id": 580,
@@ -13367,7 +13946,8 @@
       "linux"
     ],
     "pages": 746,
-    "isbn": "9780000000580"
+    "isbn": "9780000000580",
+    "state": "completed"
   },
   {
     "id": 581,
@@ -13389,7 +13969,8 @@
       "github"
     ],
     "pages": 569,
-    "isbn": "9780000000581"
+    "isbn": "9780000000581",
+    "state": "completed"
   },
   {
     "id": 582,
@@ -13410,7 +13991,8 @@
       "git"
     ],
     "pages": 685,
-    "isbn": "9780000000582"
+    "isbn": "9780000000582",
+    "state": "completed"
   },
   {
     "id": 583,
@@ -13433,7 +14015,8 @@
       "grafana"
     ],
     "pages": 260,
-    "isbn": "9780000000583"
+    "isbn": "9780000000583",
+    "state": "completed"
   },
   {
     "id": 584,
@@ -13456,7 +14039,8 @@
       "logging"
     ],
     "pages": 351,
-    "isbn": "9780000000584"
+    "isbn": "9780000000584",
+    "state": "completed"
   },
   {
     "id": 585,
@@ -13480,7 +14064,8 @@
       "tdd"
     ],
     "pages": 469,
-    "isbn": "9780000000585"
+    "isbn": "9780000000585",
+    "state": "completed"
   },
   {
     "id": 586,
@@ -13503,7 +14088,8 @@
       "bootstrap"
     ],
     "pages": 569,
-    "isbn": "9780000000586"
+    "isbn": "9780000000586",
+    "state": "completed"
   },
   {
     "id": 587,
@@ -13527,7 +14113,8 @@
       "pytorch"
     ],
     "pages": 660,
-    "isbn": "9780000000587"
+    "isbn": "9780000000587",
+    "state": "completed"
   },
   {
     "id": 588,
@@ -13550,7 +14137,8 @@
       "seaborn"
     ],
     "pages": 659,
-    "isbn": "9780000000588"
+    "isbn": "9780000000588",
+    "state": "completed"
   },
   {
     "id": 589,
@@ -13574,7 +14162,8 @@
       "nodejs"
     ],
     "pages": 277,
-    "isbn": "9780000000589"
+    "isbn": "9780000000589",
+    "state": "completed"
   },
   {
     "id": 590,
@@ -13598,7 +14187,8 @@
       "caddy"
     ],
     "pages": 690,
-    "isbn": "9780000000590"
+    "isbn": "9780000000590",
+    "state": "completed"
   },
   {
     "id": 591,
@@ -13621,7 +14211,8 @@
       "pig"
     ],
     "pages": 362,
-    "isbn": "9780000000591"
+    "isbn": "9780000000591",
+    "state": "completed"
   },
   {
     "id": 592,
@@ -13645,7 +14236,8 @@
       "postgresql"
     ],
     "pages": 381,
-    "isbn": "9780000000592"
+    "isbn": "9780000000592",
+    "state": "completed"
   },
   {
     "id": 593,
@@ -13668,7 +14260,8 @@
       "monitoring"
     ],
     "pages": 317,
-    "isbn": "9780000000593"
+    "isbn": "9780000000593",
+    "state": "completed"
   },
   {
     "id": 594,
@@ -13693,7 +14286,8 @@
       "sass"
     ],
     "pages": 350,
-    "isbn": "9780000000594"
+    "isbn": "9780000000594",
+    "state": "completed"
   },
   {
     "id": 595,
@@ -13715,7 +14309,8 @@
       "cassandra"
     ],
     "pages": 521,
-    "isbn": "9780000000595"
+    "isbn": "9780000000595",
+    "state": "completed"
   },
   {
     "id": 596,
@@ -13739,7 +14334,8 @@
       "spinnaker"
     ],
     "pages": 570,
-    "isbn": "9780000000596"
+    "isbn": "9780000000596",
+    "state": "completed"
   },
   {
     "id": 597,
@@ -13764,7 +14360,8 @@
       "harbor"
     ],
     "pages": 401,
-    "isbn": "9780000000597"
+    "isbn": "9780000000597",
+    "state": "completed"
   },
   {
     "id": 598,
@@ -13788,7 +14385,8 @@
       "websocket"
     ],
     "pages": 501,
-    "isbn": "9780000000598"
+    "isbn": "9780000000598",
+    "state": "completed"
   },
   {
     "id": 599,
@@ -13810,7 +14408,8 @@
       "testing"
     ],
     "pages": 270,
-    "isbn": "9780000000599"
+    "isbn": "9780000000599",
+    "state": "completed"
   },
   {
     "id": 600,
@@ -13834,7 +14433,8 @@
       "seaborn"
     ],
     "pages": 342,
-    "isbn": "9780000000600"
+    "isbn": "9780000000600",
+    "state": "completed"
   },
   {
     "id": 601,
@@ -13855,7 +14455,8 @@
       "istio"
     ],
     "pages": 307,
-    "isbn": "9780000000601"
+    "isbn": "9780000000601",
+    "state": "completed"
   },
   {
     "id": 602,
@@ -13877,7 +14478,8 @@
       "kubernetes"
     ],
     "pages": 305,
-    "isbn": "9780000000602"
+    "isbn": "9780000000602",
+    "state": "completed"
   },
   {
     "id": 603,
@@ -13900,7 +14502,8 @@
       "kafka"
     ],
     "pages": 491,
-    "isbn": "9780000000603"
+    "isbn": "9780000000603",
+    "state": "completed"
   },
   {
     "id": 604,
@@ -13923,7 +14526,8 @@
       "rabbitmq"
     ],
     "pages": 680,
-    "isbn": "9780000000604"
+    "isbn": "9780000000604",
+    "state": "completed"
   },
   {
     "id": 605,
@@ -13945,7 +14549,8 @@
       "pytorch"
     ],
     "pages": 778,
-    "isbn": "9780000000605"
+    "isbn": "9780000000605",
+    "state": "completed"
   },
   {
     "id": 606,
@@ -13968,7 +14573,8 @@
       "pytorch"
     ],
     "pages": 652,
-    "isbn": "9780000000606"
+    "isbn": "9780000000606",
+    "state": "completed"
   },
   {
     "id": 607,
@@ -13991,7 +14597,8 @@
       "macos"
     ],
     "pages": 370,
-    "isbn": "9780000000607"
+    "isbn": "9780000000607",
+    "state": "completed"
   },
   {
     "id": 608,
@@ -14014,7 +14621,8 @@
       "puppet"
     ],
     "pages": 668,
-    "isbn": "9780000000608"
+    "isbn": "9780000000608",
+    "state": "completed"
   },
   {
     "id": 609,
@@ -14038,7 +14646,8 @@
       "migration"
     ],
     "pages": 347,
-    "isbn": "9780000000609"
+    "isbn": "9780000000609",
+    "state": "completed"
   },
   {
     "id": 610,
@@ -14063,7 +14672,8 @@
       "react"
     ],
     "pages": 423,
-    "isbn": "9780000000610"
+    "isbn": "9780000000610",
+    "state": "completed"
   },
   {
     "id": 611,
@@ -14084,7 +14694,8 @@
       "argocd"
     ],
     "pages": 690,
-    "isbn": "9780000000611"
+    "isbn": "9780000000611",
+    "state": "completed"
   },
   {
     "id": 612,
@@ -14107,7 +14718,8 @@
       "load-balancing"
     ],
     "pages": 516,
-    "isbn": "9780000000612"
+    "isbn": "9780000000612",
+    "state": "completed"
   },
   {
     "id": 613,
@@ -14130,7 +14742,8 @@
       "puppet"
     ],
     "pages": 770,
-    "isbn": "9780000000613"
+    "isbn": "9780000000613",
+    "state": "completed"
   },
   {
     "id": 614,
@@ -14154,7 +14767,8 @@
       "jenkins"
     ],
     "pages": 358,
-    "isbn": "9780000000614"
+    "isbn": "9780000000614",
+    "state": "completed"
   },
   {
     "id": 615,
@@ -14177,7 +14791,8 @@
       "github"
     ],
     "pages": 539,
-    "isbn": "9780000000615"
+    "isbn": "9780000000615",
+    "state": "completed"
   },
   {
     "id": 616,
@@ -14200,7 +14815,8 @@
       "tailwind"
     ],
     "pages": 407,
-    "isbn": "9780000000616"
+    "isbn": "9780000000616",
+    "state": "completed"
   },
   {
     "id": 617,
@@ -14225,7 +14841,8 @@
       "bdd"
     ],
     "pages": 345,
-    "isbn": "9780000000617"
+    "isbn": "9780000000617",
+    "state": "completed"
   },
   {
     "id": 618,
@@ -14248,7 +14865,8 @@
       "spark"
     ],
     "pages": 552,
-    "isbn": "9780000000618"
+    "isbn": "9780000000618",
+    "state": "completed"
   },
   {
     "id": 619,
@@ -14273,7 +14891,8 @@
       "websocket"
     ],
     "pages": 436,
-    "isbn": "9780000000619"
+    "isbn": "9780000000619",
+    "state": "completed"
   },
   {
     "id": 620,
@@ -14297,7 +14916,8 @@
       "apache"
     ],
     "pages": 369,
-    "isbn": "9780000000620"
+    "isbn": "9780000000620",
+    "state": "completed"
   },
   {
     "id": 621,
@@ -14319,7 +14939,8 @@
       "rust"
     ],
     "pages": 464,
-    "isbn": "9780000000621"
+    "isbn": "9780000000621",
+    "state": "completed"
   },
   {
     "id": 622,
@@ -14342,7 +14963,8 @@
       "bash"
     ],
     "pages": 270,
-    "isbn": "9780000000622"
+    "isbn": "9780000000622",
+    "state": "completed"
   },
   {
     "id": 623,
@@ -14367,7 +14989,8 @@
       "gcp"
     ],
     "pages": 775,
-    "isbn": "9780000000623"
+    "isbn": "9780000000623",
+    "state": "completed"
   },
   {
     "id": 624,
@@ -14391,7 +15014,8 @@
       "hyperledger"
     ],
     "pages": 271,
-    "isbn": "9780000000624"
+    "isbn": "9780000000624",
+    "state": "completed"
   },
   {
     "id": 625,
@@ -14416,7 +15040,8 @@
       "vault"
     ],
     "pages": 539,
-    "isbn": "9780000000625"
+    "isbn": "9780000000625",
+    "state": "completed"
   },
   {
     "id": 626,
@@ -14438,7 +15063,8 @@
       "flutter"
     ],
     "pages": 412,
-    "isbn": "9780000000626"
+    "isbn": "9780000000626",
+    "state": "completed"
   },
   {
     "id": 627,
@@ -14460,7 +15086,8 @@
       "angular"
     ],
     "pages": 777,
-    "isbn": "9780000000627"
+    "isbn": "9780000000627",
+    "state": "completed"
   },
   {
     "id": 628,
@@ -14481,7 +15108,8 @@
       "ci/cd"
     ],
     "pages": 410,
-    "isbn": "9780000000628"
+    "isbn": "9780000000628",
+    "state": "completed"
   },
   {
     "id": 629,
@@ -14503,7 +15131,8 @@
       "consul"
     ],
     "pages": 425,
-    "isbn": "9780000000629"
+    "isbn": "9780000000629",
+    "state": "completed"
   },
   {
     "id": 630,
@@ -14527,7 +15156,8 @@
       "windows"
     ],
     "pages": 779,
-    "isbn": "9780000000630"
+    "isbn": "9780000000630",
+    "state": "completed"
   },
   {
     "id": 631,
@@ -14550,7 +15180,8 @@
       "webpack"
     ],
     "pages": 571,
-    "isbn": "9780000000631"
+    "isbn": "9780000000631",
+    "state": "completed"
   },
   {
     "id": 632,
@@ -14572,7 +15203,8 @@
       "haproxy"
     ],
     "pages": 379,
-    "isbn": "9780000000632"
+    "isbn": "9780000000632",
+    "state": "completed"
   },
   {
     "id": 633,
@@ -14595,7 +15227,8 @@
       "migration"
     ],
     "pages": 311,
-    "isbn": "9780000000633"
+    "isbn": "9780000000633",
+    "state": "completed"
   },
   {
     "id": 634,
@@ -14618,7 +15251,8 @@
       "linux"
     ],
     "pages": 503,
-    "isbn": "9780000000634"
+    "isbn": "9780000000634",
+    "state": "completed"
   },
   {
     "id": 635,
@@ -14641,7 +15275,8 @@
       "encryption"
     ],
     "pages": 788,
-    "isbn": "9780000000635"
+    "isbn": "9780000000635",
+    "state": "completed"
   },
   {
     "id": 636,
@@ -14663,7 +15298,8 @@
       "datadog"
     ],
     "pages": 791,
-    "isbn": "9780000000636"
+    "isbn": "9780000000636",
+    "state": "completed"
   },
   {
     "id": 637,
@@ -14686,7 +15322,8 @@
       "bash"
     ],
     "pages": 633,
-    "isbn": "9780000000637"
+    "isbn": "9780000000637",
+    "state": "completed"
   },
   {
     "id": 638,
@@ -14711,7 +15348,8 @@
       "nosql"
     ],
     "pages": 713,
-    "isbn": "9780000000638"
+    "isbn": "9780000000638",
+    "state": "completed"
   },
   {
     "id": 639,
@@ -14735,7 +15373,8 @@
       "es6"
     ],
     "pages": 703,
-    "isbn": "9780000000639"
+    "isbn": "9780000000639",
+    "state": "completed"
   },
   {
     "id": 640,
@@ -14758,7 +15397,8 @@
       "rust"
     ],
     "pages": 434,
-    "isbn": "9780000000640"
+    "isbn": "9780000000640",
+    "state": "completed"
   },
   {
     "id": 641,
@@ -14782,7 +15422,8 @@
       "docker"
     ],
     "pages": 513,
-    "isbn": "9780000000641"
+    "isbn": "9780000000641",
+    "state": "completed"
   },
   {
     "id": 642,
@@ -14804,7 +15445,8 @@
       "nlp"
     ],
     "pages": 309,
-    "isbn": "9780000000642"
+    "isbn": "9780000000642",
+    "state": "completed"
   },
   {
     "id": 643,
@@ -14827,7 +15469,8 @@
       "spinnaker"
     ],
     "pages": 312,
-    "isbn": "9780000000643"
+    "isbn": "9780000000643",
+    "state": "completed"
   },
   {
     "id": 644,
@@ -14850,7 +15493,8 @@
       "eslint"
     ],
     "pages": 762,
-    "isbn": "9780000000644"
+    "isbn": "9780000000644",
+    "state": "completed"
   },
   {
     "id": 645,
@@ -14874,7 +15518,8 @@
       "zookeeper"
     ],
     "pages": 639,
-    "isbn": "9780000000645"
+    "isbn": "9780000000645",
+    "state": "completed"
   },
   {
     "id": 646,
@@ -14898,7 +15543,8 @@
       "ssl"
     ],
     "pages": 575,
-    "isbn": "9780000000646"
+    "isbn": "9780000000646",
+    "state": "completed"
   },
   {
     "id": 647,
@@ -14920,7 +15566,8 @@
       "consul"
     ],
     "pages": 427,
-    "isbn": "9780000000647"
+    "isbn": "9780000000647",
+    "state": "completed"
   },
   {
     "id": 648,
@@ -14944,7 +15591,8 @@
       "java"
     ],
     "pages": 447,
-    "isbn": "9780000000648"
+    "isbn": "9780000000648",
+    "state": "completed"
   },
   {
     "id": 649,
@@ -14968,7 +15616,8 @@
       "javascript"
     ],
     "pages": 655,
-    "isbn": "9780000000649"
+    "isbn": "9780000000649",
+    "state": "completed"
   },
   {
     "id": 650,
@@ -14989,7 +15638,8 @@
       "rabbitmq"
     ],
     "pages": 785,
-    "isbn": "9780000000650"
+    "isbn": "9780000000650",
+    "state": "completed"
   },
   {
     "id": 651,
@@ -15011,7 +15661,8 @@
       "jenkins"
     ],
     "pages": 620,
-    "isbn": "9780000000651"
+    "isbn": "9780000000651",
+    "state": "completed"
   },
   {
     "id": 652,
@@ -15033,7 +15684,8 @@
       "docker"
     ],
     "pages": 326,
-    "isbn": "9780000000652"
+    "isbn": "9780000000652",
+    "state": "completed"
   },
   {
     "id": 653,
@@ -15056,7 +15708,8 @@
       "logging"
     ],
     "pages": 591,
-    "isbn": "9780000000653"
+    "isbn": "9780000000653",
+    "state": "completed"
   },
   {
     "id": 654,
@@ -15078,7 +15731,8 @@
       "postgresql"
     ],
     "pages": 692,
-    "isbn": "9780000000654"
+    "isbn": "9780000000654",
+    "state": "completed"
   },
   {
     "id": 655,
@@ -15102,7 +15756,8 @@
       "artifactory"
     ],
     "pages": 360,
-    "isbn": "9780000000655"
+    "isbn": "9780000000655",
+    "state": "completed"
   },
   {
     "id": 656,
@@ -15125,7 +15780,8 @@
       "postgresql"
     ],
     "pages": 696,
-    "isbn": "9780000000656"
+    "isbn": "9780000000656",
+    "state": "completed"
   },
   {
     "id": 657,
@@ -15149,7 +15805,8 @@
       "spinnaker"
     ],
     "pages": 682,
-    "isbn": "9780000000657"
+    "isbn": "9780000000657",
+    "state": "completed"
   },
   {
     "id": 658,
@@ -15173,7 +15830,8 @@
       "computer-vision"
     ],
     "pages": 293,
-    "isbn": "9780000000658"
+    "isbn": "9780000000658",
+    "state": "completed"
   },
   {
     "id": 659,
@@ -15195,7 +15853,8 @@
       "swift"
     ],
     "pages": 280,
-    "isbn": "9780000000659"
+    "isbn": "9780000000659",
+    "state": "completed"
   },
   {
     "id": 660,
@@ -15218,7 +15877,8 @@
       "dynamodb"
     ],
     "pages": 272,
-    "isbn": "9780000000660"
+    "isbn": "9780000000660",
+    "state": "completed"
   },
   {
     "id": 661,
@@ -15241,7 +15901,8 @@
       "service-mesh"
     ],
     "pages": 383,
-    "isbn": "9780000000661"
+    "isbn": "9780000000661",
+    "state": "completed"
   },
   {
     "id": 662,
@@ -15263,7 +15924,8 @@
       "ansible"
     ],
     "pages": 750,
-    "isbn": "9780000000662"
+    "isbn": "9780000000662",
+    "state": "completed"
   },
   {
     "id": 663,
@@ -15287,7 +15949,8 @@
       "kustomize"
     ],
     "pages": 660,
-    "isbn": "9780000000663"
+    "isbn": "9780000000663",
+    "state": "completed"
   },
   {
     "id": 664,
@@ -15309,7 +15972,8 @@
       "agile"
     ],
     "pages": 336,
-    "isbn": "9780000000664"
+    "isbn": "9780000000664",
+    "state": "completed"
   },
   {
     "id": 665,
@@ -15333,7 +15997,8 @@
       "objective-c"
     ],
     "pages": 641,
-    "isbn": "9780000000665"
+    "isbn": "9780000000665",
+    "state": "completed"
   },
   {
     "id": 666,
@@ -15356,7 +16021,8 @@
       "oauth"
     ],
     "pages": 587,
-    "isbn": "9780000000666"
+    "isbn": "9780000000666",
+    "state": "completed"
   },
   {
     "id": 667,
@@ -15381,7 +16047,8 @@
       "macos"
     ],
     "pages": 464,
-    "isbn": "9780000000667"
+    "isbn": "9780000000667",
+    "state": "completed"
   },
   {
     "id": 668,
@@ -15404,7 +16071,8 @@
       "css"
     ],
     "pages": 381,
-    "isbn": "9780000000668"
+    "isbn": "9780000000668",
+    "state": "completed"
   },
   {
     "id": 669,
@@ -15426,7 +16094,8 @@
       "bash"
     ],
     "pages": 650,
-    "isbn": "9780000000669"
+    "isbn": "9780000000669",
+    "state": "completed"
   },
   {
     "id": 670,
@@ -15450,7 +16119,8 @@
       "docker"
     ],
     "pages": 645,
-    "isbn": "9780000000670"
+    "isbn": "9780000000670",
+    "state": "completed"
   },
   {
     "id": 671,
@@ -15472,7 +16142,8 @@
       "haproxy"
     ],
     "pages": 320,
-    "isbn": "9780000000671"
+    "isbn": "9780000000671",
+    "state": "completed"
   },
   {
     "id": 672,
@@ -15494,7 +16165,8 @@
       "consul"
     ],
     "pages": 502,
-    "isbn": "9780000000672"
+    "isbn": "9780000000672",
+    "state": "completed"
   },
   {
     "id": 673,
@@ -15518,7 +16190,8 @@
       "nosql"
     ],
     "pages": 692,
-    "isbn": "9780000000673"
+    "isbn": "9780000000673",
+    "state": "completed"
   },
   {
     "id": 674,
@@ -15541,7 +16214,8 @@
       "kustomize"
     ],
     "pages": 374,
-    "isbn": "9780000000674"
+    "isbn": "9780000000674",
+    "state": "completed"
   },
   {
     "id": 675,
@@ -15564,7 +16238,8 @@
       "webpack"
     ],
     "pages": 260,
-    "isbn": "9780000000675"
+    "isbn": "9780000000675",
+    "state": "completed"
   },
   {
     "id": 676,
@@ -15589,7 +16264,8 @@
       "jenkins"
     ],
     "pages": 422,
-    "isbn": "9780000000676"
+    "isbn": "9780000000676",
+    "state": "completed"
   },
   {
     "id": 677,
@@ -15612,7 +16288,8 @@
       "tailwind"
     ],
     "pages": 254,
-    "isbn": "9780000000677"
+    "isbn": "9780000000677",
+    "state": "completed"
   },
   {
     "id": 678,
@@ -15635,7 +16312,8 @@
       "optimization"
     ],
     "pages": 421,
-    "isbn": "9780000000678"
+    "isbn": "9780000000678",
+    "state": "completed"
   },
   {
     "id": 679,
@@ -15657,7 +16335,8 @@
       "graphql"
     ],
     "pages": 265,
-    "isbn": "9780000000679"
+    "isbn": "9780000000679",
+    "state": "completed"
   },
   {
     "id": 680,
@@ -15680,7 +16359,8 @@
       "haproxy"
     ],
     "pages": 347,
-    "isbn": "9780000000680"
+    "isbn": "9780000000680",
+    "state": "completed"
   },
   {
     "id": 681,
@@ -15703,7 +16383,8 @@
       "cdn"
     ],
     "pages": 263,
-    "isbn": "9780000000681"
+    "isbn": "9780000000681",
+    "state": "completed"
   },
   {
     "id": 682,
@@ -15725,7 +16406,8 @@
       "macos"
     ],
     "pages": 288,
-    "isbn": "9780000000682"
+    "isbn": "9780000000682",
+    "state": "completed"
   },
   {
     "id": 683,
@@ -15749,7 +16431,8 @@
       "jwt"
     ],
     "pages": 504,
-    "isbn": "9780000000683"
+    "isbn": "9780000000683",
+    "state": "completed"
   },
   {
     "id": 684,
@@ -15771,7 +16454,8 @@
       "nodejs"
     ],
     "pages": 343,
-    "isbn": "9780000000684"
+    "isbn": "9780000000684",
+    "state": "completed"
   },
   {
     "id": 685,
@@ -15793,7 +16477,8 @@
       "flink"
     ],
     "pages": 456,
-    "isbn": "9780000000685"
+    "isbn": "9780000000685",
+    "state": "completed"
   },
   {
     "id": 686,
@@ -15817,7 +16502,8 @@
       "sharding"
     ],
     "pages": 800,
-    "isbn": "9780000000686"
+    "isbn": "9780000000686",
+    "state": "completed"
   },
   {
     "id": 687,
@@ -15840,7 +16526,8 @@
       "security"
     ],
     "pages": 254,
-    "isbn": "9780000000687"
+    "isbn": "9780000000687",
+    "state": "completed"
   },
   {
     "id": 688,
@@ -15862,7 +16549,8 @@
       "bootstrap"
     ],
     "pages": 696,
-    "isbn": "9780000000688"
+    "isbn": "9780000000688",
+    "state": "completed"
   },
   {
     "id": 689,
@@ -15886,7 +16574,8 @@
       "splunk"
     ],
     "pages": 415,
-    "isbn": "9780000000689"
+    "isbn": "9780000000689",
+    "state": "completed"
   },
   {
     "id": 690,
@@ -15910,7 +16599,8 @@
       "sql"
     ],
     "pages": 602,
-    "isbn": "9780000000690"
+    "isbn": "9780000000690",
+    "state": "completed"
   },
   {
     "id": 691,
@@ -15934,7 +16624,8 @@
       "api-gateway"
     ],
     "pages": 440,
-    "isbn": "9780000000691"
+    "isbn": "9780000000691",
+    "state": "completed"
   },
   {
     "id": 692,
@@ -15955,7 +16646,8 @@
       "rabbitmq"
     ],
     "pages": 361,
-    "isbn": "9780000000692"
+    "isbn": "9780000000692",
+    "state": "completed"
   },
   {
     "id": 693,
@@ -15978,7 +16670,8 @@
       "postgresql"
     ],
     "pages": 292,
-    "isbn": "9780000000693"
+    "isbn": "9780000000693",
+    "state": "completed"
   },
   {
     "id": 694,
@@ -16002,7 +16695,8 @@
       "django"
     ],
     "pages": 352,
-    "isbn": "9780000000694"
+    "isbn": "9780000000694",
+    "state": "completed"
   },
   {
     "id": 695,
@@ -16026,7 +16720,8 @@
       "selenium"
     ],
     "pages": 579,
-    "isbn": "9780000000695"
+    "isbn": "9780000000695",
+    "state": "completed"
   },
   {
     "id": 696,
@@ -16049,7 +16744,8 @@
       "unix"
     ],
     "pages": 766,
-    "isbn": "9780000000696"
+    "isbn": "9780000000696",
+    "state": "completed"
   },
   {
     "id": 697,
@@ -16071,7 +16767,8 @@
       "scikit-learn"
     ],
     "pages": 279,
-    "isbn": "9780000000697"
+    "isbn": "9780000000697",
+    "state": "completed"
   },
   {
     "id": 698,
@@ -16094,7 +16791,8 @@
       "mongodb"
     ],
     "pages": 640,
-    "isbn": "9780000000698"
+    "isbn": "9780000000698",
+    "state": "completed"
   },
   {
     "id": 699,
@@ -16117,7 +16815,8 @@
       "objective-c"
     ],
     "pages": 639,
-    "isbn": "9780000000699"
+    "isbn": "9780000000699",
+    "state": "completed"
   },
   {
     "id": 700,
@@ -16141,7 +16840,8 @@
       "java"
     ],
     "pages": 573,
-    "isbn": "9780000000700"
+    "isbn": "9780000000700",
+    "state": "completed"
   },
   {
     "id": 701,
@@ -16165,7 +16865,8 @@
       "kustomize"
     ],
     "pages": 310,
-    "isbn": "9780000000701"
+    "isbn": "9780000000701",
+    "state": "completed"
   },
   {
     "id": 702,
@@ -16189,7 +16890,8 @@
       "consul"
     ],
     "pages": 650,
-    "isbn": "9780000000702"
+    "isbn": "9780000000702",
+    "state": "completed"
   },
   {
     "id": 703,
@@ -16212,7 +16914,8 @@
       "linux"
     ],
     "pages": 548,
-    "isbn": "9780000000703"
+    "isbn": "9780000000703",
+    "state": "completed"
   },
   {
     "id": 704,
@@ -16234,7 +16937,8 @@
       "flutter"
     ],
     "pages": 370,
-    "isbn": "9780000000704"
+    "isbn": "9780000000704",
+    "state": "completed"
   },
   {
     "id": 705,
@@ -16258,7 +16962,8 @@
       "newrelic"
     ],
     "pages": 705,
-    "isbn": "9780000000705"
+    "isbn": "9780000000705",
+    "state": "completed"
   },
   {
     "id": 706,
@@ -16282,7 +16987,8 @@
       "zookeeper"
     ],
     "pages": 378,
-    "isbn": "9780000000706"
+    "isbn": "9780000000706",
+    "state": "completed"
   },
   {
     "id": 707,
@@ -16303,7 +17009,8 @@
       "tdd"
     ],
     "pages": 255,
-    "isbn": "9780000000707"
+    "isbn": "9780000000707",
+    "state": "completed"
   },
   {
     "id": 708,
@@ -16325,7 +17032,8 @@
       "spinnaker"
     ],
     "pages": 425,
-    "isbn": "9780000000708"
+    "isbn": "9780000000708",
+    "state": "completed"
   },
   {
     "id": 709,
@@ -16349,7 +17057,8 @@
       "ssl"
     ],
     "pages": 295,
-    "isbn": "9780000000709"
+    "isbn": "9780000000709",
+    "state": "completed"
   },
   {
     "id": 710,
@@ -16372,7 +17081,8 @@
       "scrum"
     ],
     "pages": 510,
-    "isbn": "9780000000710"
+    "isbn": "9780000000710",
+    "state": "completed"
   },
   {
     "id": 711,
@@ -16394,7 +17104,8 @@
       "prometheus"
     ],
     "pages": 794,
-    "isbn": "9780000000711"
+    "isbn": "9780000000711",
+    "state": "completed"
   },
   {
     "id": 712,
@@ -16418,7 +17129,8 @@
       "serverless"
     ],
     "pages": 563,
-    "isbn": "9780000000712"
+    "isbn": "9780000000712",
+    "state": "completed"
   },
   {
     "id": 713,
@@ -16441,7 +17153,8 @@
       "hyperledger"
     ],
     "pages": 662,
-    "isbn": "9780000000713"
+    "isbn": "9780000000713",
+    "state": "completed"
   },
   {
     "id": 714,
@@ -16465,7 +17178,8 @@
       "datadog"
     ],
     "pages": 729,
-    "isbn": "9780000000714"
+    "isbn": "9780000000714",
+    "state": "completed"
   },
   {
     "id": 715,
@@ -16488,7 +17202,8 @@
       "matplotlib"
     ],
     "pages": 542,
-    "isbn": "9780000000715"
+    "isbn": "9780000000715",
+    "state": "completed"
   },
   {
     "id": 716,
@@ -16510,7 +17225,8 @@
       "apache"
     ],
     "pages": 790,
-    "isbn": "9780000000716"
+    "isbn": "9780000000716",
+    "state": "completed"
   },
   {
     "id": 717,
@@ -16534,7 +17250,8 @@
       "css"
     ],
     "pages": 505,
-    "isbn": "9780000000717"
+    "isbn": "9780000000717",
+    "state": "completed"
   },
   {
     "id": 718,
@@ -16559,7 +17276,8 @@
       "nacos"
     ],
     "pages": 721,
-    "isbn": "9780000000718"
+    "isbn": "9780000000718",
+    "state": "completed"
   },
   {
     "id": 719,
@@ -16581,7 +17299,8 @@
       "nexus"
     ],
     "pages": 749,
-    "isbn": "9780000000719"
+    "isbn": "9780000000719",
+    "state": "completed"
   },
   {
     "id": 720,
@@ -16606,7 +17325,8 @@
       "react-native"
     ],
     "pages": 453,
-    "isbn": "9780000000720"
+    "isbn": "9780000000720",
+    "state": "completed"
   },
   {
     "id": 721,
@@ -16629,7 +17349,8 @@
       "helm"
     ],
     "pages": 380,
-    "isbn": "9780000000721"
+    "isbn": "9780000000721",
+    "state": "completed"
   },
   {
     "id": 722,
@@ -16652,7 +17373,8 @@
       "ethereum"
     ],
     "pages": 258,
-    "isbn": "9780000000722"
+    "isbn": "9780000000722",
+    "state": "completed"
   },
   {
     "id": 723,
@@ -16675,7 +17397,8 @@
       "consul"
     ],
     "pages": 764,
-    "isbn": "9780000000723"
+    "isbn": "9780000000723",
+    "state": "completed"
   },
   {
     "id": 724,
@@ -16697,7 +17420,8 @@
       "pandas"
     ],
     "pages": 787,
-    "isbn": "9780000000724"
+    "isbn": "9780000000724",
+    "state": "completed"
   },
   {
     "id": 725,
@@ -16721,7 +17445,8 @@
       "orm"
     ],
     "pages": 436,
-    "isbn": "9780000000725"
+    "isbn": "9780000000725",
+    "state": "completed"
   },
   {
     "id": 726,
@@ -16745,7 +17470,8 @@
       "golang"
     ],
     "pages": 383,
-    "isbn": "9780000000726"
+    "isbn": "9780000000726",
+    "state": "completed"
   },
   {
     "id": 727,
@@ -16768,7 +17494,8 @@
       "cypress"
     ],
     "pages": 326,
-    "isbn": "9780000000727"
+    "isbn": "9780000000727",
+    "state": "completed"
   },
   {
     "id": 728,
@@ -16791,7 +17518,8 @@
       "ci/cd"
     ],
     "pages": 679,
-    "isbn": "9780000000728"
+    "isbn": "9780000000728",
+    "state": "completed"
   },
   {
     "id": 729,
@@ -16813,7 +17541,8 @@
       "nexus"
     ],
     "pages": 771,
-    "isbn": "9780000000729"
+    "isbn": "9780000000729",
+    "state": "completed"
   },
   {
     "id": 730,
@@ -16835,7 +17564,8 @@
       "rabbitmq"
     ],
     "pages": 553,
-    "isbn": "9780000000730"
+    "isbn": "9780000000730",
+    "state": "completed"
   },
   {
     "id": 731,
@@ -16857,7 +17587,8 @@
       "nodejs"
     ],
     "pages": 797,
-    "isbn": "9780000000731"
+    "isbn": "9780000000731",
+    "state": "completed"
   },
   {
     "id": 732,
@@ -16880,7 +17611,8 @@
       "optimization"
     ],
     "pages": 266,
-    "isbn": "9780000000732"
+    "isbn": "9780000000732",
+    "state": "completed"
   },
   {
     "id": 733,
@@ -16905,7 +17637,8 @@
       "cdn"
     ],
     "pages": 740,
-    "isbn": "9780000000733"
+    "isbn": "9780000000733",
+    "state": "completed"
   },
   {
     "id": 734,
@@ -16927,7 +17660,8 @@
       "typescript"
     ],
     "pages": 396,
-    "isbn": "9780000000734"
+    "isbn": "9780000000734",
+    "state": "completed"
   },
   {
     "id": 735,
@@ -16951,7 +17685,8 @@
       "pytorch"
     ],
     "pages": 263,
-    "isbn": "9780000000735"
+    "isbn": "9780000000735",
+    "state": "completed"
   },
   {
     "id": 736,
@@ -16973,7 +17708,8 @@
       "caddy"
     ],
     "pages": 376,
-    "isbn": "9780000000736"
+    "isbn": "9780000000736",
+    "state": "completed"
   },
   {
     "id": 737,
@@ -16995,7 +17731,8 @@
       "chef"
     ],
     "pages": 643,
-    "isbn": "9780000000737"
+    "isbn": "9780000000737",
+    "state": "completed"
   },
   {
     "id": 738,
@@ -17018,7 +17755,8 @@
       "macos"
     ],
     "pages": 592,
-    "isbn": "9780000000738"
+    "isbn": "9780000000738",
+    "state": "completed"
   },
   {
     "id": 739,
@@ -17041,7 +17779,8 @@
       "macos"
     ],
     "pages": 649,
-    "isbn": "9780000000739"
+    "isbn": "9780000000739",
+    "state": "completed"
   },
   {
     "id": 740,
@@ -17064,7 +17803,8 @@
       "kustomize"
     ],
     "pages": 673,
-    "isbn": "9780000000740"
+    "isbn": "9780000000740",
+    "state": "completed"
   },
   {
     "id": 741,
@@ -17089,7 +17829,8 @@
       "optimization"
     ],
     "pages": 252,
-    "isbn": "9780000000741"
+    "isbn": "9780000000741",
+    "state": "completed"
   },
   {
     "id": 742,
@@ -17112,7 +17853,8 @@
       "caching"
     ],
     "pages": 370,
-    "isbn": "9780000000742"
+    "isbn": "9780000000742",
+    "state": "completed"
   },
   {
     "id": 743,
@@ -17133,7 +17875,8 @@
       "unix"
     ],
     "pages": 262,
-    "isbn": "9780000000743"
+    "isbn": "9780000000743",
+    "state": "completed"
   },
   {
     "id": 744,
@@ -17156,7 +17899,8 @@
       "rest"
     ],
     "pages": 282,
-    "isbn": "9780000000744"
+    "isbn": "9780000000744",
+    "state": "completed"
   },
   {
     "id": 745,
@@ -17180,7 +17924,8 @@
       "pandas"
     ],
     "pages": 466,
-    "isbn": "9780000000745"
+    "isbn": "9780000000745",
+    "state": "completed"
   },
   {
     "id": 746,
@@ -17203,7 +17948,8 @@
       "migration"
     ],
     "pages": 356,
-    "isbn": "9780000000746"
+    "isbn": "9780000000746",
+    "state": "completed"
   },
   {
     "id": 747,
@@ -17225,7 +17971,8 @@
       "oauth"
     ],
     "pages": 337,
-    "isbn": "9780000000747"
+    "isbn": "9780000000747",
+    "state": "completed"
   },
   {
     "id": 748,
@@ -17247,7 +17994,8 @@
       "typescript"
     ],
     "pages": 349,
-    "isbn": "9780000000748"
+    "isbn": "9780000000748",
+    "state": "completed"
   },
   {
     "id": 749,
@@ -17272,7 +18020,8 @@
       "cdn"
     ],
     "pages": 394,
-    "isbn": "9780000000749"
+    "isbn": "9780000000749",
+    "state": "completed"
   },
   {
     "id": 750,
@@ -17297,7 +18046,8 @@
       "argocd"
     ],
     "pages": 396,
-    "isbn": "9780000000750"
+    "isbn": "9780000000750",
+    "state": "completed"
   },
   {
     "id": 751,
@@ -17319,7 +18069,8 @@
       "react-native"
     ],
     "pages": 721,
-    "isbn": "9780000000751"
+    "isbn": "9780000000751",
+    "state": "completed"
   },
   {
     "id": 752,
@@ -17342,7 +18093,8 @@
       "kotlin"
     ],
     "pages": 571,
-    "isbn": "9780000000752"
+    "isbn": "9780000000752",
+    "state": "completed"
   },
   {
     "id": 753,
@@ -17366,7 +18118,8 @@
       "tailwind"
     ],
     "pages": 607,
-    "isbn": "9780000000753"
+    "isbn": "9780000000753",
+    "state": "completed"
   },
   {
     "id": 754,
@@ -17389,7 +18142,8 @@
       "consul"
     ],
     "pages": 289,
-    "isbn": "9780000000754"
+    "isbn": "9780000000754",
+    "state": "completed"
   },
   {
     "id": 755,
@@ -17411,7 +18165,8 @@
       "kubernetes"
     ],
     "pages": 430,
-    "isbn": "9780000000755"
+    "isbn": "9780000000755",
+    "state": "completed"
   },
   {
     "id": 756,
@@ -17434,7 +18189,8 @@
       "security"
     ],
     "pages": 736,
-    "isbn": "9780000000756"
+    "isbn": "9780000000756",
+    "state": "completed"
   },
   {
     "id": 757,
@@ -17457,7 +18213,8 @@
       "datadog"
     ],
     "pages": 574,
-    "isbn": "9780000000757"
+    "isbn": "9780000000757",
+    "state": "completed"
   },
   {
     "id": 758,
@@ -17478,7 +18235,8 @@
       "caddy"
     ],
     "pages": 471,
-    "isbn": "9780000000758"
+    "isbn": "9780000000758",
+    "state": "completed"
   },
   {
     "id": 759,
@@ -17502,7 +18260,8 @@
       "harbor"
     ],
     "pages": 719,
-    "isbn": "9780000000759"
+    "isbn": "9780000000759",
+    "state": "completed"
   },
   {
     "id": 760,
@@ -17524,7 +18283,8 @@
       "rust"
     ],
     "pages": 356,
-    "isbn": "9780000000760"
+    "isbn": "9780000000760",
+    "state": "completed"
   },
   {
     "id": 761,
@@ -17547,7 +18307,8 @@
       "websocket"
     ],
     "pages": 377,
-    "isbn": "9780000000761"
+    "isbn": "9780000000761",
+    "state": "completed"
   },
   {
     "id": 762,
@@ -17570,7 +18331,8 @@
       "nosql"
     ],
     "pages": 407,
-    "isbn": "9780000000762"
+    "isbn": "9780000000762",
+    "state": "completed"
   },
   {
     "id": 763,
@@ -17594,7 +18356,8 @@
       "sre"
     ],
     "pages": 779,
-    "isbn": "9780000000763"
+    "isbn": "9780000000763",
+    "state": "completed"
   },
   {
     "id": 764,
@@ -17617,7 +18380,8 @@
       "service-mesh"
     ],
     "pages": 406,
-    "isbn": "9780000000764"
+    "isbn": "9780000000764",
+    "state": "completed"
   },
   {
     "id": 765,
@@ -17642,7 +18406,8 @@
       "haproxy"
     ],
     "pages": 637,
-    "isbn": "9780000000765"
+    "isbn": "9780000000765",
+    "state": "completed"
   },
   {
     "id": 766,
@@ -17663,7 +18428,8 @@
       "sqs"
     ],
     "pages": 756,
-    "isbn": "9780000000766"
+    "isbn": "9780000000766",
+    "state": "completed"
   },
   {
     "id": 767,
@@ -17686,7 +18452,8 @@
       "elk"
     ],
     "pages": 260,
-    "isbn": "9780000000767"
+    "isbn": "9780000000767",
+    "state": "completed"
   },
   {
     "id": 768,
@@ -17710,7 +18477,8 @@
       "artifactory"
     ],
     "pages": 471,
-    "isbn": "9780000000768"
+    "isbn": "9780000000768",
+    "state": "completed"
   },
   {
     "id": 769,
@@ -17732,7 +18500,8 @@
       "dynamodb"
     ],
     "pages": 757,
-    "isbn": "9780000000769"
+    "isbn": "9780000000769",
+    "state": "completed"
   },
   {
     "id": 770,
@@ -17756,7 +18525,8 @@
       "graphql"
     ],
     "pages": 454,
-    "isbn": "9780000000770"
+    "isbn": "9780000000770",
+    "state": "completed"
   },
   {
     "id": 771,
@@ -17779,7 +18549,8 @@
       "neural-networks"
     ],
     "pages": 616,
-    "isbn": "9780000000771"
+    "isbn": "9780000000771",
+    "state": "completed"
   },
   {
     "id": 772,
@@ -17804,7 +18575,8 @@
       "mongodb"
     ],
     "pages": 467,
-    "isbn": "9780000000772"
+    "isbn": "9780000000772",
+    "state": "completed"
   },
   {
     "id": 773,
@@ -17828,7 +18600,8 @@
       "jenkins"
     ],
     "pages": 584,
-    "isbn": "9780000000773"
+    "isbn": "9780000000773",
+    "state": "completed"
   },
   {
     "id": 774,
@@ -17853,7 +18626,8 @@
       "redis"
     ],
     "pages": 675,
-    "isbn": "9780000000774"
+    "isbn": "9780000000774",
+    "state": "completed"
   },
   {
     "id": 775,
@@ -17876,7 +18650,8 @@
       "serverless"
     ],
     "pages": 260,
-    "isbn": "9780000000775"
+    "isbn": "9780000000775",
+    "state": "completed"
   },
   {
     "id": 776,
@@ -17897,7 +18672,8 @@
       "vue"
     ],
     "pages": 587,
-    "isbn": "9780000000776"
+    "isbn": "9780000000776",
+    "state": "completed"
   },
   {
     "id": 777,
@@ -17920,7 +18696,8 @@
       "harbor"
     ],
     "pages": 739,
-    "isbn": "9780000000777"
+    "isbn": "9780000000777",
+    "state": "completed"
   },
   {
     "id": 778,
@@ -17942,7 +18719,8 @@
       "kustomize"
     ],
     "pages": 471,
-    "isbn": "9780000000778"
+    "isbn": "9780000000778",
+    "state": "completed"
   },
   {
     "id": 779,
@@ -17964,7 +18742,8 @@
       "optimization"
     ],
     "pages": 775,
-    "isbn": "9780000000779"
+    "isbn": "9780000000779",
+    "state": "completed"
   },
   {
     "id": 780,
@@ -17986,7 +18765,8 @@
       "rust"
     ],
     "pages": 279,
-    "isbn": "9780000000780"
+    "isbn": "9780000000780",
+    "state": "completed"
   },
   {
     "id": 781,
@@ -18011,7 +18791,8 @@
       "event-driven"
     ],
     "pages": 641,
-    "isbn": "9780000000781"
+    "isbn": "9780000000781",
+    "state": "completed"
   },
   {
     "id": 782,
@@ -18033,7 +18814,8 @@
       "optimization"
     ],
     "pages": 522,
-    "isbn": "9780000000782"
+    "isbn": "9780000000782",
+    "state": "completed"
   },
   {
     "id": 783,
@@ -18056,7 +18838,8 @@
       "numpy"
     ],
     "pages": 738,
-    "isbn": "9780000000783"
+    "isbn": "9780000000783",
+    "state": "completed"
   },
   {
     "id": 784,
@@ -18080,7 +18863,8 @@
       "kubernetes"
     ],
     "pages": 424,
-    "isbn": "9780000000784"
+    "isbn": "9780000000784",
+    "state": "completed"
   },
   {
     "id": 785,
@@ -18104,7 +18888,8 @@
       "flux"
     ],
     "pages": 346,
-    "isbn": "9780000000785"
+    "isbn": "9780000000785",
+    "state": "completed"
   },
   {
     "id": 786,
@@ -18128,7 +18913,8 @@
       "zookeeper"
     ],
     "pages": 781,
-    "isbn": "9780000000786"
+    "isbn": "9780000000786",
+    "state": "completed"
   },
   {
     "id": 787,
@@ -18152,7 +18938,8 @@
       "graphql"
     ],
     "pages": 710,
-    "isbn": "9780000000787"
+    "isbn": "9780000000787",
+    "state": "completed"
   },
   {
     "id": 788,
@@ -18175,7 +18962,8 @@
       "hyperledger"
     ],
     "pages": 760,
-    "isbn": "9780000000788"
+    "isbn": "9780000000788",
+    "state": "completed"
   },
   {
     "id": 789,
@@ -18197,7 +18985,8 @@
       "react"
     ],
     "pages": 376,
-    "isbn": "9780000000789"
+    "isbn": "9780000000789",
+    "state": "completed"
   },
   {
     "id": 790,
@@ -18221,7 +19010,8 @@
       "api-gateway"
     ],
     "pages": 547,
-    "isbn": "9780000000790"
+    "isbn": "9780000000790",
+    "state": "completed"
   },
   {
     "id": 791,
@@ -18245,7 +19035,8 @@
       "linux"
     ],
     "pages": 676,
-    "isbn": "9780000000791"
+    "isbn": "9780000000791",
+    "state": "completed"
   },
   {
     "id": 792,
@@ -18268,7 +19059,8 @@
       "flutter"
     ],
     "pages": 727,
-    "isbn": "9780000000792"
+    "isbn": "9780000000792",
+    "state": "completed"
   },
   {
     "id": 793,
@@ -18292,7 +19084,8 @@
       "typescript"
     ],
     "pages": 256,
-    "isbn": "9780000000793"
+    "isbn": "9780000000793",
+    "state": "completed"
   },
   {
     "id": 794,
@@ -18317,7 +19110,8 @@
       "plotly"
     ],
     "pages": 304,
-    "isbn": "9780000000794"
+    "isbn": "9780000000794",
+    "state": "completed"
   },
   {
     "id": 795,
@@ -18338,7 +19132,8 @@
       "bash"
     ],
     "pages": 782,
-    "isbn": "9780000000795"
+    "isbn": "9780000000795",
+    "state": "completed"
   },
   {
     "id": 796,
@@ -18360,7 +19155,8 @@
       "rabbitmq"
     ],
     "pages": 376,
-    "isbn": "9780000000796"
+    "isbn": "9780000000796",
+    "state": "completed"
   },
   {
     "id": 797,
@@ -18385,7 +19181,8 @@
       "typescript"
     ],
     "pages": 359,
-    "isbn": "9780000000797"
+    "isbn": "9780000000797",
+    "state": "completed"
   },
   {
     "id": 798,
@@ -18410,7 +19207,8 @@
       "linux"
     ],
     "pages": 719,
-    "isbn": "9780000000798"
+    "isbn": "9780000000798",
+    "state": "completed"
   },
   {
     "id": 799,
@@ -18433,7 +19231,8 @@
       "linux"
     ],
     "pages": 560,
-    "isbn": "9780000000799"
+    "isbn": "9780000000799",
+    "state": "completed"
   },
   {
     "id": 800,
@@ -18457,7 +19256,8 @@
       "aws"
     ],
     "pages": 358,
-    "isbn": "9780000000800"
+    "isbn": "9780000000800",
+    "state": "completed"
   },
   {
     "id": 801,
@@ -18482,7 +19282,8 @@
       "aws"
     ],
     "pages": 710,
-    "isbn": "9780000000801"
+    "isbn": "9780000000801",
+    "state": "completed"
   },
   {
     "id": 802,
@@ -18506,7 +19307,8 @@
       "docker"
     ],
     "pages": 393,
-    "isbn": "9780000000802"
+    "isbn": "9780000000802",
+    "state": "completed"
   },
   {
     "id": 803,
@@ -18530,7 +19332,8 @@
       "redis"
     ],
     "pages": 635,
-    "isbn": "9780000000803"
+    "isbn": "9780000000803",
+    "state": "completed"
   },
   {
     "id": 804,
@@ -18554,7 +19357,8 @@
       "flutter"
     ],
     "pages": 411,
-    "isbn": "9780000000804"
+    "isbn": "9780000000804",
+    "state": "completed"
   },
   {
     "id": 805,
@@ -18576,7 +19380,8 @@
       "azure"
     ],
     "pages": 455,
-    "isbn": "9780000000805"
+    "isbn": "9780000000805",
+    "state": "completed"
   },
   {
     "id": 806,
@@ -18599,7 +19404,8 @@
       "nosql"
     ],
     "pages": 332,
-    "isbn": "9780000000806"
+    "isbn": "9780000000806",
+    "state": "completed"
   },
   {
     "id": 807,
@@ -18622,7 +19428,8 @@
       "security"
     ],
     "pages": 638,
-    "isbn": "9780000000807"
+    "isbn": "9780000000807",
+    "state": "completed"
   },
   {
     "id": 808,
@@ -18644,7 +19451,8 @@
       "react-native"
     ],
     "pages": 309,
-    "isbn": "9780000000808"
+    "isbn": "9780000000808",
+    "state": "completed"
   },
   {
     "id": 809,
@@ -18665,7 +19473,8 @@
       "istio"
     ],
     "pages": 571,
-    "isbn": "9780000000809"
+    "isbn": "9780000000809",
+    "state": "completed"
   },
   {
     "id": 810,
@@ -18688,7 +19497,8 @@
       "flink"
     ],
     "pages": 549,
-    "isbn": "9780000000810"
+    "isbn": "9780000000810",
+    "state": "completed"
   },
   {
     "id": 811,
@@ -18711,7 +19521,8 @@
       "harbor"
     ],
     "pages": 465,
-    "isbn": "9780000000811"
+    "isbn": "9780000000811",
+    "state": "completed"
   },
   {
     "id": 812,
@@ -18733,7 +19544,8 @@
       "pytorch"
     ],
     "pages": 643,
-    "isbn": "9780000000812"
+    "isbn": "9780000000812",
+    "state": "completed"
   },
   {
     "id": 813,
@@ -18757,7 +19569,8 @@
       "consensus"
     ],
     "pages": 594,
-    "isbn": "9780000000813"
+    "isbn": "9780000000813",
+    "state": "completed"
   },
   {
     "id": 814,
@@ -18780,7 +19593,8 @@
       "migration"
     ],
     "pages": 781,
-    "isbn": "9780000000814"
+    "isbn": "9780000000814",
+    "state": "completed"
   },
   {
     "id": 815,
@@ -18803,7 +19617,8 @@
       "swift"
     ],
     "pages": 262,
-    "isbn": "9780000000815"
+    "isbn": "9780000000815",
+    "state": "completed"
   },
   {
     "id": 816,
@@ -18826,7 +19641,8 @@
       "eslint"
     ],
     "pages": 533,
-    "isbn": "9780000000816"
+    "isbn": "9780000000816",
+    "state": "completed"
   },
   {
     "id": 817,
@@ -18848,7 +19664,8 @@
       "vue"
     ],
     "pages": 289,
-    "isbn": "9780000000817"
+    "isbn": "9780000000817",
+    "state": "completed"
   },
   {
     "id": 818,
@@ -18871,7 +19688,8 @@
       "consensus"
     ],
     "pages": 704,
-    "isbn": "9780000000818"
+    "isbn": "9780000000818",
+    "state": "completed"
   },
   {
     "id": 819,
@@ -18893,7 +19711,8 @@
       "swift"
     ],
     "pages": 633,
-    "isbn": "9780000000819"
+    "isbn": "9780000000819",
+    "state": "completed"
   },
   {
     "id": 820,
@@ -18916,7 +19735,8 @@
       "performance"
     ],
     "pages": 283,
-    "isbn": "9780000000820"
+    "isbn": "9780000000820",
+    "state": "completed"
   },
   {
     "id": 821,
@@ -18938,7 +19758,8 @@
       "istio"
     ],
     "pages": 550,
-    "isbn": "9780000000821"
+    "isbn": "9780000000821",
+    "state": "completed"
   },
   {
     "id": 822,
@@ -18962,7 +19783,8 @@
       "zookeeper"
     ],
     "pages": 678,
-    "isbn": "9780000000822"
+    "isbn": "9780000000822",
+    "state": "completed"
   },
   {
     "id": 823,
@@ -18985,7 +19807,8 @@
       "windows"
     ],
     "pages": 452,
-    "isbn": "9780000000823"
+    "isbn": "9780000000823",
+    "state": "completed"
   },
   {
     "id": 824,
@@ -19007,7 +19830,8 @@
       "elasticsearch"
     ],
     "pages": 792,
-    "isbn": "9780000000824"
+    "isbn": "9780000000824",
+    "state": "completed"
   },
   {
     "id": 825,
@@ -19031,7 +19855,8 @@
       "react-native"
     ],
     "pages": 710,
-    "isbn": "9780000000825"
+    "isbn": "9780000000825",
+    "state": "completed"
   },
   {
     "id": 826,
@@ -19054,7 +19879,8 @@
       "istio"
     ],
     "pages": 536,
-    "isbn": "9780000000826"
+    "isbn": "9780000000826",
+    "state": "completed"
   },
   {
     "id": 827,
@@ -19077,7 +19903,8 @@
       "ssl"
     ],
     "pages": 571,
-    "isbn": "9780000000827"
+    "isbn": "9780000000827",
+    "state": "completed"
   },
   {
     "id": 828,
@@ -19099,7 +19926,8 @@
       "ansible"
     ],
     "pages": 770,
-    "isbn": "9780000000828"
+    "isbn": "9780000000828",
+    "state": "completed"
   },
   {
     "id": 829,
@@ -19123,7 +19951,8 @@
       "git"
     ],
     "pages": 372,
-    "isbn": "9780000000829"
+    "isbn": "9780000000829",
+    "state": "completed"
   },
   {
     "id": 830,
@@ -19144,7 +19973,8 @@
       "blockchain"
     ],
     "pages": 775,
-    "isbn": "9780000000830"
+    "isbn": "9780000000830",
+    "state": "completed"
   },
   {
     "id": 831,
@@ -19167,7 +19997,8 @@
       "sass"
     ],
     "pages": 521,
-    "isbn": "9780000000831"
+    "isbn": "9780000000831",
+    "state": "completed"
   },
   {
     "id": 832,
@@ -19190,7 +20021,8 @@
       "orm"
     ],
     "pages": 490,
-    "isbn": "9780000000832"
+    "isbn": "9780000000832",
+    "state": "completed"
   },
   {
     "id": 833,
@@ -19214,7 +20046,8 @@
       "rest"
     ],
     "pages": 583,
-    "isbn": "9780000000833"
+    "isbn": "9780000000833",
+    "state": "completed"
   },
   {
     "id": 834,
@@ -19239,7 +20072,8 @@
       "pub-sub"
     ],
     "pages": 668,
-    "isbn": "9780000000834"
+    "isbn": "9780000000834",
+    "state": "completed"
   },
   {
     "id": 835,
@@ -19262,7 +20096,8 @@
       "angular"
     ],
     "pages": 476,
-    "isbn": "9780000000835"
+    "isbn": "9780000000835",
+    "state": "completed"
   },
   {
     "id": 836,
@@ -19285,7 +20120,8 @@
       "mongodb"
     ],
     "pages": 620,
-    "isbn": "9780000000836"
+    "isbn": "9780000000836",
+    "state": "completed"
   },
   {
     "id": 837,
@@ -19307,7 +20143,8 @@
       "registry"
     ],
     "pages": 746,
-    "isbn": "9780000000837"
+    "isbn": "9780000000837",
+    "state": "completed"
   },
   {
     "id": 838,
@@ -19330,7 +20167,8 @@
       "elasticsearch"
     ],
     "pages": 675,
-    "isbn": "9780000000838"
+    "isbn": "9780000000838",
+    "state": "completed"
   },
   {
     "id": 839,
@@ -19353,7 +20191,8 @@
       "microservices"
     ],
     "pages": 732,
-    "isbn": "9780000000839"
+    "isbn": "9780000000839",
+    "state": "completed"
   },
   {
     "id": 840,
@@ -19375,7 +20214,8 @@
       "typescript"
     ],
     "pages": 360,
-    "isbn": "9780000000840"
+    "isbn": "9780000000840",
+    "state": "completed"
   },
   {
     "id": 841,
@@ -19399,7 +20239,8 @@
       "prometheus"
     ],
     "pages": 734,
-    "isbn": "9780000000841"
+    "isbn": "9780000000841",
+    "state": "completed"
   },
   {
     "id": 842,
@@ -19423,7 +20264,8 @@
       "pub-sub"
     ],
     "pages": 750,
-    "isbn": "9780000000842"
+    "isbn": "9780000000842",
+    "state": "completed"
   },
   {
     "id": 843,
@@ -19444,7 +20286,8 @@
       "scrum"
     ],
     "pages": 420,
-    "isbn": "9780000000843"
+    "isbn": "9780000000843",
+    "state": "completed"
   },
   {
     "id": 844,
@@ -19467,7 +20310,8 @@
       "hadoop"
     ],
     "pages": 630,
-    "isbn": "9780000000844"
+    "isbn": "9780000000844",
+    "state": "completed"
   },
   {
     "id": 845,
@@ -19491,7 +20335,8 @@
       "nosql"
     ],
     "pages": 318,
-    "isbn": "9780000000845"
+    "isbn": "9780000000845",
+    "state": "completed"
   },
   {
     "id": 846,
@@ -19513,7 +20358,8 @@
       "couchbase"
     ],
     "pages": 264,
-    "isbn": "9780000000846"
+    "isbn": "9780000000846",
+    "state": "completed"
   },
   {
     "id": 847,
@@ -19536,7 +20382,8 @@
       "sqs"
     ],
     "pages": 784,
-    "isbn": "9780000000847"
+    "isbn": "9780000000847",
+    "state": "completed"
   },
   {
     "id": 848,
@@ -19559,7 +20406,8 @@
       "consul"
     ],
     "pages": 303,
-    "isbn": "9780000000848"
+    "isbn": "9780000000848",
+    "state": "completed"
   },
   {
     "id": 849,
@@ -19582,7 +20430,8 @@
       "pig"
     ],
     "pages": 330,
-    "isbn": "9780000000849"
+    "isbn": "9780000000849",
+    "state": "completed"
   },
   {
     "id": 850,
@@ -19605,7 +20454,8 @@
       "docker"
     ],
     "pages": 604,
-    "isbn": "9780000000850"
+    "isbn": "9780000000850",
+    "state": "completed"
   },
   {
     "id": 851,
@@ -19627,7 +20477,8 @@
       "computer-vision"
     ],
     "pages": 509,
-    "isbn": "9780000000851"
+    "isbn": "9780000000851",
+    "state": "completed"
   },
   {
     "id": 852,
@@ -19649,7 +20500,8 @@
       "splunk"
     ],
     "pages": 356,
-    "isbn": "9780000000852"
+    "isbn": "9780000000852",
+    "state": "completed"
   },
   {
     "id": 853,
@@ -19671,7 +20523,8 @@
       "numpy"
     ],
     "pages": 448,
-    "isbn": "9780000000853"
+    "isbn": "9780000000853",
+    "state": "completed"
   },
   {
     "id": 854,
@@ -19693,7 +20546,8 @@
       "windows"
     ],
     "pages": 704,
-    "isbn": "9780000000854"
+    "isbn": "9780000000854",
+    "state": "completed"
   },
   {
     "id": 855,
@@ -19715,7 +20569,8 @@
       "newrelic"
     ],
     "pages": 436,
-    "isbn": "9780000000855"
+    "isbn": "9780000000855",
+    "state": "completed"
   },
   {
     "id": 856,
@@ -19738,7 +20593,8 @@
       "pig"
     ],
     "pages": 543,
-    "isbn": "9780000000856"
+    "isbn": "9780000000856",
+    "state": "completed"
   },
   {
     "id": 857,
@@ -19761,7 +20617,8 @@
       "react-native"
     ],
     "pages": 785,
-    "isbn": "9780000000857"
+    "isbn": "9780000000857",
+    "state": "completed"
   },
   {
     "id": 858,
@@ -19785,7 +20642,8 @@
       "flux"
     ],
     "pages": 525,
-    "isbn": "9780000000858"
+    "isbn": "9780000000858",
+    "state": "completed"
   },
   {
     "id": 859,
@@ -19808,7 +20666,8 @@
       "sass"
     ],
     "pages": 580,
-    "isbn": "9780000000859"
+    "isbn": "9780000000859",
+    "state": "completed"
   },
   {
     "id": 860,
@@ -19831,7 +20690,8 @@
       "caddy"
     ],
     "pages": 699,
-    "isbn": "9780000000860"
+    "isbn": "9780000000860",
+    "state": "completed"
   },
   {
     "id": 861,
@@ -19854,7 +20714,8 @@
       "graphql"
     ],
     "pages": 525,
-    "isbn": "9780000000861"
+    "isbn": "9780000000861",
+    "state": "completed"
   },
   {
     "id": 862,
@@ -19877,7 +20738,8 @@
       "datadog"
     ],
     "pages": 250,
-    "isbn": "9780000000862"
+    "isbn": "9780000000862",
+    "state": "completed"
   },
   {
     "id": 863,
@@ -19901,7 +20763,8 @@
       "agile"
     ],
     "pages": 653,
-    "isbn": "9780000000863"
+    "isbn": "9780000000863",
+    "state": "completed"
   },
   {
     "id": 864,
@@ -19926,7 +20789,8 @@
       "elasticsearch"
     ],
     "pages": 277,
-    "isbn": "9780000000864"
+    "isbn": "9780000000864",
+    "state": "completed"
   },
   {
     "id": 865,
@@ -19949,7 +20813,8 @@
       "encryption"
     ],
     "pages": 597,
-    "isbn": "9780000000865"
+    "isbn": "9780000000865",
+    "state": "completed"
   },
   {
     "id": 866,
@@ -19972,7 +20837,8 @@
       "jaeger"
     ],
     "pages": 353,
-    "isbn": "9780000000866"
+    "isbn": "9780000000866",
+    "state": "completed"
   },
   {
     "id": 867,
@@ -19995,7 +20861,8 @@
       "migration"
     ],
     "pages": 368,
-    "isbn": "9780000000867"
+    "isbn": "9780000000867",
+    "state": "completed"
   },
   {
     "id": 868,
@@ -20017,7 +20884,8 @@
       "smart-contracts"
     ],
     "pages": 777,
-    "isbn": "9780000000868"
+    "isbn": "9780000000868",
+    "state": "completed"
   },
   {
     "id": 869,
@@ -20041,7 +20909,8 @@
       "smart-contracts"
     ],
     "pages": 274,
-    "isbn": "9780000000869"
+    "isbn": "9780000000869",
+    "state": "completed"
   },
   {
     "id": 870,
@@ -20064,7 +20933,8 @@
       "prometheus"
     ],
     "pages": 346,
-    "isbn": "9780000000870"
+    "isbn": "9780000000870",
+    "state": "completed"
   },
   {
     "id": 871,
@@ -20086,7 +20956,8 @@
       "less"
     ],
     "pages": 595,
-    "isbn": "9780000000871"
+    "isbn": "9780000000871",
+    "state": "completed"
   },
   {
     "id": 872,
@@ -20111,7 +20982,8 @@
       "css"
     ],
     "pages": 697,
-    "isbn": "9780000000872"
+    "isbn": "9780000000872",
+    "state": "completed"
   },
   {
     "id": 873,
@@ -20134,7 +21006,8 @@
       "nosql"
     ],
     "pages": 723,
-    "isbn": "9780000000873"
+    "isbn": "9780000000873",
+    "state": "completed"
   },
   {
     "id": 874,
@@ -20158,7 +21031,8 @@
       "ethereum"
     ],
     "pages": 705,
-    "isbn": "9780000000874"
+    "isbn": "9780000000874",
+    "state": "completed"
   },
   {
     "id": 875,
@@ -20181,7 +21055,8 @@
       "pytorch"
     ],
     "pages": 628,
-    "isbn": "9780000000875"
+    "isbn": "9780000000875",
+    "state": "completed"
   },
   {
     "id": 876,
@@ -20205,7 +21080,8 @@
       "monitoring"
     ],
     "pages": 384,
-    "isbn": "9780000000876"
+    "isbn": "9780000000876",
+    "state": "completed"
   },
   {
     "id": 877,
@@ -20229,7 +21105,8 @@
       "ansible"
     ],
     "pages": 358,
-    "isbn": "9780000000877"
+    "isbn": "9780000000877",
+    "state": "completed"
   },
   {
     "id": 878,
@@ -20252,7 +21129,8 @@
       "chef"
     ],
     "pages": 592,
-    "isbn": "9780000000878"
+    "isbn": "9780000000878",
+    "state": "completed"
   },
   {
     "id": 879,
@@ -20274,7 +21152,8 @@
       "flux"
     ],
     "pages": 668,
-    "isbn": "9780000000879"
+    "isbn": "9780000000879",
+    "state": "completed"
   },
   {
     "id": 880,
@@ -20296,7 +21175,8 @@
       "oauth"
     ],
     "pages": 316,
-    "isbn": "9780000000880"
+    "isbn": "9780000000880",
+    "state": "completed"
   },
   {
     "id": 881,
@@ -20319,7 +21199,8 @@
       "newrelic"
     ],
     "pages": 283,
-    "isbn": "9780000000881"
+    "isbn": "9780000000881",
+    "state": "completed"
   },
   {
     "id": 882,
@@ -20342,7 +21223,8 @@
       "kotlin"
     ],
     "pages": 700,
-    "isbn": "9780000000882"
+    "isbn": "9780000000882",
+    "state": "completed"
   },
   {
     "id": 883,
@@ -20366,7 +21248,8 @@
       "numpy"
     ],
     "pages": 325,
-    "isbn": "9780000000883"
+    "isbn": "9780000000883",
+    "state": "completed"
   },
   {
     "id": 884,
@@ -20391,7 +21274,8 @@
       "harbor"
     ],
     "pages": 629,
-    "isbn": "9780000000884"
+    "isbn": "9780000000884",
+    "state": "completed"
   },
   {
     "id": 885,
@@ -20415,7 +21299,8 @@
       "load-balancing"
     ],
     "pages": 560,
-    "isbn": "9780000000885"
+    "isbn": "9780000000885",
+    "state": "completed"
   },
   {
     "id": 886,
@@ -20439,7 +21324,8 @@
       "registry"
     ],
     "pages": 638,
-    "isbn": "9780000000886"
+    "isbn": "9780000000886",
+    "state": "completed"
   },
   {
     "id": 887,
@@ -20462,7 +21348,8 @@
       "golang"
     ],
     "pages": 457,
-    "isbn": "9780000000887"
+    "isbn": "9780000000887",
+    "state": "completed"
   },
   {
     "id": 888,
@@ -20484,7 +21371,8 @@
       "kafka"
     ],
     "pages": 500,
-    "isbn": "9780000000888"
+    "isbn": "9780000000888",
+    "state": "completed"
   },
   {
     "id": 889,
@@ -20507,7 +21395,8 @@
       "load-balancing"
     ],
     "pages": 738,
-    "isbn": "9780000000889"
+    "isbn": "9780000000889",
+    "state": "completed"
   },
   {
     "id": 890,
@@ -20530,7 +21419,8 @@
       "opencv"
     ],
     "pages": 364,
-    "isbn": "9780000000890"
+    "isbn": "9780000000890",
+    "state": "completed"
   },
   {
     "id": 891,
@@ -20554,7 +21444,8 @@
       "spark"
     ],
     "pages": 504,
-    "isbn": "9780000000891"
+    "isbn": "9780000000891",
+    "state": "completed"
   },
   {
     "id": 892,
@@ -20577,7 +21468,8 @@
       "flink"
     ],
     "pages": 703,
-    "isbn": "9780000000892"
+    "isbn": "9780000000892",
+    "state": "completed"
   },
   {
     "id": 893,
@@ -20601,7 +21493,8 @@
       "ssl"
     ],
     "pages": 581,
-    "isbn": "9780000000893"
+    "isbn": "9780000000893",
+    "state": "completed"
   },
   {
     "id": 894,
@@ -20625,7 +21518,8 @@
       "blockchain"
     ],
     "pages": 572,
-    "isbn": "9780000000894"
+    "isbn": "9780000000894",
+    "state": "completed"
   },
   {
     "id": 895,
@@ -20648,7 +21542,8 @@
       "ssl"
     ],
     "pages": 632,
-    "isbn": "9780000000895"
+    "isbn": "9780000000895",
+    "state": "completed"
   },
   {
     "id": 896,
@@ -20671,7 +21566,8 @@
       "angular"
     ],
     "pages": 748,
-    "isbn": "9780000000896"
+    "isbn": "9780000000896",
+    "state": "completed"
   },
   {
     "id": 897,
@@ -20693,7 +21589,8 @@
       "nlp"
     ],
     "pages": 404,
-    "isbn": "9780000000897"
+    "isbn": "9780000000897",
+    "state": "completed"
   },
   {
     "id": 898,
@@ -20715,7 +21612,8 @@
       "swift"
     ],
     "pages": 438,
-    "isbn": "9780000000898"
+    "isbn": "9780000000898",
+    "state": "completed"
   },
   {
     "id": 899,
@@ -20738,7 +21636,8 @@
       "postgresql"
     ],
     "pages": 697,
-    "isbn": "9780000000899"
+    "isbn": "9780000000899",
+    "state": "completed"
   },
   {
     "id": 900,
@@ -20759,7 +21658,8 @@
       "scikit-learn"
     ],
     "pages": 445,
-    "isbn": "9780000000900"
+    "isbn": "9780000000900",
+    "state": "completed"
   },
   {
     "id": 901,
@@ -20783,7 +21683,8 @@
       "matplotlib"
     ],
     "pages": 649,
-    "isbn": "9780000000901"
+    "isbn": "9780000000901",
+    "state": "completed"
   },
   {
     "id": 902,
@@ -20807,7 +21708,8 @@
       "selenium"
     ],
     "pages": 435,
-    "isbn": "9780000000902"
+    "isbn": "9780000000902",
+    "state": "completed"
   },
   {
     "id": 903,
@@ -20830,7 +21732,8 @@
       "event-driven"
     ],
     "pages": 613,
-    "isbn": "9780000000903"
+    "isbn": "9780000000903",
+    "state": "completed"
   },
   {
     "id": 904,
@@ -20853,7 +21756,8 @@
       "jenkins"
     ],
     "pages": 778,
-    "isbn": "9780000000904"
+    "isbn": "9780000000904",
+    "state": "completed"
   },
   {
     "id": 905,
@@ -20875,7 +21779,8 @@
       "sonarqube"
     ],
     "pages": 257,
-    "isbn": "9780000000905"
+    "isbn": "9780000000905",
+    "state": "completed"
   },
   {
     "id": 906,
@@ -20897,7 +21802,8 @@
       "vault"
     ],
     "pages": 581,
-    "isbn": "9780000000906"
+    "isbn": "9780000000906",
+    "state": "completed"
   },
   {
     "id": 907,
@@ -20919,7 +21825,8 @@
       "hadoop"
     ],
     "pages": 411,
-    "isbn": "9780000000907"
+    "isbn": "9780000000907",
+    "state": "completed"
   },
   {
     "id": 908,
@@ -20941,7 +21848,8 @@
       "neural-networks"
     ],
     "pages": 589,
-    "isbn": "9780000000908"
+    "isbn": "9780000000908",
+    "state": "completed"
   },
   {
     "id": 909,
@@ -20963,7 +21871,8 @@
       "orm"
     ],
     "pages": 725,
-    "isbn": "9780000000909"
+    "isbn": "9780000000909",
+    "state": "completed"
   },
   {
     "id": 910,
@@ -20988,7 +21897,8 @@
       "pillow"
     ],
     "pages": 777,
-    "isbn": "9780000000910"
+    "isbn": "9780000000910",
+    "state": "completed"
   },
   {
     "id": 911,
@@ -21012,7 +21922,8 @@
       "harbor"
     ],
     "pages": 384,
-    "isbn": "9780000000911"
+    "isbn": "9780000000911",
+    "state": "completed"
   },
   {
     "id": 912,
@@ -21035,7 +21946,8 @@
       "es6"
     ],
     "pages": 742,
-    "isbn": "9780000000912"
+    "isbn": "9780000000912",
+    "state": "completed"
   },
   {
     "id": 913,
@@ -21058,7 +21970,8 @@
       "mongodb"
     ],
     "pages": 600,
-    "isbn": "9780000000913"
+    "isbn": "9780000000913",
+    "state": "completed"
   },
   {
     "id": 914,
@@ -21081,7 +21994,8 @@
       "hive"
     ],
     "pages": 334,
-    "isbn": "9780000000914"
+    "isbn": "9780000000914",
+    "state": "completed"
   },
   {
     "id": 915,
@@ -21105,7 +22019,8 @@
       "swift"
     ],
     "pages": 793,
-    "isbn": "9780000000915"
+    "isbn": "9780000000915",
+    "state": "completed"
   },
   {
     "id": 916,
@@ -21127,7 +22042,8 @@
       "orm"
     ],
     "pages": 389,
-    "isbn": "9780000000916"
+    "isbn": "9780000000916",
+    "state": "completed"
   },
   {
     "id": 917,
@@ -21150,7 +22066,8 @@
       "agile"
     ],
     "pages": 448,
-    "isbn": "9780000000917"
+    "isbn": "9780000000917",
+    "state": "completed"
   },
   {
     "id": 918,
@@ -21173,7 +22090,8 @@
       "ci/cd"
     ],
     "pages": 355,
-    "isbn": "9780000000918"
+    "isbn": "9780000000918",
+    "state": "completed"
   },
   {
     "id": 919,
@@ -21196,7 +22114,8 @@
       "jaeger"
     ],
     "pages": 748,
-    "isbn": "9780000000919"
+    "isbn": "9780000000919",
+    "state": "completed"
   },
   {
     "id": 920,
@@ -21219,7 +22138,8 @@
       "sonarqube"
     ],
     "pages": 507,
-    "isbn": "9780000000920"
+    "isbn": "9780000000920",
+    "state": "completed"
   },
   {
     "id": 921,
@@ -21244,7 +22164,8 @@
       "microservices"
     ],
     "pages": 494,
-    "isbn": "9780000000921"
+    "isbn": "9780000000921",
+    "state": "completed"
   },
   {
     "id": 922,
@@ -21266,7 +22187,8 @@
       "tdd"
     ],
     "pages": 351,
-    "isbn": "9780000000922"
+    "isbn": "9780000000922",
+    "state": "completed"
   },
   {
     "id": 923,
@@ -21291,7 +22213,8 @@
       "firebase"
     ],
     "pages": 660,
-    "isbn": "9780000000923"
+    "isbn": "9780000000923",
+    "state": "completed"
   },
   {
     "id": 924,
@@ -21314,7 +22237,8 @@
       "bdd"
     ],
     "pages": 747,
-    "isbn": "9780000000924"
+    "isbn": "9780000000924",
+    "state": "completed"
   },
   {
     "id": 925,
@@ -21338,7 +22262,8 @@
       "testing"
     ],
     "pages": 327,
-    "isbn": "9780000000925"
+    "isbn": "9780000000925",
+    "state": "completed"
   },
   {
     "id": 926,
@@ -21361,7 +22286,8 @@
       "neural-networks"
     ],
     "pages": 291,
-    "isbn": "9780000000926"
+    "isbn": "9780000000926",
+    "state": "completed"
   },
   {
     "id": 927,
@@ -21382,7 +22308,8 @@
       "tracing"
     ],
     "pages": 744,
-    "isbn": "9780000000927"
+    "isbn": "9780000000927",
+    "state": "completed"
   },
   {
     "id": 928,
@@ -21406,7 +22333,8 @@
       "traefik"
     ],
     "pages": 387,
-    "isbn": "9780000000928"
+    "isbn": "9780000000928",
+    "state": "completed"
   },
   {
     "id": 929,
@@ -21428,7 +22356,8 @@
       "dynamodb"
     ],
     "pages": 304,
-    "isbn": "9780000000929"
+    "isbn": "9780000000929",
+    "state": "completed"
   },
   {
     "id": 930,
@@ -21450,7 +22379,8 @@
       "mongodb"
     ],
     "pages": 278,
-    "isbn": "9780000000930"
+    "isbn": "9780000000930",
+    "state": "completed"
   },
   {
     "id": 931,
@@ -21475,7 +22405,8 @@
       "flutter"
     ],
     "pages": 322,
-    "isbn": "9780000000931"
+    "isbn": "9780000000931",
+    "state": "completed"
   },
   {
     "id": 932,
@@ -21498,7 +22429,8 @@
       "babel"
     ],
     "pages": 646,
-    "isbn": "9780000000932"
+    "isbn": "9780000000932",
+    "state": "completed"
   },
   {
     "id": 933,
@@ -21521,7 +22453,8 @@
       "webpack"
     ],
     "pages": 333,
-    "isbn": "9780000000933"
+    "isbn": "9780000000933",
+    "state": "completed"
   },
   {
     "id": 934,
@@ -21543,7 +22476,8 @@
       "aws"
     ],
     "pages": 321,
-    "isbn": "9780000000934"
+    "isbn": "9780000000934",
+    "state": "completed"
   },
   {
     "id": 935,
@@ -21566,7 +22500,8 @@
       "macos"
     ],
     "pages": 289,
-    "isbn": "9780000000935"
+    "isbn": "9780000000935",
+    "state": "completed"
   },
   {
     "id": 936,
@@ -21587,7 +22522,8 @@
       "splunk"
     ],
     "pages": 708,
-    "isbn": "9780000000936"
+    "isbn": "9780000000936",
+    "state": "completed"
   },
   {
     "id": 937,
@@ -21610,7 +22546,8 @@
       "neural-networks"
     ],
     "pages": 794,
-    "isbn": "9780000000937"
+    "isbn": "9780000000937",
+    "state": "completed"
   },
   {
     "id": 938,
@@ -21633,7 +22570,8 @@
       "docker"
     ],
     "pages": 745,
-    "isbn": "9780000000938"
+    "isbn": "9780000000938",
+    "state": "completed"
   },
   {
     "id": 939,
@@ -21656,7 +22594,8 @@
       "aws"
     ],
     "pages": 442,
-    "isbn": "9780000000939"
+    "isbn": "9780000000939",
+    "state": "completed"
   },
   {
     "id": 940,
@@ -21680,7 +22619,8 @@
       "kustomize"
     ],
     "pages": 265,
-    "isbn": "9780000000940"
+    "isbn": "9780000000940",
+    "state": "completed"
   },
   {
     "id": 941,
@@ -21702,7 +22642,8 @@
       "unix"
     ],
     "pages": 514,
-    "isbn": "9780000000941"
+    "isbn": "9780000000941",
+    "state": "completed"
   },
   {
     "id": 942,
@@ -21725,7 +22666,8 @@
       "es6"
     ],
     "pages": 709,
-    "isbn": "9780000000942"
+    "isbn": "9780000000942",
+    "state": "completed"
   },
   {
     "id": 943,
@@ -21748,7 +22690,8 @@
       "haproxy"
     ],
     "pages": 517,
-    "isbn": "9780000000943"
+    "isbn": "9780000000943",
+    "state": "completed"
   },
   {
     "id": 944,
@@ -21770,7 +22713,8 @@
       "load-balancing"
     ],
     "pages": 438,
-    "isbn": "9780000000944"
+    "isbn": "9780000000944",
+    "state": "completed"
   },
   {
     "id": 945,
@@ -21792,7 +22736,8 @@
       "angular"
     ],
     "pages": 599,
-    "isbn": "9780000000945"
+    "isbn": "9780000000945",
+    "state": "completed"
   },
   {
     "id": 946,
@@ -21813,7 +22758,8 @@
       "blockchain"
     ],
     "pages": 701,
-    "isbn": "9780000000946"
+    "isbn": "9780000000946",
+    "state": "completed"
   },
   {
     "id": 947,
@@ -21836,7 +22782,8 @@
       "neural-networks"
     ],
     "pages": 356,
-    "isbn": "9780000000947"
+    "isbn": "9780000000947",
+    "state": "completed"
   },
   {
     "id": 948,
@@ -21859,7 +22806,8 @@
       "pillow"
     ],
     "pages": 646,
-    "isbn": "9780000000948"
+    "isbn": "9780000000948",
+    "state": "completed"
   },
   {
     "id": 949,
@@ -21882,7 +22830,8 @@
       "kafka"
     ],
     "pages": 271,
-    "isbn": "9780000000949"
+    "isbn": "9780000000949",
+    "state": "completed"
   },
   {
     "id": 950,
@@ -21906,7 +22855,8 @@
       "elk"
     ],
     "pages": 622,
-    "isbn": "9780000000950"
+    "isbn": "9780000000950",
+    "state": "completed"
   },
   {
     "id": 951,
@@ -21929,7 +22879,8 @@
       "eslint"
     ],
     "pages": 468,
-    "isbn": "9780000000951"
+    "isbn": "9780000000951",
+    "state": "completed"
   },
   {
     "id": 952,
@@ -21952,7 +22903,8 @@
       "docker"
     ],
     "pages": 426,
-    "isbn": "9780000000952"
+    "isbn": "9780000000952",
+    "state": "completed"
   },
   {
     "id": 953,
@@ -21974,7 +22926,8 @@
       "machine-learning"
     ],
     "pages": 793,
-    "isbn": "9780000000953"
+    "isbn": "9780000000953",
+    "state": "completed"
   },
   {
     "id": 954,
@@ -21996,7 +22949,8 @@
       "encryption"
     ],
     "pages": 621,
-    "isbn": "9780000000954"
+    "isbn": "9780000000954",
+    "state": "completed"
   },
   {
     "id": 955,
@@ -22017,7 +22971,8 @@
       "ci/cd"
     ],
     "pages": 669,
-    "isbn": "9780000000955"
+    "isbn": "9780000000955",
+    "state": "completed"
   },
   {
     "id": 956,
@@ -22039,7 +22994,8 @@
       "devops"
     ],
     "pages": 621,
-    "isbn": "9780000000956"
+    "isbn": "9780000000956",
+    "state": "completed"
   },
   {
     "id": 957,
@@ -22061,7 +23017,8 @@
       "typescript"
     ],
     "pages": 451,
-    "isbn": "9780000000957"
+    "isbn": "9780000000957",
+    "state": "completed"
   },
   {
     "id": 958,
@@ -22084,7 +23041,8 @@
       "helm"
     ],
     "pages": 303,
-    "isbn": "9780000000958"
+    "isbn": "9780000000958",
+    "state": "completed"
   },
   {
     "id": 959,
@@ -22107,7 +23065,8 @@
       "pillow"
     ],
     "pages": 454,
-    "isbn": "9780000000959"
+    "isbn": "9780000000959",
+    "state": "completed"
   },
   {
     "id": 960,
@@ -22131,7 +23090,8 @@
       "helm"
     ],
     "pages": 710,
-    "isbn": "9780000000960"
+    "isbn": "9780000000960",
+    "state": "completed"
   },
   {
     "id": 961,
@@ -22152,7 +23112,8 @@
       "pillow"
     ],
     "pages": 327,
-    "isbn": "9780000000961"
+    "isbn": "9780000000961",
+    "state": "completed"
   },
   {
     "id": 962,
@@ -22175,7 +23136,8 @@
       "bdd"
     ],
     "pages": 253,
-    "isbn": "9780000000962"
+    "isbn": "9780000000962",
+    "state": "completed"
   },
   {
     "id": 963,
@@ -22198,7 +23160,8 @@
       "bdd"
     ],
     "pages": 430,
-    "isbn": "9780000000963"
+    "isbn": "9780000000963",
+    "state": "completed"
   },
   {
     "id": 964,
@@ -22222,7 +23185,8 @@
       "chef"
     ],
     "pages": 603,
-    "isbn": "9780000000964"
+    "isbn": "9780000000964",
+    "state": "completed"
   },
   {
     "id": 965,
@@ -22247,7 +23211,8 @@
       "deep-learning"
     ],
     "pages": 317,
-    "isbn": "9780000000965"
+    "isbn": "9780000000965",
+    "state": "completed"
   },
   {
     "id": 966,
@@ -22271,7 +23236,8 @@
       "eslint"
     ],
     "pages": 582,
-    "isbn": "9780000000966"
+    "isbn": "9780000000966",
+    "state": "completed"
   },
   {
     "id": 967,
@@ -22294,7 +23260,8 @@
       "kotlin"
     ],
     "pages": 426,
-    "isbn": "9780000000967"
+    "isbn": "9780000000967",
+    "state": "completed"
   },
   {
     "id": 968,
@@ -22317,7 +23284,8 @@
       "mongodb"
     ],
     "pages": 748,
-    "isbn": "9780000000968"
+    "isbn": "9780000000968",
+    "state": "completed"
   },
   {
     "id": 969,
@@ -22339,7 +23307,8 @@
       "artifactory"
     ],
     "pages": 676,
-    "isbn": "9780000000969"
+    "isbn": "9780000000969",
+    "state": "completed"
   },
   {
     "id": 970,
@@ -22362,7 +23331,8 @@
       "neo4j"
     ],
     "pages": 707,
-    "isbn": "9780000000970"
+    "isbn": "9780000000970",
+    "state": "completed"
   },
   {
     "id": 971,
@@ -22386,7 +23356,8 @@
       "prometheus"
     ],
     "pages": 269,
-    "isbn": "9780000000971"
+    "isbn": "9780000000971",
+    "state": "completed"
   },
   {
     "id": 972,
@@ -22409,7 +23380,8 @@
       "unix"
     ],
     "pages": 310,
-    "isbn": "9780000000972"
+    "isbn": "9780000000972",
+    "state": "completed"
   },
   {
     "id": 973,
@@ -22432,7 +23404,8 @@
       "ci/cd"
     ],
     "pages": 449,
-    "isbn": "9780000000973"
+    "isbn": "9780000000973",
+    "state": "completed"
   },
   {
     "id": 974,
@@ -22456,7 +23429,8 @@
       "less"
     ],
     "pages": 704,
-    "isbn": "9780000000974"
+    "isbn": "9780000000974",
+    "state": "completed"
   },
   {
     "id": 975,
@@ -22477,7 +23451,8 @@
       "dynamodb"
     ],
     "pages": 572,
-    "isbn": "9780000000975"
+    "isbn": "9780000000975",
+    "state": "completed"
   },
   {
     "id": 976,
@@ -22501,7 +23476,8 @@
       "redis"
     ],
     "pages": 785,
-    "isbn": "9780000000976"
+    "isbn": "9780000000976",
+    "state": "completed"
   },
   {
     "id": 977,
@@ -22525,7 +23501,8 @@
       "mongodb"
     ],
     "pages": 709,
-    "isbn": "9780000000977"
+    "isbn": "9780000000977",
+    "state": "completed"
   },
   {
     "id": 978,
@@ -22546,7 +23523,8 @@
       "optimization"
     ],
     "pages": 390,
-    "isbn": "9780000000978"
+    "isbn": "9780000000978",
+    "state": "completed"
   },
   {
     "id": 979,
@@ -22570,7 +23548,8 @@
       "plotly"
     ],
     "pages": 332,
-    "isbn": "9780000000979"
+    "isbn": "9780000000979",
+    "state": "completed"
   },
   {
     "id": 980,
@@ -22593,7 +23572,8 @@
       "kafka"
     ],
     "pages": 516,
-    "isbn": "9780000000980"
+    "isbn": "9780000000980",
+    "state": "completed"
   },
   {
     "id": 981,
@@ -22614,7 +23594,8 @@
       "oauth"
     ],
     "pages": 555,
-    "isbn": "9780000000981"
+    "isbn": "9780000000981",
+    "state": "completed"
   },
   {
     "id": 982,
@@ -22635,7 +23616,8 @@
       "tdd"
     ],
     "pages": 647,
-    "isbn": "9780000000982"
+    "isbn": "9780000000982",
+    "state": "completed"
   },
   {
     "id": 983,
@@ -22656,7 +23638,8 @@
       "java"
     ],
     "pages": 560,
-    "isbn": "9780000000983"
+    "isbn": "9780000000983",
+    "state": "completed"
   },
   {
     "id": 984,
@@ -22679,7 +23662,8 @@
       "azure"
     ],
     "pages": 519,
-    "isbn": "9780000000984"
+    "isbn": "9780000000984",
+    "state": "completed"
   },
   {
     "id": 985,
@@ -22702,7 +23686,8 @@
       "neo4j"
     ],
     "pages": 406,
-    "isbn": "9780000000985"
+    "isbn": "9780000000985",
+    "state": "completed"
   },
   {
     "id": 986,
@@ -22724,7 +23709,8 @@
       "puppet"
     ],
     "pages": 523,
-    "isbn": "9780000000986"
+    "isbn": "9780000000986",
+    "state": "completed"
   },
   {
     "id": 987,
@@ -22749,7 +23735,8 @@
       "caddy"
     ],
     "pages": 630,
-    "isbn": "9780000000987"
+    "isbn": "9780000000987",
+    "state": "completed"
   },
   {
     "id": 988,
@@ -22773,7 +23760,8 @@
       "swift"
     ],
     "pages": 509,
-    "isbn": "9780000000988"
+    "isbn": "9780000000988",
+    "state": "completed"
   },
   {
     "id": 989,
@@ -22797,7 +23785,8 @@
       "jwt"
     ],
     "pages": 679,
-    "isbn": "9780000000989"
+    "isbn": "9780000000989",
+    "state": "completed"
   },
   {
     "id": 990,
@@ -22819,7 +23808,8 @@
       "helm"
     ],
     "pages": 632,
-    "isbn": "9780000000990"
+    "isbn": "9780000000990",
+    "state": "completed"
   },
   {
     "id": 991,
@@ -22841,7 +23831,8 @@
       "spinnaker"
     ],
     "pages": 323,
-    "isbn": "9780000000991"
+    "isbn": "9780000000991",
+    "state": "completed"
   },
   {
     "id": 992,
@@ -22862,7 +23853,8 @@
       "bdd"
     ],
     "pages": 713,
-    "isbn": "9780000000992"
+    "isbn": "9780000000992",
+    "state": "completed"
   },
   {
     "id": 993,
@@ -22885,7 +23877,8 @@
       "azure"
     ],
     "pages": 281,
-    "isbn": "9780000000993"
+    "isbn": "9780000000993",
+    "state": "completed"
   },
   {
     "id": 994,
@@ -22908,7 +23901,8 @@
       "pytorch"
     ],
     "pages": 346,
-    "isbn": "9780000000994"
+    "isbn": "9780000000994",
+    "state": "completed"
   },
   {
     "id": 995,
@@ -22932,7 +23926,8 @@
       "envoy"
     ],
     "pages": 724,
-    "isbn": "9780000000995"
+    "isbn": "9780000000995",
+    "state": "completed"
   },
   {
     "id": 996,
@@ -22955,7 +23950,8 @@
       "rest"
     ],
     "pages": 453,
-    "isbn": "9780000000996"
+    "isbn": "9780000000996",
+    "state": "completed"
   },
   {
     "id": 997,
@@ -22978,7 +23974,8 @@
       "kanban"
     ],
     "pages": 274,
-    "isbn": "9780000000997"
+    "isbn": "9780000000997",
+    "state": "completed"
   },
   {
     "id": 998,
@@ -23003,7 +24000,8 @@
       "scikit-learn"
     ],
     "pages": 616,
-    "isbn": "9780000000998"
+    "isbn": "9780000000998",
+    "state": "completed"
   },
   {
     "id": 999,
@@ -23026,7 +24024,8 @@
       "sqs"
     ],
     "pages": 439,
-    "isbn": "9780000000999"
+    "isbn": "9780000000999",
+    "state": "completed"
   },
   {
     "id": 1000,
@@ -23048,6 +24047,29 @@
       "golang"
     ],
     "pages": 522,
-    "isbn": "9780000001000"
+    "isbn": "9780000001000",
+    "state": "completed"
+  },
+  {
+    "title": "System Design - Volume 1",
+    "description": "System Design book for absolute beginners. This book is an interview preparation book for software roles.",
+    "publisher": "Mc graw hill",
+    "publication_year": 2026,
+    "edition": 1,
+    "language": "English",
+    "authors": [
+      "Crazy Kumar",
+      "Sikandar Musa"
+    ],
+    "tags": [
+      "Software",
+      "cs",
+      "system design"
+    ],
+    "categories": [
+      "System Design"
+    ],
+    "id": 1001,
+    "state": "completed"
   }
 ]

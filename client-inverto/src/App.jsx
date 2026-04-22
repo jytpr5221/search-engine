@@ -1,49 +1,9 @@
 import { useState, useEffect, useRef, useCallback } from "react";
 import axios from "axios";
 import "./App.css";
-import booksData from "./books.json";
+import { InsertBook } from "./InsertBook";
 
 const API_BASE = import.meta.env.VITE_API_BASE || "";
-
-const MOCK_AUTOCOMPLETE = [
-  { id: 5, title: "Mastering Database Systems and Query Optimization Techniques", authors: ["Jennifer Widom"], publisher: "DataPress", edition: "2nd", publication_year: 2021 },
-  { id: 1, title: "Introduction to Algorithms", authors: ["Thomas H. Cormen"], publisher: "MIT Press", edition: "4th", publication_year: 2022 },
-  { id: 2, title: "Database System Concepts", authors: ["Abraham Silberschatz"], publisher: "McGraw-Hill", edition: "7th", publication_year: 2019 },
-  { id: 3, title: "Clean Code: A Handbook of Agile Software Craftsmanship", authors: ["Robert C. Martin"], publisher: "Prentice Hall", edition: "1st", publication_year: 2008 },
-  { id: 4, title: "Designing Data-Intensive Applications", authors: ["Martin Kleppmann"], publisher: "O'Reilly Media", edition: "1st", publication_year: 2017 },
-];
-
-// Parse books.json to extract unique publishers and categories (and other filters)
-const extractFilterOptions = () => {
-  const publishers = [...new Set(booksData.map(b => b.publisher))].sort();
-  const categories = [...new Set(booksData.flatMap(b => b.categories || []))].sort();
-  const languages = [...new Set(booksData.map(b => b.language))].sort();
-  const years = [...new Set(booksData.map(b => b.publication_year))].sort((a, b) => b - a);
-  const authors = [...new Set(booksData.flatMap(b => b.authors || []))].sort();
-  
-  return {
-    authors,
-    publishers,
-    categories,
-    languages,
-    years
-  };
-};
-
-const MOCK_BOOK = {
-  id: 5,
-  title: "Mastering Database Systems and Query Optimization Techniques",
-  description: "This book provides a deep understanding of database systems and how to optimize queries for performance. It begins with relational models and SQL fundamentals before diving into indexing, query planning, and execution. The book explains how databases use B-trees, hash indexes, and other structures internally. It also explores transaction management, ACID properties, and concurrency control mechanisms. Readers will learn how query optimizers work and how to write efficient queries. The book covers both relational and NoSQL systems, highlighting their differences and use cases. It also discusses distributed databases and replication strategies. Practical examples show how to diagnose slow queries and improve performance. By the end, readers will have a strong grasp of how databases operate internally and how to optimize them effectively.",
-  publisher: "DataPress",
-  publication_year: 2021,
-  edition: "2nd",
-  language: "English",
-  authors: ["Jennifer Widom"],
-  categories: ["Databases"],
-  tags: ["sql", "optimization", "indexing"],
-  pages: 780,
-  isbn: "9780000000005",
-};
 
 function BookIcon({ size = 40, color = "#a78bfa" }) {
   return (
@@ -78,7 +38,7 @@ function BookIconLarge() {
   );
 }
 
-function Navbar() {
+function Navbar({ currentPage, onPageChange }) {
   return (
     <nav className="navbar">
       <div className="navbar-inner">
@@ -99,9 +59,18 @@ function Navbar() {
           <span className="brand-name">Inverto</span>
         </div>
         <div className="navbar-links">
-          <a href="#">Explore</a>
-          <a href="#">Collections</a>
-          <a href="#">About</a>
+          <button 
+            className={`nav-link ${currentPage === 'search' ? 'active' : ''}`}
+            onClick={() => onPageChange('search')}
+          >
+            Explore
+          </button>
+          <button 
+            className={`nav-link ${currentPage === 'insert' ? 'active' : ''}`}
+            onClick={() => onPageChange('insert')}
+          >
+            Add Book
+          </button>
         </div>
       </div>
     </nav>
@@ -238,8 +207,7 @@ function FilterModal({ isOpen, onClose, onApply, filterOptions }) {
     author: "",
     publisher: "",
     category: "",
-    language: "",
-    year: ""
+    language: ""
   });
 
   const handleFilterChange = (filterKey, value) => {
@@ -259,8 +227,7 @@ function FilterModal({ isOpen, onClose, onApply, filterOptions }) {
       author: "",
       publisher: "",
       category: "",
-      language: "",
-      year: ""
+      language: ""
     });
   };
 
@@ -330,20 +297,6 @@ function FilterModal({ isOpen, onClose, onApply, filterOptions }) {
               ))}
             </select>
           </div>
-
-          <div className="filter-group">
-            <label>Publication Year</label>
-            <select 
-              value={tempFilters.year} 
-              onChange={(e) => handleFilterChange("year", e.target.value)}
-              className="filter-select"
-            >
-              <option value="">Any Year</option>
-              {filterOptions.years.map((year, idx) => (
-                <option key={idx} value={year}>{year}</option>
-              ))}
-            </select>
-          </div>
         </div>
 
         <div className="filter-modal-footer">
@@ -356,6 +309,7 @@ function FilterModal({ isOpen, onClose, onApply, filterOptions }) {
 }
 
 function App() {
+  const [currentPage, setCurrentPage] = useState("search");
   const [query, setQuery] = useState("");
   const [suggestions, setSuggestions] = useState([]);
   const [showSuggestions, setShowSuggestions] = useState(false);
@@ -370,12 +324,38 @@ function App() {
     publisher: "",
     category: "",
     language: "",
-    year: ""
+    year_gte: "",
+    year_lte: ""
   });
-  const [filterOptions] = useState(extractFilterOptions());
+  const [filterOptions, setFilterOptions] = useState({
+    authors: [],
+    publishers: [],
+    categories: [],
+    languages: []
+  });
   const debounceRef = useRef(null);
   const searchRef = useRef(null);
   const detailRef = useRef(null);
+
+  // Fetch filter options from API on component mount
+  useEffect(() => {
+    const fetchFilterOptions = async () => {
+      try {
+        const res = await axios.get(`${API_BASE}/api/search/filters/options`);
+        setFilterOptions(res.data);
+      } catch (err) {
+        console.error('Error fetching filter options:', err);
+        // Fallback to empty filter options if API fails
+        setFilterOptions({
+          authors: [],
+          publishers: [],
+          categories: [],
+          languages: []
+        });
+      }
+    };
+    fetchFilterOptions();
+  }, []);
 
   useEffect(() => {
     const t = setTimeout(() => setHeroVisible(true), 100);
@@ -395,7 +375,19 @@ function App() {
   const fetchSuggestions = useCallback(async (q) => {
     if (!q.trim()) { setSuggestions([]); return; }
     try {
-      const res = await axios.post(`${API_BASE}/api/search/auto-complete`, { query: q });
+      // Build filters object excluding empty values
+      const filters = {};
+      if (selectedFilters.author) filters.author = selectedFilters.author;
+      if (selectedFilters.publisher) filters.publisher = selectedFilters.publisher;
+      if (selectedFilters.category) filters.category = selectedFilters.category;
+      if (selectedFilters.language) filters.language = selectedFilters.language;
+      if (selectedFilters.year_gte) filters.year_gte = parseInt(selectedFilters.year_gte);
+      if (selectedFilters.year_lte) filters.year_lte = parseInt(selectedFilters.year_lte);
+
+      const res = await axios.post(`${API_BASE}/api/search/auto-complete`, { 
+        query: q,
+        filters: filters 
+      });
       console.log('Auto-complete response:', res.data);
       let results = res.data;
       
@@ -417,13 +409,10 @@ function App() {
       setSuggestions(results || []);
     } catch (err) {
       console.error('Fetch error:', err);
-      const filtered = MOCK_AUTOCOMPLETE.filter(b =>
-        b.title.toLowerCase().includes(q.toLowerCase()) ||
-        b.authors.some(a => a.toLowerCase().includes(q.toLowerCase()))
-      );
-      setSuggestions(filtered);
+      // No fallback - just show empty suggestions on error
+      setSuggestions([]);
     }
-  }, []);
+  }, [selectedFilters]);
 
   const handleInput = (e) => {
     const val = e.target.value;
@@ -441,8 +430,10 @@ function App() {
     try {
       const res = await axios.get(`${API_BASE}/api/book/${book.id}`);
       setSelectedBook(res.data);
-    } catch {
-      setSelectedBook(MOCK_BOOK);
+    } catch (err) {
+      console.error('Error fetching book details:', err);
+      // Don't set selectedBook on error - let the user see the error in the UI
+      setSelectedBook(null);
     }
     setLoading(false);
     setTimeout(() => detailRef.current?.scrollIntoView({ behavior: "smooth", block: "start" }), 100);
@@ -470,7 +461,8 @@ function App() {
     if (selectedFilters.publisher) filters.publisher = selectedFilters.publisher;
     if (selectedFilters.category) filters.category = selectedFilters.category;
     if (selectedFilters.language) filters.language = selectedFilters.language;
-    if (selectedFilters.year) filters.year = selectedFilters.year;
+    if (selectedFilters.year_gte) filters.year_gte = parseInt(selectedFilters.year_gte);
+    if (selectedFilters.year_lte) filters.year_lte = parseInt(selectedFilters.year_lte);
 
     console.log('Filters being sent from frontend:', filters);
 
@@ -542,8 +534,9 @@ function App() {
       <div className="bg-glow glow-2" />
       <div className="bg-glow glow-3" />
 
-      <Navbar />
+      <Navbar currentPage={currentPage} onPageChange={setCurrentPage} />
 
+      {currentPage === "search" && (
       <main className="main-content">
         <div className={`hero ${heroVisible ? "hero-visible" : ""}`}>
           <div className="hero-eyebrow">Campus Library Intelligence</div>
@@ -643,6 +636,13 @@ function App() {
           </div>
         )}
       </main>
+      )}
+
+      {currentPage === "insert" && (
+        <div className="main-content">
+          <InsertBook />
+        </div>
+      )}
 
       <FilterModal 
         isOpen={showFilterModal}

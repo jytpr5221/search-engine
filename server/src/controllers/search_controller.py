@@ -1,8 +1,8 @@
 import logging
 from fastapi import HTTPException
-from configs.db_config import search_db
+from src.configs.db_config import search_db
 import json
-from utility.reform_queries import reformulate_query
+from src.utility.reform_queries import reformulate_query
 
 index_option = {
   "settings": {
@@ -254,7 +254,8 @@ class SearchController:
                         "title^5",
                         "authors^4",
                         "tags^3",
-                        "publisher.text^3"
+                        "publisher.text^3",
+                        "categories.text^2"
                     ]
                     }
                 },
